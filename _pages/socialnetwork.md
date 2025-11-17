@@ -3,6 +3,12 @@ title: "My Socials"
 ---
 
 <table>
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+    <col style="width: 20%;">
+    <col style="width: 40%;"> <!-- Description column twice as wide -->
+  </colgroup>
   <thead>
     <tr>
       <th>Service</th>
