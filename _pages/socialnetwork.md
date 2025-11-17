@@ -1,5 +1,8 @@
 ---
 title: "My Socials"
+layout: single
+sidebar:
+  nav: false
 ---
 
 <div style="text-align: center; margin: 20px 0;">
