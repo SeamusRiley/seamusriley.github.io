@@ -74,7 +74,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+favicon: "/assets/images/home - favicon bw.png"
 footer:
   links:
     - label: "Twitter"
