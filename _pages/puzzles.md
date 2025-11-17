@@ -1,6 +1,7 @@
 ---
 title: "Puzzles"
 layout: single
+author_profile: false
 ---
 
 Some people make Christmas cards, I make Christmas ciphers.
