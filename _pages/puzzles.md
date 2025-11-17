@@ -3,7 +3,8 @@ title: ""
 layout: single
 header:
   image: /assets/images/puzzles.svg
-  image_size: 200px
+  overlay: false
+  classes: small-header
 ---
 
 Some people make Christmas cards, I make Christmas ciphers.
