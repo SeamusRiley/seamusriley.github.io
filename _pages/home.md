@@ -5,12 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 ---
-<body>
-  <div>
-     <img src="{{ '/assets/images/home2.png' | relative_url }}" alt="Home image" style="max-width: 600px; border-radius: 12px;">
-  </div>
-</body>
- 
+<img src="{{ '/assets/images/home2.png' | relative_url }}" alt="Home image" style="max-width: 600px; border-radius: 12px;">
 ### Architecture
 - Resume
 - Portfolio
