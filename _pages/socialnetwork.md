@@ -3,6 +3,10 @@ title: "My Socials"
 layout: single
 sidebar:
   nav: false
+author_profile: false
+related: false
+share: false
+comments: false
 ---
 
 <div style="text-align: center; margin: 20px 0;">
