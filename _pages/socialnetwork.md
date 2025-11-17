@@ -33,7 +33,13 @@ comments: false
       <td>Discord</td>
       <td><a href="https://discord.com/users/seamusriley" target="_blank">seamusriley</a></td>
       <td>Everything</td>
-      <td>Discord is my primary social media. I like it because it has no ads, promoted content, or algorithm, and is just a big clubhouse for me and my friends.<br>It is also fully searchable, making it a great place to find random snippets of conversations that I had with Erek Webb four years ago.<br>I am on Discord all the time, and whenever I have multiple means to keep in touch with someone, Discord is my preferred. Every other social media platform and messaging avenue is just a way to reach people I don't already have on Discord.</td>
+      <td>
+        <details>
+          <summary>Click to expand</summary>
+          Discord is my primary social media. I like it because it has no ads, promoted content, or algorithm, and is just a big clubhouse for me and my friends.<br>
+          It is also fully searchable, making it a great place to find random snippets of conversations that I had with Erek Webb four years ago.<br>
+          I am on Discord all the time, and whenever I have multiple means to keep in touch with someone, Discord is my preferred. Every other social media platform and messaging avenue is just a way to reach people I don't already have on Discord.
+        </details>
     </tr>
     <tr>
       <td>Phone</td>
