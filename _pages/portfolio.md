@@ -1,5 +1,8 @@
 ---
 title: "Portfolio"
+layout: single
+sidebar:
+  nav: false
 author_profile: false
 ---
 
