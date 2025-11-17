@@ -2,6 +2,10 @@
 title: "My Socials"
 ---
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/assets/images/social%20network.png" alt="various social media logos connected by little threads with Discord at the center" style="max-width: 50%; height: auto;">
+</div>
+
 <table>
   <colgroup>
     <col style="width: 10%;">
