@@ -6,10 +6,19 @@ sidebar:
 author_profile: false
 ---
 
-  <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/home.png" alt="picture of a man's face" style="max-width: 50%; height: auto;">
-</div>
+<p style="text-align:center;">
+  <img src="{{ '/assets/images/home2.png' | relative_url }}" alt="Home image" style="max-width: 600px; border-radius: 12px;">
+</p>
 
 Architecture
+  Resume
+  Portfolio
+  Blog
 Philosophy
+  Content
+  Blog
 Personal
+  Bio
+  Social Network
+  Blog
+  Puzzles!
