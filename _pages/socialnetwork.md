@@ -9,10 +9,6 @@ share: false
 comments: false
 ---
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/socialnetwork.png" alt="various social media logos connected by little threads with Discord at the center" style="max-width: 50%; height: auto;">
-</div>
-
 <table>
   <colgroup>
     <col style="width: 10%;">
@@ -152,3 +148,7 @@ comments: false
     </tr>
   </tbody>
 </table>
+
+  <div style="text-align: center; margin: 20px 0;">
+  <img src="/assets/images/socialnetwork.png" alt="various social media logos connected by little threads with Discord at the center" style="max-width: 50%; height: auto;">
+</div>
