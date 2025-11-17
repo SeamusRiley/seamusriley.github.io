@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Puzzles"
 layout: single
-header:
-  image: /assets/images/puzzles.svg
-  overlay: false
-  classes: small-header
 ---
 
 Some people make Christmas cards, I make Christmas ciphers.
