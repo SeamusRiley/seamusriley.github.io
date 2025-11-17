@@ -24,7 +24,7 @@ author_profile: false
   <tbody>
     <tr>
       <td>Discord</td>
-      <td><a href="https://discord.com/users/seamusriley" target="_blank">seamusriley</a></td>
+      <td><a href="https://discord.gg/aPdsJA5dtm" target="_blank">seamusriley</a></td>
       <td>Everything</td>
       <td>
         <details>
