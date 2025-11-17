@@ -116,4 +116,15 @@ title: "My Socials"
     </tr>
     <tr>
       <td>Spam Gmail</td>
-      <td><a href="mailto:s.rileybyrne@gmail.com">s.rileyb
+      <td><a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a></td>
+      <td>all email that isn't special and personal</td>
+      <td>This is the email address I created when I was 17 that I still use to sign up for everything on earth. I do check it, but it's a spam inferno.</td>
+    </tr>
+    <tr>
+      <td>Address</td>
+      <td>1300 Main St #216 Cross Plains, Wisconsin 53528</td>
+      <td>Cards & Deliveries</td>
+      <td>I love writing letters, and will tend to reply in kind</td>
+    </tr>
+  </tbody>
+</table>
