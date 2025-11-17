@@ -114,3 +114,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+# Fonts
+fonts:
+  body: Montserrat, sans-serif
+  heading: Montserrat, sans-serif
+
+google_fonts:
+  - family: Montserrat
+    weights: "400,700"
