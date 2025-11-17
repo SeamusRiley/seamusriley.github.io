@@ -4,9 +4,6 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-related: false
-share: false
-comments: false
 ---
 
 <table>
