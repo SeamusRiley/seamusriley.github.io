@@ -46,7 +46,13 @@ comments: false
       <td>Phone</td>
       <td><a href="tel:16088432556">1 608 843 2556</a></td>
       <td>Important calls and casual texts</td>
-      <td>Generally speaking, phone is a more urgent means of reaching me. I will tend to respond to texts within 24 hours, but if you're cold-texting me, remember to introduce yourself as I may not have your contact info.<br>I also keep my phone on silent at all times except for certain individuals that have ring clearance, so texts are more reliable than calls.</td>
+      <td>
+        <details>
+          <summary>Click to expand</summary>summary>
+          Generally speaking, phone is a more urgent means of reaching me. I will tend to respond to texts within 24 hours, but if you're cold-texting me, remember to introduce yourself as I may not have your contact info.<br>I also keep my phone on silent at all times except for certain individuals that have ring 
+          clearance, so texts are more reliable than calls.
+        </details>
+      </td>
     </tr>
     <tr>
       <td>Youtube</td>
