@@ -61,8 +61,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Architecture guy from the midwest. Big on living."
   links:
-favicon: "/assets/images/home - favicon bw.png"
-footer:
+favicon: "/assets/images/home%20-%20favicon%20bw.png"
+footer: "/assets/images/home%20-%20crest.svg"
   links:
 
 defaults:
