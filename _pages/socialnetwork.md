@@ -16,7 +16,7 @@ title: "My Socials"
   <thead>
     <tr>
       <th>Service</th>
-      <th>ID</th>
+      <th>Identity</th>
       <th>Used For</th>
       <th>Description</th>
     </tr>
