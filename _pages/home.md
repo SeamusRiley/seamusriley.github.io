@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 layout: single
 sidebar:
   nav: false
