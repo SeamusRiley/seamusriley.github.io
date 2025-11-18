@@ -5,7 +5,7 @@ sidebar:
 nav: false 
 author_profile: false 
 ---
-<img src= '/assets/images/home2.png' alt = "Home image" width="50%"> 
+<img src= '/assets/images/home3.png' alt = "Home image" width="50%"> 
 
 ### Architecture 
 - Resume 
