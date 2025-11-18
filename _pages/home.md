@@ -1,9 +1,9 @@
 --- 
 title: "" 
 layout: single 
-sidebar: nav: 
-false author_profile: 
-false 
+sidebar: 
+nav: false 
+author_profile: false 
 ---
 <img src= '/assets/images/home2.png' alt = "Home image" width="50%"> 
 ### Architecture 
