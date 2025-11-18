@@ -14,5 +14,5 @@ If you do download a bootleg puzzle to enjoy, please leave an appropriate donati
 
 [🫙Venmo](https://venmo.com/SaemusRiley1326){: .btn .btn--success }
 
-[<i class="fas fa-heart"></i> Tip on Venmo](https://venmo.com/SaemusRiley1326){: .btn }
+[<i class="fas fa-heart"></i> Venmo](https://venmo.com/SaemusRiley1326){: .btn }
 
