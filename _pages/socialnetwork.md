@@ -129,13 +129,23 @@ author_profile: false
       <td>Personal Gmail</td>
       <td><a href="mailto:seamusbyrneriley@gmail.com">seamusbyrneriley@gmail.com</a></td>
       <td>Correspondence</td>
-      <td>This is my "clean" email. Please don't sign me up for any mailing lists with it, haha.</td>
+      <td>
+       <details>
+          <summary>Click to expand</summary>
+         This is my "clean" email. Please don't sign me up for any mailing lists with it, haha.
+        </details>
+      </td>
     </tr>
     <tr>
       <td>Spam Gmail</td>
       <td><a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a></td>
       <td>all email that isn't special and personal</td>
-      <td>This is the email address I created when I was 17 that I still use to sign up for everything on earth. I do check it, but it's a spam inferno.</td>
+      <td>
+       <details>
+          <summary>Click to expand</summary>
+         This is the email address I created when I was 17 that I still use to sign up for everything on earth. I do check it, but it's a spam inferno.
+        </details>
+      </td>
     </tr>
     <tr>
       <td>Address</td>
