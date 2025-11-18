@@ -10,15 +10,15 @@ author_profile: false
 
 ### Architecture
 - Resume
-- Portfolio
-- Blog
+- [Portfolio](/portfolio/)
+- [Blog](/blog/)
 
 ### Philosophy
-- Content
-- Blog
+- [Content](/content/)
+- [Blog](/blog/)
 
 ### Personal
 - Bio
-- Social Network
-- Blog
-- Puzzles!
+- [Social Network](/socialnetwork/)
+- [Blog](/blog/)
+- [Puzzles!](/puzzles/)
