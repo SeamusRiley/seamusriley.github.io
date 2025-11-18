@@ -105,3 +105,8 @@ google_fonts:
 
 nav_exclude:
   - home
+
+collections:
+  videos:
+    output: true
+    permalink: /videos/:name/
