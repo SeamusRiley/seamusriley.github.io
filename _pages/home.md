@@ -11,16 +11,12 @@ author_profile: false
 ### Architecture 
 - <a href="/assets/files/seamus-riley_resume_2025-11-05.pdf" download>Resume</a>
 - [Portfolio](/portfolio/) 
-- [Blog](/blog/) 
-
 
 ### Philosophy 
 - [Content](/content/) 
-- [Blog](/blog/)
-
 
 ### Personal 
-- Bio 
+- [Bio](/blog/shortbio/) 
 - [Social Network](/socialnetwork/) 
 - [Blog](/blog/) 
 - [Puzzles!](/puzzles/)
