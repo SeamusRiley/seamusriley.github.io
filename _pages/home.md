@@ -15,7 +15,7 @@ author_profile: false
 ### Philosophy 
 - [Content](/content/) 
 - [Blog](/blog/)
-- 
+
 ### Personal 
 - Bio 
 - [Social Network](/socialnetwork/) 
