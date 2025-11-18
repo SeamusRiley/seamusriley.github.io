@@ -1,9 +1,7 @@
 ---
 title: "Blog"
-layout: posts
+layout: home
 sidebar:
   nav: false
 author_profile: false
 ---
-
-This is the Blog page!
