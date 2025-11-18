@@ -9,7 +9,7 @@ author_profile: false
 
 
 ### Architecture 
-- Resume 
+- <a href="/assets/files/seamus-riley_resume_2025-11-05.pdf" download>Resume</a>
 - [Portfolio](/portfolio/) 
 - [Blog](/blog/) 
 
