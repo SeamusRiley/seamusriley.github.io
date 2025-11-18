@@ -1,9 +1,12 @@
 ---
 title: "Content"
-layout: single
+layout: collection
+collection: videos
+entries_layout: grid
+classes: wide
 sidebar:
   nav: false
 author_profile: false
 ---
 
-This is the Content page!
+My Videos
