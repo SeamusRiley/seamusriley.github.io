@@ -1,6 +1,6 @@
 main:
-- title: "Home"
-  url: /home/
+#- title: "Home"
+#  url: /home/
 - title: "Porfolio"
   url: /portfolio/
 - title: "Content"
