@@ -117,7 +117,12 @@ author_profile: false
       <td>LinkedIn</td>
       <td><a href="https://www.linkedin.com/in/seamus-riley" target="_blank">seamus-riley</a></td>
       <td>Employment status</td>
-      <td>I use this only when changing jobs. The app is far too bloated with boilerplate content for my tastes. The concept of a sponsored direct message also annoys me.</td>
+      <td>
+          <details>
+          <summary>Click to expand</summary>
+         I use this only when changing jobs. The app is far too bloated with boilerplate content for my tastes. The concept of a sponsored direct message also annoys me.
+        </details>
+      </td>
     </tr>
     <tr>
       <td>Reddit</td>
