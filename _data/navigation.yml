@@ -1,7 +1,7 @@
 main:
 #- title: "Home"
 #  url: /home/
-- title: "Porfolio"
+- title: "Portfolio"
   url: /portfolio/
 - title: "Content"
   url: /content/
@@ -9,7 +9,7 @@ main:
   url: /blog/
 - title: "Puzzles"
   url: /puzzles/
-- title: "Social Network"
+- title: "My Socials"
   url: /socialnetwork/
 #  - title: "Posts"
 #    url: /posts/
