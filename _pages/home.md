@@ -26,5 +26,6 @@ author_profile: false
 
 
 
-
-<img src="/assets/images/home%20-%20crest.svg" alt="Crest" width="150">
+<a href="/blog/crest/">
+  <img src="/assets/images/home - crest.svg" alt="Crest" width="150">
+</a>
