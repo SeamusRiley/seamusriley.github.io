@@ -20,7 +20,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: false
-home_url: /home/
 
 # Build settings
 markdown: kramdown
@@ -104,9 +103,6 @@ google_fonts:
     weights: "400,700"
 
 logo: /assets/images/signaturefull.svg
-
-nav_exclude:
-  - home
 
 collections:
   videos:
