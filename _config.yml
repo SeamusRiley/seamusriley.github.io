@@ -78,6 +78,7 @@ defaults:
       comments: true
       share: false
       related: false
+      classes: no-pagination
   # _pages
   - scope:
       path: "_pages"
