@@ -103,6 +103,8 @@ google_fonts:
   - family: Montserrat
     weights: "400,700"
 
+logo: /assets/images/signaturefull.svg
+
 nav_exclude:
   - home
 
