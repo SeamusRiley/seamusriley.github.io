@@ -6,17 +6,17 @@ header:
 
 gallery:
   - url: /assets/images/starship/starship1.jpg
-    image_path: /assets/images/starship/starship1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    image_path: /assets/images/starship/starship1.jpg
+    alt: "Winter"
+    title: "Winter"
   - url: /assets/images/starship/starship2.jpg
-    image_path: /assets/images/starship/starship2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    image_path: /assets/images/starship/starship2.jpg
+    alt: "Window Side"
+    title: "Window Side"
   - url: /assets/images/starship/starship3.jpg
-    image_path: /assets/images/starship/starship3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    image_path: /assets/images/starship/starship3.jpg
+    alt: "Entry Side"
+    title: "Entry Side"
 
 
 images:
@@ -38,5 +38,5 @@ I created the starship to be private and moveable workspace for my younger broth
 
 ### Photos
 
-{% include gallery caption="test" 
+{% include gallery caption="click to view" 
 %}
