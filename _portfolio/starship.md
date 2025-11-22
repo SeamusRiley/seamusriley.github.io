@@ -5,20 +5,26 @@ header:
   teaser: /assets/images/starship/starship3.jpg
 
 gallery:
-  - url: /assets/images/starship/starship1.jpg
-    image_path: /assets/images/starship/starship1.jpg
-    alt: "Winter"
-    title: "Winter"
-    
-  - url: /assets/images/starship/interiorelevation2.jpg
-    image_path: /assets/images/starship/interiorelevation2.jpg
-    alt: "Bow"
-    title: "Bow"
-    
+
   - url: /assets/images/starship/starship3.jpg
     image_path: /assets/images/starship/starship3.jpg
     alt: "Entry Side"
     title: "Entry Side"
+    
+  - url: /assets/images/starship/cleanstructure.jpg
+    image_path: /assets/images/starship/cleanstructure.jpg
+    alt: "Structure"
+    title: "Structure"
+
+  - url: /assets/images/starship/interiorelevation2.jpg
+    image_path: /assets/images/starship/interiorelevation2.jpg
+    alt: "Bow"
+    title: "Bow"
+
+  - url: /assets/images/starship/starship2.jpg
+    image_path: /assets/images/starship/starship2.jpg
+    alt: "Window Side"
+    title: "Window Side"
     
   - url: /assets/images/starship/windows.jpg
     image_path: /assets/images/starship/windows.jpg
@@ -35,10 +41,15 @@ gallery:
     alt: "Workstation"
     title: "Workstation"
 
-  - url: /assets/images/starship/starship2.jpg
-    image_path: /assets/images/starship/starship2.jpg
-    alt: "Window Side"
-    title: "Window Side"
+  - url: /assets/images/starship/continuousinsulation.jpg
+    image_path: /assets/images/starship/continuousinsulation.jpg
+    alt: "Insulation"
+    title: "Insulation"
+
+  - url: /assets/images/starship/starship1.jpg
+    image_path: /assets/images/starship/starship1.jpg
+    alt: "Winter"
+    title: "Winter"
 
 ---
 
