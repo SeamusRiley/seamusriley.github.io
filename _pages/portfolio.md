@@ -8,5 +8,3 @@ sidebar:
 author_profile: false
 search: false
 ---
-
-""
