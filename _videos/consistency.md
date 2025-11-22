@@ -7,5 +7,6 @@ author_profile: false
 ---
 If you want to be consistent, don't force yourself.
 
+[![Watch on YouTube](https://img.youtube.com/vi/i-gcrMlmbbI/hqdefault.jpg)](https://www.youtube.com/watch?v=i-gcrMlmbbI)
 
 https://www.youtube.com/shorts/i-gcrMlmbbI
