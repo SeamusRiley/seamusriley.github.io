@@ -87,6 +87,16 @@ defaults:
       layout: single
       author_profile: true
       permalink: /:basename/
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      sidebar:
+        nav: false
 
 category_archive:
   type: liquid
@@ -106,6 +116,9 @@ google_fonts:
 logo: /assets/images/home%20-%20signaturefull.svg
 
 collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
   videos:
     output: true
     permalink: /videos/:name/
