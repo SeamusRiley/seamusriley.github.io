@@ -17,12 +17,15 @@ gallery:
     image_path: /assets/images/starship/starship3.jpg
     alt: "Entry Side"
     title: "Entry Side"
+  - url: /assets/images/starship/windows.jpg
+    image_path: /assets/images/starship/windows.jpg
+    alt: "Windows"
+    title: "Windows"
+  - url: /assets/images/starship/workstation.jpg
+    image_path: /assets/images/starship/workstation.jpg
+    alt: "Workstation"
+    title: "Workstation"
 
-
-images:
-  - /assets/images/starship/starship1.jpg
-  - /assets/images/starship/starship2.jpg
-  - /assets/images/starship/starship3.jpg
 ---
 
 ### Type 
