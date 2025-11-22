@@ -4,6 +4,21 @@ excerpt: "A Place For Eli"
 header:
   teaser: /assets/images/starship/starship3.jpg
 
+gallery:
+  - url: /assets/images/starship/starship1.jpg
+    image_path: /assets/images/starship/starship1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/starship/starship2.jpg
+    image_path: /assets/images/starship/starship2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/starship/starship3.jpg
+    image_path: /assets/images/starship/starship3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+
 images:
   - /assets/images/starship/starship1.jpg
   - /assets/images/starship/starship2.jpg
@@ -20,3 +35,6 @@ images:
 
 ### Narrative
 I created the starship to be private and moveable workspace for my younger brother. The outward-canted walls came out of sensitivity to interior space. We were limited in floor space by moveability and regulation, so the question was "how can I make a <100 square foot building feel more spacious?" and the answer was to lean the walls out, and eliminate any cross-bridging through the space by supporting all lateral loads with two end trusses. The equilaterial star shape came out of material frugality, as I was able to build essentially the same framing and envelope assembly around all faces of the building with minimal remeasuring.
+
+{% include gallery caption="test" 
+%}
