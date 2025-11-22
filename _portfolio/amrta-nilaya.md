@@ -1,6 +1,8 @@
 ---
 title: "Amrta-Nilaya"
 excerpt: "A healthy homestead"
+header:
+  teaser: /assets/images/Amrita-Nilaya/.jpg
 ---
 
 ### Type 
