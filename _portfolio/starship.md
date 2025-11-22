@@ -9,22 +9,36 @@ gallery:
     image_path: /assets/images/starship/starship1.jpg
     alt: "Winter"
     title: "Winter"
-  - url: /assets/images/starship/starship2.jpg
-    image_path: /assets/images/starship/starship2.jpg
-    alt: "Window Side"
-    title: "Window Side"
+    
+  - url: /assets/images/starship/interiorelevation2.jpg
+    image_path: /assets/images/starship/interiorelevation2.jpg
+    alt: "Bow"
+    title: "Bow"
+    
   - url: /assets/images/starship/starship3.jpg
     image_path: /assets/images/starship/starship3.jpg
     alt: "Entry Side"
     title: "Entry Side"
+    
   - url: /assets/images/starship/windows.jpg
     image_path: /assets/images/starship/windows.jpg
     alt: "Windows"
     title: "Windows"
+
+  - url: /assets/images/starship/interiorelevation1.jpg
+    image_path: /assets/images/starship/interiorelevation1.jpg
+    alt: "Stern"
+    title: "Stern"
+    
   - url: /assets/images/starship/workstation.jpg
     image_path: /assets/images/starship/workstation.jpg
     alt: "Workstation"
     title: "Workstation"
+
+  - url: /assets/images/starship/starship2.jpg
+    image_path: /assets/images/starship/starship2.jpg
+    alt: "Window Side"
+    title: "Window Side"
 
 ---
 
@@ -41,5 +55,5 @@ I created the starship to be private and moveable workspace for my younger broth
 
 ### Photos
 
-{% include gallery caption="click to view" 
+{% include gallery caption="panel view" 
 %}
