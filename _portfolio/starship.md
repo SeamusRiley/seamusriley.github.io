@@ -1,6 +1,8 @@
 ---
 title: "The Starship"
 excerpt: "A Place For Eli"
+header:
+  teaser: /assets/images/starship/starship3.jpg
 ---
 
 ### Type 
