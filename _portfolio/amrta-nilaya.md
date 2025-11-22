@@ -2,14 +2,11 @@
 title: "Amrta-Nilaya"
 excerpt: "A healthy homestead"
 header:
-  teaser: /assets/images/amrita-nilaya.jpg
-images:
-  - /assets/images/amrita-nilaya/amrita-nilaya.jpg
-  - /assets/images/amrita-nilaya/amrita-nilaya-plan.jpg
+  teaser: /assets/images/amrita-nilaya/amrita-nilaya.jpg
 
 gallery:
-  - url: /assets/images/amrita-nilaya/amrta-nilaya.jpg
-    image_path: /assets/images/amrita-nilaya/amrta-nilaya.jpg
+  - url: /assets/images/amrita-nilaya/amrita-nilaya.jpg
+    image_path: /assets/images/amrita-nilaya/amrita-nilaya.jpg
     alt: "Exterior Rendering"
     title: "Exterior Rendering"
   - url: /assets/images/amrita-nilaya/amrita-nilaya-plan.jpg
