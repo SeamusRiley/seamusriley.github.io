@@ -1,6 +1,8 @@
 ---
 title: "Portfolio"
-layout: single
+layout: collection
+collection: portfolio
+entries_layout: grid
 sidebar:
   nav: false
 author_profile: false
