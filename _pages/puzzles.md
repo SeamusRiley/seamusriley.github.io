@@ -13,3 +13,5 @@ It is my annual tradition to draft a puzzle that celebrates whatever topic I lea
 If you do download a bootleg puzzle to enjoy, please leave an appropriate donation in my digital tip jar. Thanks!
 
 [🫙Venmo](https://venmo.com/SaemusRiley1326){: .btn .btn--success }
+
+(I haven't gotten the PDFs put together just yet)
