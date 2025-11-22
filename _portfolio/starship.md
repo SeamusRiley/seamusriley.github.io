@@ -41,7 +41,7 @@ gallery:
     alt: "Workstation"
     title: "Workstation"
 
-  - url: /assets/images/starship/continuousinsulation.jpg
+  - url: /assets/images/starship/continuousinsulation3.jpg
     image_path: /assets/images/starship/continuousinsulation.jpg
     alt: "Insulation"
     title: "Insulation"
