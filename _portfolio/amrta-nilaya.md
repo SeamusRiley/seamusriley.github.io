@@ -2,10 +2,10 @@
 title: "Amrta-Nilaya"
 excerpt: "A healthy homestead"
 header:
-  teaser: /assets/images/Amrita-Nilaya/.jpg
+  teaser: /assets/images/amrita-nilaya.jpg
 images:
-  - /assets/images/amrita-nilaya/Amrita-Nilaya.jpg
-  - /assets/images/amrita-nilaya/Amrita-Nilaya_Plan.jpg
+  - /assets/images/amrita-nilaya/amrita-nilaya.jpg
+  - /assets/images/amrita-nilaya/amrita-nilaya-plan.jpg
 ---
 
 ### Type 
