@@ -12,6 +12,10 @@ It is my annual tradition to draft a puzzle that celebrates whatever topic I lea
 
 <a href="/assets/files/riley_puzzle_2023_architecture.pdf" download>2023 Puzzle</a>
 
+<a href="/assets/files/riley_puzzle_2023_architecture.pdf" target="_blank">
+  <img src="/assets/images/2023.png" alt="PDF Preview" width="300">
+</a>
+
 <a href="/assets/files/riley_puzzle_2024_dance.pdf" download>2024 Puzzle</a>
 
 <a href="/assets/files/riley_puzzle_2024_dance.pdf" target="_blank">
