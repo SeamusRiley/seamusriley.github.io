@@ -14,5 +14,9 @@ It is my annual tradition to draft a puzzle that celebrates whatever topic I lea
 
 <a href="/assets/files/riley_puzzle_2024_dance.pdf" download>2024 Puzzle</a>
 
+<a href="/assets/files/riley_puzzle_2024_dance.pdf" target="_blank">
+  <img src="/assets/images/2024.png" alt="PDF Preview" width="300">
+</a>
+
 If you do download a bootleg puzzle to enjoy, please leave an appropriate donation in my digital tip jar. Thanks!
 [🫙Venmo](https://venmo.com/SaemusRiley1326){: .btn .btn--success }
