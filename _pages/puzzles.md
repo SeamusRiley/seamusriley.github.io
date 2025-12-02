@@ -17,5 +17,3 @@ If you do download a bootleg puzzle to enjoy, please leave an appropriate donati
 <a href="/assets/files/riley_puzzle_2024_dance.pdf" download>2024 Puzzle</a>
 
 [🫙Venmo](https://venmo.com/SaemusRiley1326){: .btn .btn--success }
-
-(I haven't gotten the PDFs put together just yet)
