@@ -22,10 +22,10 @@ It is my annual tradition to draft a puzzle that celebrates whatever topic I lea
   <img src="/assets/images/2024.png" alt="PDF Preview" width="300">
 </a>
 
-<a href="/assets/files/riley_puzzle_2025_psychology.pdf" download>2024 Puzzle</a>
+<a href="/assets/files/riley_puzzle_2025_psychology.pdf" download>2025 Puzzle</a>
 
 <a href="/assets/files/riley_puzzle_2025_psychology.pdf" target="_blank">
-  <img src="/assets/images/2024.png" alt="PDF Preview" width="300">
+  <img src="/assets/images/2025.png" alt="PDF Preview" width="300">
 </a>
 
 If you do download a bootleg puzzle to enjoy, please leave an appropriate donation in my digital tip jar. Thanks!
