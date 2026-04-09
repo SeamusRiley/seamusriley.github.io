@@ -20,14 +20,14 @@ Our favorite things say a lot about us. At a certain point I started recording m
   - Music
     - Band:
       - Of Monsters and Men
-        - Saint Motel
         - Jethro Tull
-        - Yes
         - Emerson Lake and Palmer
         - Creedance Clearwater Revival
         - Nickel Creek
         - Crosby Stills Nash and Young
         - Simon and Garfunkel
+        - Yes
+        - Saint Motel
     - Track:
       - This Side, Nickel Creek
     - Solo Artist:
