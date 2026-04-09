@@ -37,6 +37,9 @@ Our favorite things say a lot about us. At a certain point I started recording m
       - Marrin County Civic Center
     - Cinematography:
       - The Secret Life of Walter Mitty
+        - Cyrano De Bergerac
+        - Meet The Robinsons
+        - Project Hail Mary
     - Literature:
       - Atlas Shrugged
     - Music (See other section)
@@ -58,7 +61,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - Guy/Gal (Life Generalist)
       - Arthur Zey
     - Person
-      - [Redacted]
+      - Darcy Biddle
     - Actor/Actress
       - John Lithgow
     - Comedian
@@ -70,7 +73,6 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - YouTuber:
       - Technology Connections
         - Styropyro
-        - Jschlatt
     - Streamer:
       - ExtraEmily
     - Author
@@ -79,6 +81,10 @@ Our favorite things say a lot about us. At a certain point I started recording m
       - Roger Federer
     - Architect
       - Frank Lloyd Wright
+  - Animal
+    - Jackrabbit
+      - Owl
+      - Naked Mole Rat
 
 - Game
   - Title
