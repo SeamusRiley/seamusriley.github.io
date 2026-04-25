@@ -1,0 +1,108 @@
+# Chromatic Atlas of Art — Artwork Database
+# Format: HUE | SAT | BRI | Title | Creator | Type
+#
+# HUE: 0–360  (theme axis, wraps around)
+#   0   = Survival & Violence (red)
+#   30  = Desire & Sex (orange)
+#   60  = Power & Ambition (yellow)
+#   90  = Growth & Becoming (lime)
+#   120 = Nature & Exploration (green)
+#   150 = Wonder & the Uncanny (teal)
+#   180 = Grief & Loss (cyan)
+#   210 = Solitude & Loneliness (sky)
+#   240 = Justice & Society (blue)
+#   270 = Memory & Identity (indigo)
+#   300 = Love & Devotion (purple)
+#   330 = Fate & Transcendence (magenta)
+#
+# SAT: 0–100  (intensity axis)
+#   0   = slice of life / no dramatic intensity
+#   100 = maximum intensity (Godzilla, opera, extreme drama)
+#
+# BRI: 0–100  (realism axis)
+#   0   = stark documentary realism (nearly black)
+#   100 = pure myth / legend / fable (nearly white)
+#
+# Lines beginning with # are comments and are ignored.
+
+# ── SURVIVAL & VIOLENCE (~0°) ────────────────────────────────────────────────
+0   | 90 | 15 | All Quiet on the Western Front | Remarque | Novel
+0   | 80 | 50 | Apocalypse Now | Coppola | Film
+0   | 60 | 25 | The Iliad | Homer | Epic
+0   | 30 | 50 | Platoon | Stone | Film
+10  | 20 | 15 | The Hurt Locker | Bigelow | Film
+
+# ── DESIRE & SEX (~30°) ─────────────────────────────────────────────────────
+15  | 85 | 20 | Lady Chatterley's Lover | D.H. Lawrence | Novel
+30  | 90 | 40 | Lolita | Nabokov | Novel
+30  | 70 | 70 | A Midsummer Night's Dream | Shakespeare | Play
+30  | 40 | 55 | In the Mood for Love | Wong Kar-wai | Film
+25  | 75 | 30 | Last Tango in Paris | Bertolucci | Film
+
+# ── POWER & AMBITION (~60°) ─────────────────────────────────────────────────
+45  | 85 | 30 | Macbeth | Shakespeare | Play
+60  | 90 | 35 | There Will Be Blood | PTA | Film
+60  | 75 | 55 | House of Cards (BBC) | Andrew Davies | TV
+60  | 50 | 75 | Paradise Lost | Milton | Epic
+75  | 80 | 40 | Great Expectations | Dickens | Novel
+
+# ── GROWTH & BECOMING (~90°) ────────────────────────────────────────────────
+90  | 85 | 40 | The Catcher in the Rye | Salinger | Novel
+90  | 60 | 60 | Wilhelm Meister | Goethe | Novel
+90  | 40 | 60 | Boyhood | Richard Linklater | Film
+90  | 25 | 55 | Dazed and Confused | Linklater | Film
+105 | 75 | 35 | Into the Wild | Krakauer / Penn | Book/Film
+
+# ── NATURE & EXPLORATION (~120°) ────────────────────────────────────────────
+120 | 90 | 20 | Blood Meridian | Cormac McCarthy | Novel
+120 | 70 | 55 | Walden | Thoreau | Essay
+120 | 50 | 75 | The Jungle Book | Kipling | Novel
+135 | 80 | 40 | Pan's Labyrinth | del Toro | Film
+
+# ── WONDER & THE UNCANNY (~150°) ────────────────────────────────────────────
+150 | 90 | 50 | One Hundred Years of Solitude | García Márquez | Novel
+150 | 85 | 30 | Annihilation | Jeff VanderMeer | Novel
+150 | 70 | 70 | The Night Circus | Erin Morgenstern | Novel
+155 | 80 | 60 | Gormenghast | Mervyn Peake | Novel
+
+# ── GRIEF & LOSS (~180°) ────────────────────────────────────────────────────
+180 | 85 | 15 | Requiem for a Dream | Selby / Aronofsky | Novel/Film
+165 | 80 | 20 | The Road | Cormac McCarthy | Novel
+180 | 70 | 45 | Ordinary People | Judith Guest | Novel
+195 | 80 | 40 | The Hours | Cunningham / Daldry | Novel/Film
+180 | 50 | 60 | A Grief Observed | C.S. Lewis | Essay
+
+# ── SOLITUDE & LONELINESS (~210°) ───────────────────────────────────────────
+210 | 85 | 20 | Notes from Underground | Dostoevsky | Novel
+210 | 65 | 45 | My Dinner with Andre | Malle / Shawn | Film
+210 | 35 | 55 | Paterson | Jim Jarmusch | Film
+210 | 20 | 50 | Lost in Translation | Sofia Coppola | Film
+215 | 20 | 55 | The Remains of the Day | Ishiguro | Novel
+
+# ── JUSTICE & SOCIETY (~240°) ───────────────────────────────────────────────
+240 | 85 | 20 | 1984 | Orwell | Novel
+240 | 75 | 45 | Schindler's List | Spielberg | Film
+225 | 80 | 30 | The Trial | Kafka | Novel
+240 | 55 | 60 | To Kill a Mockingbird | Harper Lee | Novel
+
+# ── MEMORY & IDENTITY (~270°) ───────────────────────────────────────────────
+255 | 80 | 35 | Hamlet | Shakespeare | Play
+270 | 85 | 20 | In Search of Lost Time | Proust | Novel
+270 | 70 | 50 | Eternal Sunshine | Gondry / Kaufman | Film
+270 | 45 | 65 | Midnight in Paris | Woody Allen | Film
+275 | 80 | 40 | Normal People | Sally Rooney | Novel
+265 | 75 | 25 | The Bell Jar | Sylvia Plath | Novel
+
+# ── LOVE & DEVOTION (~300°) ─────────────────────────────────────────────────
+300 | 90 | 30 | Anna Karenina | Tolstoy | Novel
+300 | 75 | 55 | Pride and Prejudice | Austen | Novel
+315 | 85 | 35 | Romeo and Juliet | Shakespeare | Play
+300 | 30 | 55 | When Harry Met Sally | Ephron / Reiner | Film
+300 | 50 | 65 | Amélie | Jeunet | Film
+
+# ── FATE & TRANSCENDENCE (~330°) ────────────────────────────────────────────
+330 | 90 | 15 | The Divine Comedy | Dante | Epic
+330 | 80 | 45 | The Master and Margarita | Bulgakov | Novel
+345 | 85 | 20 | Crime and Punishment | Dostoevsky | Novel
+330 | 60 | 80 | The Little Prince | Saint-Exupéry | Novel
+325 | 75 | 35 | Beloved | Toni Morrison | Novel
