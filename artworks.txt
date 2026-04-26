@@ -76,8 +76,11 @@
 
 # ── JUSTICE / DIPLOMACY (~120°) ──────────────────────────────────────────────
 120 | 85 | 30 | To Kill a Mockingbird | Harper Lee | Novel/Film
+140 | 90 | 50 | Atlas Shrugged | Ayn Rand | Novel
+120 | 90 | 65 | The Fountainhead | Ayn Rand | Novel
+120 | 90 | 75 | Anthem | Ayn Rand | Novella
 120 | 80 | 35 | 12 Angry Men | Lumet | Film
-115 | 75 | 40 | Star Trek: The Original Series | Roddenberry | TV
+115 | 75 | 60 | Star Trek: The Original Series | Roddenberry | TV
 125 | 70 | 45 | The Wire | David Simon | TV
 120 | 65 | 50 | Schindler's List | Spielberg | Film
 120 | 60 | 55 | A Man for All Seasons | Zinnemann | Film
@@ -102,7 +105,7 @@
 180 | 85 | 45 | The Martian | Weir | Novel/Film
 180 | 80 | 50 | Arrival | Villeneuve | Film
 175 | 80 | 40 | 2001: A Space Odyssey | Kubrick | Film
-185 | 75 | 55 | Interstellar | Nolan | Film
+220 | 75 | 55 | Interstellar | Nolan | Film
 180 | 70 | 45 | Frankenstein | Shelley | Novel
 175 | 65 | 60 | Contact | Sagan | Novel/Film
 185 | 60 | 65 | Ex Machina | Garland | Film
@@ -118,11 +121,11 @@
 210 | 60 | 70 | Don Quixote | Cervantes | Novel
 205 | 55 | 65 | Candide | Voltaire | Novel
 215 | 50 | 75 | Around the World in 80 Days | Verne | Novel
-210 | 45 | 70 | Moby Dick | Melville | Novel
 205 | 40 | 80 | The Little Prince | Saint-Exupéry | Novel
 210 | 30 | 85 | Jonathan Livingston Seagull | Bach | Novel
 
 # ── ISOLATION (~240°) ────────────────────────────────────────────────────────
+230 | 45 | 70 | Moby Dick | Melville | Novel
 240 | 85 | 15 | The Road | Cormac McCarthy | Novel
 240 | 80 | 20 | The Book of Eli | Hughes Brothers | Film
 235 | 80 | 25 | I Am Legend | Matheson | Novel/Film
@@ -135,6 +138,7 @@
 240 | 25 | 60 | Lost in Translation | Sofia Coppola | Film
 
 # ── LONGING (~270°) ──────────────────────────────────────────────────────────
+270 | 99 | 20 | Melodrama | Lorde | Album
 270 | 85 | 20 | Wuthering Heights | Brontë | Novel
 270 | 80 | 25 | Requiem for a Dream | Aronofsky | Film
 265 | 80 | 30 | Eternal Sunshine of the Spotless Mind | Gondry | Film
@@ -153,6 +157,7 @@
 295 | 70 | 70 | When Harry Met Sally | Reiner | Film
 305 | 65 | 70 | Amélie | Jeunet | Film
 300 | 60 | 75 | Roman Holiday | Wyler | Film
+315 | 90 | 50 | Emotion | Carly Rae Jepson | Album
 295 | 55 | 75 | Sense and Sensibility | Austen | Novel
 305 | 50 | 80 | Four Weddings and a Funeral | Newell | Film
 300 | 45 | 80 | You've Got Mail | Ephron | Film
