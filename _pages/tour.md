@@ -48,3 +48,11 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 | **Adrian Smith** | Architect; Trump Tower Chicago, Jeddah Tower, Burj Khalifa |
 | **Jeanne Gang** | Architect; St. Regis, Aqua Tower, One Hundred Above The Park (St. Louis) |
 ---
+
+| Style | Description |
+| :--- | :--- |
+| **Chicago** | Functional artistic style with broader windows, American ornament, and steel structure |
+| **International** | Functional materialist (minimalist) style style with flat roofs, no ornament, and floor-to-ceiling glass |
+| **Post-modern** | A term for buildings that try whacky or unconventional things |
+
+---
