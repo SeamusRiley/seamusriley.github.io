@@ -14,7 +14,7 @@ Welcome to our walking tour! Below is the interactive route map to track our pro
 </div>
 
 {: .notice--info}
-**📱 Quick Mobile Tip:** For the cleanest view while walking, pinch-to-zoom on the map above to follow our blue route line. Tap any numbered pin to instantly pull up the building name!
+**📱 Interactive Map. Tap pins to access information.
 
 ---
 
