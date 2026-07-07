@@ -10,7 +10,7 @@ Welcome to our walking tour! Below is the interactive route map to track our pro
 ## Interactive Route Map
 
 <div class="responsive-embed">
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NQDXUJJzK4h2amTTjA-2nNHHzju4IXY&ehbc=2E312F" width="100%" height="480" frameborder="0" style="border:0;" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NQDXUJJzK4h2amTTjA-2nNHHzju4IXY&ehbc=2E312F" width="100%" height="800" frameborder="0" style="border:0;" allowfullscreen></iframe>
 </div>
 
 {: .notice--info}
