@@ -19,7 +19,7 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 </div>
 
 {: .notice--info}
-**📱 Interactive Map. Tap pins to access information. Button in upper left allows layer toggling.
+📱 Interactive Map. Tap pins to access information. Button in upper left allows layer toggling.
 
 ---
 
