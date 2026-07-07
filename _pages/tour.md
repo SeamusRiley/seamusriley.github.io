@@ -25,6 +25,7 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 
 ## People
 
+| | |
 | :--- | :--- |
 | **Eugène Emmanuel Viollet-le-Duc** | Architect; author who influenced multiple generations of architects |
 | **William Le Baron Jenney** | Engineer; Designed The Home Insurance Building, the first steel-frame skyscraper |
