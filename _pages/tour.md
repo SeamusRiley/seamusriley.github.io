@@ -64,15 +64,21 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 | **Futurism** | Modern with white finishes and extreme proportions |
 | **Retro-futurism** | Modern with white finishes and massive, often curved forms |
 
-## Style Guide
+## Commercial Style Guide
 
 - **Chicago** - A functional artistic style with broader windows, American ornament, and steel structure
-- **Beaux-Arts** - An afunctional artistic style characterized by european classical revival. Sometimes incorporated industrial elements in grand ways.
+- **Beaux-Arts** - A formist artistic style characterized by european classical revival. Sometimes incorporated industrial elements in grand ways.
 - **Art-Deco** - A decorative artistic style style that celebrated technology and archeology by incorporating sleek lines as well as Egyptian and south-american patterns
-- **Modern** - A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced function
+- **Modern** - A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced various definitions of what it meant for a building to function
   - **International** - A functional materialist (minimalist) style with flat roofs, no ornament, and floor-to-ceiling glass
-  - **High Modernism** - Essentially the same as the international style, but sometimes less rectilinear
-  - **Brutalism** - A formist materialist style with lots of exposed concrete forms
-
+  - **High Modern** - Essentially the same as the international style, but sometimes less rectilinear
+  - **Brutalist** - A formist materialist style with lots of exposed concrete forms
+  - **Mid-Century Modern** - International with warmer tones and more radical, angular shapes
+  - **Late Modern** - A functional artistic style of expressive shapes. Includes some organic architecture
+  - **Retro-futurism** - A functional artistic style with white or pastel finishes and massive, often curved forms
+- **Post-Modern** - A catch-all descriptor for buildings that rebelled against the minimalism of the international style, but still didn't have anything coherent to say. Championed by Robert Venturi who said "Less is a bore."
+- **Contemporary** - A catch-all descriptor for buildings made in the last generation
+  - **Tech** - A functional utilitarian style expressing aero-dynamics and engineering methods
+  - **Futurism** - A functional artistic style with (typically) white finishes and extreme proportions
 ---
 
