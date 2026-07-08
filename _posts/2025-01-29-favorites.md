@@ -61,7 +61,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - Guy/Gal (Life Generalist)
       - Arthur Zey
     - Person
-      - Darcy Biddle
+      - [Redacted]
     - Actor/Actress
       - John Lithgow
     - Comedian
