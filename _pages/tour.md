@@ -54,7 +54,7 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 
 - **The Chicago School** - A functional artistic style with broader windows, American ornament, and steel structure
 - **Beaux-Arts** - A formist artistic style characterized by European classical revival. Sometimes incorporated industrial elements in grand ways
-- **Art-Deco** - A decorative artistic style that celebrated technology and archeology by incorporating sleek lines as well as Egyptian and South American patterns
+- **Art-Deco** - A decorative artistic style that celebrated technology and archaeology by incorporating sleek lines as well as Egyptian and South American patterns
 - **Modern** - A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced various definitions of what it meant for a building to function
   - **International** - A functional materialist (minimalist) style originating in the German Bauhaus School with flat roofs, no ornament, and floor-to-ceiling glass
   - **High Modern** - Essentially the same as the international style, but sometimes less rectilinear
@@ -64,7 +64,7 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
   - **Retro-futurism** - A functional artistic style with white or pastel finishes and massive, often curved forms
   - **New Formalism** - A functional artistic style with structurally modern buildings made into bright symmetrical forms. Often considered "romantic"
   - **Structural Expressionism** - A functional utiliarian style expressing structural components
-- **Post-Modern** - A catch-all descriptor for buildings that rebelled against the minimalism of the international style, but did not embody a new style. Championed by Robert Venturi who said "Less is a bore."
+- **Post-Modern** - A catch-all descriptor for buildings that rebelled against the functionalism of the international style, but did not embody a new style. Championed by Robert Venturi who said "Less is a bore."
   - **Deconstructivism** - A formist materialist style defined by chaotic shapes. Standard sources will tell you that deconstructivism is not post-modern because it doesn't re-employ traditional elements, but I disagree. I think mish-mashes of classical elements and mish-mashes of modern elements are equally post-modern.
 - **Contemporary** - A catch-all descriptor for buildings made in the last generation or so
   - **High-Tech** - A functional utilitarian style expressing building systems
