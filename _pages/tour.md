@@ -48,25 +48,31 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 | **Adrian Smith** | Architect; Trump Tower Chicago, Jeddah Tower, Burj Khalifa |
 | **Jeanne Gang** | Architect; St. Regis, Aqua Tower, One Hundred Above The Park (St. Louis) |
 
----**
+---
 
 | Style | Description |
 | :--- | :--- |
 | **Chicago** | Functional artistic style with broader windows, American ornament, and steel structure |
 | **Art Deco** | Decorative artistic style that celebrated technology and archeology by incorporating sleek lines as well as Egyptian and south-american patterns |
 | **Beaux-Arts** | Formist artistic style. Classical revival. Sometimes incorporated industrial elements in grand ways. |
-| **International** | Functional materialist (minimalist) style style with flat roofs, no ornament, and floor-to-ceiling glass |
+| **International** | Functional materialist (minimalist) style with flat roofs, no ornament, and floor-to-ceiling glass |
 | **Modern** | A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced function |
 | **Post-modern** | A catch-all descriptor for buildings that rebelled against the minimalism of the international style, but still didn't have anything coherent to say. Championed by Robert Venturi who said "Less is a bore."|
 | **Contemporary** | A catch-all descriptor for buildings made in the last generation |
+| **Mid-Century Modern** | Modern with warm tones |
+| **Brutalism** | Formist materialist styleModern with lots of exposed concrete forms |
+| **Futurism** | Modern with white finishes and extreme proportions |
+| **Retro-futurism** | Modern with white finishes and massive, often curved forms |
+
+## Style Guide
+
+- **Chicago** - A functional artistic style with broader windows, American ornament, and steel structure
+- **Beaux-Arts** - An afunctional artistic style characterized by european classical revival. Sometimes incorporated industrial elements in grand ways.
+- **Art-Deco** - A decorative artistic style style that celebrated technology and archeology by incorporating sleek lines as well as Egyptian and south-american patterns
+- **Modern** - A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced function
+  - **International** - A functional materialist (minimalist) style with flat roofs, no ornament, and floor-to-ceiling glass
+  - **High Modernism** - Essentially the same as the international style, but sometimes less rectilinear
+  - **Brutalism** - A formist materialist style with lots of exposed concrete forms
 
 ---
 
-| Style | Description |
-| :--- | :--- |
-| **Test** | Test |
-| **Test** | Test |
-| **Daniel Burnham** | Genius organizer of men; hated school |
-| **Frank Lloyd Wright** | Architect; Protege of Sullivan |
-
----
