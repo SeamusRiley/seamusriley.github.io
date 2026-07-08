@@ -50,20 +50,6 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 
 ---
 
-| Style | Description |
-| :--- | :--- |
-| **Chicago** | Functional artistic style with broader windows, American ornament, and steel structure |
-| **Art Deco** | Decorative artistic style that celebrated technology and archeology by incorporating sleek lines as well as Egyptian and south-american patterns |
-| **Beaux-Arts** | Formist artistic style. Classical revival. Sometimes incorporated industrial elements in grand ways. |
-| **International** | Functional materialist (minimalist) style with flat roofs, no ornament, and floor-to-ceiling glass |
-| **Modern** | A catch-all descriptor for post-industrialization buildings that discarded tradition and embraced function |
-| **Post-modern** | A catch-all descriptor for buildings that rebelled against the minimalism of the international style, but still didn't have anything coherent to say. Championed by Robert Venturi who said "Less is a bore."|
-| **Contemporary** | A catch-all descriptor for buildings made in the last generation |
-| **Mid-Century Modern** | Modern with warm tones |
-| **Brutalism** | Formist materialist styleModern with lots of exposed concrete forms |
-| **Futurism** | Modern with white finishes and extreme proportions |
-| **Retro-futurism** | Modern with white finishes and massive, often curved forms |
-
 ## Commercial Style Guide
 
 - **Chicago** - A functional artistic style with broader windows, American ornament, and steel structure
