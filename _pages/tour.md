@@ -25,11 +25,11 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 ---
 ## Literary Resources
 
-[The Tall Office Building Artistically Considered](https://www2.gwu.edu/~art/Temporary_SL/177/pdfs/Sullivan_Tall.pdf)
+[The Tall Office Building Artistically Considered, Louis Sullivan](https://www2.gwu.edu/~art/Temporary_SL/177/pdfs/Sullivan_Tall.pdf)
 
 [Mies Van Der Rohe on the Building Art, Fritz Neumeyer](https://monoskop.org/images/4/47/Neumeyer_Fritz_The_Artless_Word_Mies_van_der_Rohe_on_the_Building_Art.pdf)
 
-[Lectures on Architectre, Eugène Emmanuel Viollet-le-Duc](https://www.amazon.com/Lectures-Architecture-I-Dover/dp/0486255204)
+[Lectures on Architecture, Eugène Emmanuel Viollet-le-Duc](https://www.amazon.com/Lectures-Architecture-I-Dover/dp/0486255204)
 
 ## People
 
