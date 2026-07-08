@@ -63,11 +63,11 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
   - **Late Modern** - A functional artistic style of expressive shapes. Includes some organic architecture
   - **Retro-futurism** - A functional artistic style with white or pastel finishes and massive, often curved forms
   - **New Formalism** - A functional artistic style with structurally modern buildings made into bright symmetrical forms. Often considered "romantic"
-  - **High-Tech** - A functional utilitarian style expressing building systems
   - **Structural Expressionism** - A functional utiliarian style expressing structural components
 - **Post-Modern** - A catch-all descriptor for buildings that rebelled against the minimalism of the international style, but did not embody a new style. Championed by Robert Venturi who said "Less is a bore."
   - **Deconstructivism** - A formist materialist style defined by chaotic shapes. Standard sources will tell you that deconstructivism is not post-modern because it doesn't re-employ traditional elements, but I disagree. I think mish-mashes of classical elements and mish-mashes of modern elements are equally post-modern.
 - **Contemporary** - A catch-all descriptor for buildings made in the last generation or so
+  - **High-Tech** - A functional utilitarian style expressing building systems
   - **Futurism** - A functional artistic style with (typically) white finishes and extreme proportions
   - **Parametricism** - A functional utilitarian style originating from the irregularly-shaped generations of parametric computer modeling software
     
