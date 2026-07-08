@@ -3,6 +3,7 @@ title: "The Birthplace Of The Skyscraper"
 layout: single
 permalink: /tour/
 author_profile: false
+excerpt: "LevelUp 2026 Skyscraper Tour Companion"
 ---
 
 ### Legend
@@ -22,6 +23,13 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 📱 Interactive Map. Tap pins to access information. Button in upper left allows layer toggling.
 
 ---
+## Literary Resources
+
+[The Tall Office Building Artistically Considered](https://www2.gwu.edu/~art/Temporary_SL/177/pdfs/Sullivan_Tall.pdf)
+
+[Mies Van Der Rohe on the Building Art, Fritz Neumeyer](https://monoskop.org/images/4/47/Neumeyer_Fritz_The_Artless_Word_Mies_van_der_Rohe_on_the_Building_Art.pdf)
+
+[Lectures on Architectre, Eugène Emmanuel Viollet-le-Duc](https://www.amazon.com/Lectures-Architecture-I-Dover/dp/0486255204)
 
 ## People
 
