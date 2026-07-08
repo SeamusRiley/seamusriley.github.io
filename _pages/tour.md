@@ -65,5 +65,7 @@ WARNING: Do not click the "full screen" button on the upper right of the embed b
 | :--- | :--- |
 | **Test** | Test |
 | **Test** | Test |
+| **Daniel Burnham** | Genius organizer of men; hated school |
+| **Frank Lloyd Wright** | Architect; Protege of Sullivan |
 
 ---
