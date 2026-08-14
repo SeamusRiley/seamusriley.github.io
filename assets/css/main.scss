@@ -1,0 +1,8 @@
+---
+---
+
+$global-font-family: "HGMaruGothicMPRO", "HG丸ゴシックM-PRO", "Hiragino Maru Gothic Pro", sans-serif;
+$header-font-family: "HGMaruGothicMPRO", "HG丸ゴシックM-PRO", "Hiragino Maru Gothic Pro", sans-serif;
+
+@import "minimal-mistakes/skins/{{ site.skin | default: 'default' }}";
+@import "minimal-mistakes";
