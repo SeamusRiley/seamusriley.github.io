@@ -1,14 +1,22 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* 1. Define the hosted custom font */
+@font-face {
+  font-family: 'HGMaruGothicMPRO';
+  src: url('/assets/fonts/28193954534.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @import "minimal-mistakes/skins/{{ site.skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* 2. Apply it globally across the site */
 body, 
 h1, h2, h3, h4, h5, h6, 
 .archive__item-title, 
 .feature__item-title {
-  font-family: "Carlito", Calibri, sans-serif !important;
+  font-family: 'HGMaruGothicMPRO', sans-serif !important;
 }
