@@ -6,6 +6,10 @@ sidebar:
 author_profile: false
 classes: wide
 
+feature_row_header:
+  - image_path: /assets/images/Catalog/CatalogLogo.png
+    title: "Exterior Accessory Structure Catalog"
+    
 feature_row_1:
   - image_path: /assets/images/Catalog/CatalogDeck&Porch.png
     title: "Decks & Porches"
