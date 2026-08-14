@@ -50,6 +50,10 @@ feature_row_3:
     excerpt: "For a touch of structure"
 ---
 
+{% include feature_row id="feature_row_header" %}
+
+---
+
 {% include feature_row id="feature_row_1" %}
 {% include feature_row id="feature_row_2" %}
 {% include feature_row id="feature_row_3" %}
