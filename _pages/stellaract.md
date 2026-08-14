@@ -1,5 +1,5 @@
 ---
-title: "Stellaract Exterior Accessory Structures Catalog"
+title: "Stellaract"
 layout: single
 sidebar:
   nav: false
