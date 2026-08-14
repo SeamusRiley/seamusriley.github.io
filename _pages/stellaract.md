@@ -1,15 +1,11 @@
 ---
-title: "Stellaract"
+title: ""
 layout: single
 sidebar:
   nav: false
 author_profile: false
 classes: wide
 
-feature_row_header:
-  - image_path: /assets/images/Catalog/CatalogLogo.png
-    title: "Exterior Accessory Structure Catalog"
-    
 feature_row_1:
   - image_path: /assets/images/Catalog/CatalogDeck&Porch.png
     title: "Decks & Porches"
@@ -50,9 +46,9 @@ feature_row_3:
     excerpt: "For a touch of structure"
 ---
 
-{% include feature_row id="feature_row_header" %}
-
----
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/images/Catalog/CatalogLogo.png" alt="Stellaract Header Logo" style="max-width: 100%; height: auto;">
+</div>
 
 {% include feature_row id="feature_row_1" %}
 {% include feature_row id="feature_row_2" %}
