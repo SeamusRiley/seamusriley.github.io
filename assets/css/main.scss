@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "minimal-mistakes/skins/{{ site.skin | default: 'default' }}";
+@import "minimal-mistakes";
+
 /* 1. Define the hosted custom font */
 @font-face {
   font-family: 'HGMaruGothicMPRO';
@@ -10,13 +13,10 @@
   font-display: swap;
 }
 
-@import "minimal-mistakes/skins/{{ site.skin | default: 'default' }}";
-@import "minimal-mistakes";
-
 /* 2. Apply it globally across the site */
-body, 
-h1, h2, h3, h4, h5, h6, 
-.archive__item-title, 
+body,
+h1, h2, h3, h4, h5, h6,
+.archive__item-title,
 .feature__item-title {
-  font-family: 'HGMaruGothicMPRO', sans-serif !important;
+  font-family: 'HGMaruGothicMPRO', sans-serif;
 }
