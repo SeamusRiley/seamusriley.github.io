@@ -8,24 +8,24 @@ classes: wide
 
 feature_row_1:
   - image_path: /assets/images/Catalog/CatalogDeck&Porch.png
-    title: "Decks & Porches"
+    title: "DECKS & PORCHES"
     excerpt: "Where the party starts"
 
   - image_path: /assets/images/Catalog/CatalogGazebo.png
-    title: "Gazebos"
+    title: "GAZEBOS"
     excerpt: "For special moments"
 
   - image_path: /assets/images/Catalog/CatalogGreenhouse.png
-    title: "Greenhouses"
+    title: "GREENHOUSES"
     excerpt: "To extend the growing season"
 
 feature_row_2:
   - image_path: /assets/images/Catalog/CatalogPergola&Awning.png
-    title: "Pergolas & Awnings"
+    title: "PERGOLAS & AWNINGS"
     excerpt: "To beat the heat"
 
   - image_path: /assets/images/Catalog/CatalogPlantersAndColdFrames.png
-    title: "Planters & Cold Frames"
+    title: "PLANTERS & COLD FRAMES"
     excerpt: "For plants"
 
   - image_path: /assets/images/Catalog/CatalogPlayTower&JungleGym.png
@@ -34,15 +34,15 @@ feature_row_2:
 
 feature_row_3:
   - image_path: /assets/images/Catalog/CatalogShed&WorkRoom.png
-    title: "Sheds & Work Rooms"
+    title: "SHEDS & WORK ROOMS"
     excerpt: "For next-level doing"
 
   - image_path: /assets/images/Catalog/CatalogTreehouse&Clubhouse.png
-    title: "Treehouses & Clubhouses"
+    title: "TREEHOUSES & CLUBHOUSES"
     excerpt: "Where childhood takes off"
 
   - image_path: /assets/images/Catalog/CatalogTrellis&Arbor.png
-    title: "Trellises & Arbors"
+    title: "TRELLISES & ARBORS"
     excerpt: "For a touch of structure"
 ---
 
