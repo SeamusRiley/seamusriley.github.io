@@ -1,8 +1,14 @@
 ---
 ---
 
-$global-font-family: "HGMaruGothicMPRO", "HG丸ゴシックM-PRO", "Hiragino Maru Gothic Pro", sans-serif;
-$header-font-family: "HGMaruGothicMPRO", "HG丸ゴシックM-PRO", "Hiragino Maru Gothic Pro", sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 @import "minimal-mistakes/skins/{{ site.skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+body, 
+h1, h2, h3, h4, h5, h6, 
+.archive__item-title, 
+.feature__item-title {
+  font-family: "Carlito", Calibri, sans-serif !important;
+}
