@@ -10,7 +10,8 @@ author_profile: false
 
 ### Architecture 
 - <a href="/assets/files/seamus-riley_resume_2025-11-05.pdf" download>Resume</a>
-- [Portfolio](/portfolio/) 
+- [Portfolio](/portfolio/)
+- [Stellaract - My Company!](/stellaract/) 
 
 ### Philosophy 
 - [Content](/content/) 
