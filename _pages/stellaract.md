@@ -29,7 +29,7 @@ feature_row_2:
     excerpt: "For plants"
 
   - image_path: /assets/images/Catalog/CatalogPlayTower&JungleGym.png
-    title: "Play Towers & Jungle Gyms"
+    title: "PLAY TOWERS & JUNGLEGYMS"
     excerpt: "For learning coordination"
 
 feature_row_3:
