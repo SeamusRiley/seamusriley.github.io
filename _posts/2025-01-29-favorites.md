@@ -164,7 +164,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - MS Paint
     - Snipping Tool
     - Keypass
-    - ChatGPT
+    - Muse.AI
     - Notion
 
 - Sports Team
