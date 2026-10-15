@@ -170,3 +170,47 @@ Our favorite things say a lot about us. At a certain point I started recording m
 
 - Sports Team
   - Alliance
+
+<details markdown="1">
+<summary>Favorite Quotes — Click to expand (21 quotes)</summary>
+
+- Ayn Rand
+  - There’s nothing of any important in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value.
+  - James, you ought to discover some day that words have an exact meaning.
+- Fifth Guy
+  - I mean that's a free patty…
+- Phil Hartman
+  - This is the part of the job I hate.
+- Cyrano
+  - Happy? I'm going to be a storm. A flame! I want to fight whole armies all alone! I have ten hearts. I have a hundred arms! I feel too strong to war with mortals—bring me giants! (Cyrano de Bergerac, 1950 film (Jose Ferrer))
+- Reese
+  - And then I saw something shiny, and I put it in my shiny things box.
+- Peter Zirbel
+  - Speed Kills
+  - You have a formidable intellect. Use it for good, not for evil.
+- Ulfric Stormcloak
+  - Let the Dragonborn do it. It will make for a better song. (Skyrim)
+- Seamus Riley
+  - Do your crying but do it at night.
+  - All one needs to judge the quality of an architect is to look at the quality of his stairway.
+  - We cannot always trust people, but we can always trust people to be the people that they are.
+- George Washington
+  - Whenever one man is found sufficient to the discharge of a duty it is worse done by two persons and scarcely done at all if three or more are employed therein.
+- Oscar Wilde
+  - I don't want to go to heaven. None of my friends are there.
+- Leonard Peikoff
+  - Assume that, having chosen to be in focus, you elect to solve some problem by engaging in a process of thought.
+- Mr. Krueger
+  - I'm not too worried about it.
+- Douglas Adams
+  - I have to find something else for my whole life to be about.
+- Daniel Naroditsky
+  - I would just risk it.
+- Frozone's wife
+  - The greater good? I am your wife. I am the greatest good you are ever gonna get. (The Incredibles)
+- Neil Bright
+  - Minimize Surprise
+- Merce Cunningham
+  - The only way to do it is to do it. (The Dancer and the Dance (1985), with Jacqueline Lesschaeve)
+
+</details>
