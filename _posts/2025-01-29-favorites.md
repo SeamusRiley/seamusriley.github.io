@@ -172,7 +172,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
   - Alliance
 
 <details markdown="1">
-<summary>Favorite Quotes — Click to expand (22 quotes)</summary>
+<summary>Favorite Quotes — Click to expand (24 quotes)</summary>
 
 - Ayn Rand
   - There’s nothing of any important in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value.
@@ -214,5 +214,9 @@ Our favorite things say a lot about us. At a certain point I started recording m
   - The only way to do it is to do it. (The Dancer and the Dance (1985), with Jacqueline Lesschaeve)
 - Earl Parson
   - Littler is cuter
+- Edna Mode
+  - Fight. Win!
+- Hogarth Hughes
+  - You are who you choose to be.
 
 </details>
