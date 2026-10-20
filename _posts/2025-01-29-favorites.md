@@ -218,5 +218,9 @@ Our favorite things say a lot about us. At a certain point I started recording m
   - Fight. Win!
 - Hogarth Hughes
   - You are who you choose to be.
+- Anjali
+  - At this point in my life, I've decided... if something makes me anxious... I'm just not gonna do it.
+- Eli Walls
+  - We have a daily reprieve from alcohol contingent on our spiritual maintenance.
 
 </details>
