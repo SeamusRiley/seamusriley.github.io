@@ -6,8 +6,6 @@ sidebar:
 author_profile: false
 ---
 
-Doubloons is a coin-spinning game. Win by collecting all the coins.
+<a href="/assets/files/doubloons-trifold.pdf"><img src="/assets/images/doubloons-page-1.jpg" alt="Doubloons rules, page 1" style="width:100%"></a>
 
-Two or more players each start with an equal stack — 3 coins for a short game, 5 for a long game. Each round, everyone spins a coin; the last coin to stop sets the round call, and matching callers split the pot.
-
-<a href="/assets/files/doubloons-trifold.pdf">Read the rules (PDF)</a>
+<a href="/assets/files/doubloons-trifold.pdf"><img src="/assets/images/doubloons-page-2.jpg" alt="Doubloons rules, page 2" style="width:100%"></a>
