@@ -225,7 +225,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - At this point in my life, I've decided... if something makes me anxious... I'm just not gonna do it. <a id="at-this-point-in-my" href="#at-this-point-in-my" class="favlink" title="Link to this item">#</a>
   - Eli Walls <a id="eli-walls" href="#eli-walls" class="favlink" title="Link to this item">#</a>
     - We have a daily reprieve from alcohol contingent on our spiritual maintenance. <a id="we-have-a-daily-reprieve" href="#we-have-a-daily-reprieve" class="favlink" title="Link to this item">#</a>
-  - Stephanie Boyer <a id="stephanie-boyer" href="#stephanie-boyer" class="favlink" title="Link to this item">#</a>
+  - Emma Gonna <a id="emma-gonna" href="#emma-gonna" class="favlink" title="Link to this item">#</a>
     - You know what that means... seppuku. <a id="you-know-what-that-means" href="#you-know-what-that-means" class="favlink" title="Link to this item">#</a>
 
 </details>
