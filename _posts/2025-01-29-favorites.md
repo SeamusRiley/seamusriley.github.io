@@ -178,7 +178,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
 - Daniel Naroditsky <a id="daniel-naroditsky"></a>
   - I would just risk it. <a id="i-would-just-risk-it"></a>
     - Ayn Rand <a id="ayn-rand"></a>
-      - There’s nothing of any important in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value. <a id="there-s-nothing-of-any-important"></a>
+      - There’s nothing of any importance in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value. <a id="there-s-nothing-of-any-important"></a>
       - James, you ought to discover some day that words have an exact meaning. <a id="james-you-ought-to-discover"></a>
     - Fifth Guy <a id="fifth-guy"></a>
       - I mean that's a free patty… <a id="i-mean-that-s-a-free"></a>
