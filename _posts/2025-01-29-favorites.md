@@ -2,9 +2,9 @@
 title: "A Few Of My Favorite Things"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog <a id="blog"></a>
+  - Blog
 tags:
-  - About Me <a id="about-me"></a>
+  - About Me
 ---
 
 Our favorite things say a lot about us. At a certain point I started recording my favorites in a list so that I don’t forget them or confuse them.
