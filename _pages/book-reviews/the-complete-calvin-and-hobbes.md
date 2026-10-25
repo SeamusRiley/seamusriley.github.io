@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-complete-calvin-and-hobbes/
-category: "Children's & Middle Grade"
+category: "Comics"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,13 +26,13 @@ category: "Children's & Middle Grade"
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:252.7px;height:52px;background:#67782a"><span><strong>Calvin and Hobbes</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:251.9px;height:52px;background:#2e4a7a"><span><strong>Calvin and Hobbes</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** The Complete Calvin and Hobbes  
 **Author:** Bill Watterson  
-**Category:** Children's & Middle Grade  
+**Category:** Comics  
 **Recommender:** &mdash;
 
 ### Review
