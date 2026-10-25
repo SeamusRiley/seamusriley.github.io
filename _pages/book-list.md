@@ -11,7 +11,7 @@ excerpt: 'Also includes comic strips and anthologies. See Also <a href="/movies-
 Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Movies &amp; Shows</a>, <a href="/stage-productions/">Stage Productions</a>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
-.bk-row{display:flex;align-items:flex-end;gap:5px;padding:0 8px}
+.bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
 .bk-board{height:12px;background:linear-gradient(#8a6844,#6e5133);border-radius:2px;box-shadow:0 3px 5px rgba(0,0,0,.35);margin-bottom:20px}
 .bk-spine{display:flex;align-items:center;justify-content:center;border-radius:3px 3px 1px 1px;box-shadow:inset -2px 0 3px rgba(0,0,0,.35),inset 2px 0 2px rgba(255,255,255,.14)}
 .bk-spine a,.bk-spine span{writing-mode:vertical-rl;transform:rotate(180deg);color:#f7f1e3;text-decoration:none;font-size:12.5px;letter-spacing:.4px;white-space:nowrap;overflow:hidden;max-height:220px}
@@ -37,10 +37,10 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine bk-long" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Life, the Universe and Everything</strong></span></div>
 <div class="bk-spine bk-long" style="width:28px;height:200px;background:#1f4e5f"><span style="max-height:188px"><strong>So Long, and Thanks for All the Fish</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Mostly Harmless</strong></span></div>
-</div><div class="bk-board"></div>
-<div class="bk-row">
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>And Another Thing...</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Ender&#x27;s Game</strong></span></div>
+</div><div class="bk-board"></div>
+<div class="bk-row">
 <div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><span style="max-height:250px">The Chronicles of Narnia</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#9a5c26"><span style="max-height:188px"><strong>The Magician&#x27;s Nephew</strong></span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:250px">Mistborn &#9733;</a></div>
@@ -56,13 +56,13 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh Season</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Saving Shiloh</strong></span></div>
-</div><div class="bk-board"></div>
-<div class="bk-row">
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>A Single Shard</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Higher Power of Lucky</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Lucky Breaks</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Westing Game</strong></span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
+</div><div class="bk-board"></div>
+<div class="bk-row">
 <div class="bk-spine" style="width:38px;height:230px;background:#96502e"><span style="max-height:218px">Codependent No More</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:188px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:218px">Born to Run &#9733;</a></div>
