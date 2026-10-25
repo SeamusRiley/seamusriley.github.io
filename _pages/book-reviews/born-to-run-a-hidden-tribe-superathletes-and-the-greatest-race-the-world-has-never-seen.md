@@ -10,6 +10,7 @@ category: "Nonfiction"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
+<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -29,6 +30,7 @@ category: "Nonfiction"
 
 
 **Rating:** 1/2 Nice  
+**Name:** Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen  
 **Author:** Christopher McDougall  
 **Category:** Nonfiction  
 **Recommender:** &mdash;  
