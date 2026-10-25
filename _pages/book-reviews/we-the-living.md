@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/we-the-living/
+permalink: /books/we-the-living/
 ---
 
 **Rating:** 2/2 Wonderful  
