@@ -10,6 +10,7 @@ category: "Dystopian"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
+<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -29,6 +30,7 @@ category: "Dystopian"
 
 
 **Rating:** 2/2 Wonderful  
+**Name:** Rootless (Rootless, #1)  
 **Author:** Chris Howard  
 **Category:** Dystopian  
 **Recommender:** &mdash;
