@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/rootless/
+permalink: /books/rootless/
 ---
 
 **Rating:** 2/2 Wonderful  
