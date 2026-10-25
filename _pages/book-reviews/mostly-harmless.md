@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/mostly-harmless/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)  
 **Author:** Douglas Adams  
 **Recommender:** &mdash;
