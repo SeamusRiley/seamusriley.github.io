@@ -24,7 +24,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-legend{font-size:.85em;margin:.1em 0 1.5em}
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 </style>
-<div class="bk-shelf" id="bookshelf">
+<div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch">
+<div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
+<div style="flex:1;min-width:0">
 <div class="bk-row">
 <div class="bk-spine" style="width:38px;height:235.4px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:223.4px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:275.0px;background:#1e4d3d"><span style="max-height:263.0px">OPAR</span></div>
@@ -78,6 +80,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:224.6px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:212.6px">I Am Justice &#9733;</a></div>
 <a class="bk-bookend" href="https://www.seamusriley.com/blog/crest/" title="The Riley Crest" style="text-decoration:none"><img src="/assets/images/crest_brown.svg" alt="Crest"></a>
 </div><div class="bk-board"></div>
+</div>
+<div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#98764e,#876542 55%,#71552f);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset 2px 0 3px rgba(255,255,255,.12),-2px 0 4px rgba(0,0,0,.25)"></div>
 </div>
 <p class="bk-legend">Shelf colors by category:<br>
 <span class="bk-dot" style="background:#1e4d3d"></span>Philosophy (8)<br>
