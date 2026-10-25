@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/ideal/
+permalink: /books/ideal/
 ---
 
 **Rating:** 1/2 Nice  
