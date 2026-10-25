@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)  
 **Author:** Douglas Adams  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
