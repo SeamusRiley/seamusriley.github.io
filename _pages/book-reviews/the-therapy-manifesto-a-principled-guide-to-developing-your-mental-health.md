@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/
-genre: "Mind & Self"
+category: "Mind & Self"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Mind & Self"
 **Rating:** 2/2 Wonderful  
 **Name:** The Therapy Manifesto: A Principled Guide to Developing Your Mental Health  
 **Author:** Mark Derian  
-**Genre:** Mind & Self  
+**Category:** Mind & Self  
 **Recommender:** &mdash;  
 **Date read:** Sep 2025
 
