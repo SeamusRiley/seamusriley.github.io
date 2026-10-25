@@ -26,7 +26,7 @@ category: "Thriller"
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:230px;height:38px;background:#26221e"><span>I Am Justice &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:242px;height:38px;background:#26221e"><span>I Am Justice &#9733;</span></div></div>
 
 
 **Rating:** 0/2 Not For Me  
