@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Fountainhead  
 **Author:** Ayn Rand  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
