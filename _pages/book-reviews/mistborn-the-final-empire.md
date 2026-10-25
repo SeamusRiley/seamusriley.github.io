@@ -7,7 +7,7 @@ author_profile: false
 permalink: /books/mistborn-the-final-empire/
 ---
 
-**Rating:** &mdash;  
+**Rating:** 1/2 Nice  
 **Name:** Mistborn: The Final Empire  
 **Author:** Brandon Sanderson  
 **Recommender:** &mdash;
