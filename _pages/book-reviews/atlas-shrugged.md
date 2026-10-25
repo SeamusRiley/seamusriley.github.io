@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Atlas Shrugged  
 **Author:** Ayn Rand  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
