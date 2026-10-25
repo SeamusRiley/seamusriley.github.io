@@ -29,7 +29,6 @@ category: "Fantasy"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Magician's Nephew (Chronicles of Narnia, #6)  
 **Author:** C.S. Lewis  
 **Category:** Fantasy  
 **Recommender:** &mdash;
