@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-ominous-parallels/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Ominous Parallels  
 **Author:** Leonard Peikoff  
 **Recommender:** &mdash;  
