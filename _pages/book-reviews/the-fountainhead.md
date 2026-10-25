@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-fountainhead/
-genre: "Philosophy"
+category: "Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Philosophy"
 **Rating:** 2/2 Wonderful  
 **Name:** The Fountainhead  
 **Author:** Ayn Rand  
-**Genre:** Philosophy  
+**Category:** Philosophy  
 **Recommender:** &mdash;  
 **Date read:** Dec 2018
 
