@@ -24,9 +24,7 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 <tr><td>&mdash;</td><td>Eldorado</td><td>&mdash;</td><td>Ben</td></tr>
 <tr><td>0/2 Not For Me</td><td>Eternal Sunshine of the Spotless Mind</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>0/2 Not For Me</td><td>The Good Place</td><td>&mdash;</td><td>Kate</td></tr>
-<tr><td>&mdash;</td><td>A Little Bit of Chaos</td><td>&mdash;</td><td>Angel Walker</td></tr>
 <tr><td>2/2 Wonderful</td><td>Naked Gun 2</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>&mdash;</td><td>No Country for Old Men</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>&mdash;</td><td>Office Space</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>2/2 Wonderful</td><td>Project Hail Mary</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Secret Life of Walter Mitty</td><td>&mdash;</td><td>&mdash;</td></tr>
@@ -71,6 +69,8 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
   - Recommended by Tripp$
 - Hundreds of Beavers
   - Recommended by Patrick Healey
+- A Little Bit of Chaos
+  - Recommended by Angel Walker
 - Louis
   - Recommended by Me
 - Mean Girls
@@ -84,6 +84,8 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 - Napoleon Dynamite
   - Recommended by Me
 - A Night at the Opera
+  - Recommended by Me
+- No Country for Old Men
   - Recommended by Me
 - Popstar: Never Stop Never Stopping
   - Recommended by Me
