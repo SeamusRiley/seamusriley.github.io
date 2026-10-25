@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** And Another Thing... (The Hitchhiker's Guide to the Galaxy, #6)  
 **Author:** Eoin Colfer  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
