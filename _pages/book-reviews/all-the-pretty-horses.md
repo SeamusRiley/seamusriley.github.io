@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/all-the-pretty-horses/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** All the Pretty Horses (The Border Trilogy, #1)  
 **Author:** Cormac McCarthy  
 **Recommender:** &mdash;  
