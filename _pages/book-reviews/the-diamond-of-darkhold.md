@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-diamond-of-darkhold/
-genre: "Dystopian"
+category: "Dystopian"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Dystopian"
 **Rating:** 2/2 Wonderful  
 **Name:** The Diamond of Darkhold (Book of Ember, #4)  
 **Author:** Jeanne DuPrau  
-**Genre:** Dystopian  
+**Category:** Dystopian  
 **Recommender:** &mdash;
 
 *No review yet.*
