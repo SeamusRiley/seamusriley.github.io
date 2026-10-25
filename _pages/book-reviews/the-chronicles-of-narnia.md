@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-chronicles-of-narnia/
+permalink: /books/the-chronicles-of-narnia/
 ---
 
 **Rating:** 1/2 Nice  
