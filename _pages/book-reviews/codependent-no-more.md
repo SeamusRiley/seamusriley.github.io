@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/codependent-no-more/
-genre: "Mind & Self"
+category: "Mind & Self"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Mind & Self"
 **Rating:** 1/2 Nice  
 **Name:** Codependent No More  
 **Author:** Melody Beattie  
-**Genre:** Mind & Self  
+**Category:** Mind & Self  
 **Recommender:** Don Michelson
 
 *No review yet.*
