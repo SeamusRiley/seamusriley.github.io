@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-prophet-of-yonwood/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Prophet of Yonwood (Book of Ember, #3)  
 **Author:** Jeanne DuPrau  
 **Recommender:** &mdash;
