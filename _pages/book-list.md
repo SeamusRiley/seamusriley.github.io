@@ -51,7 +51,7 @@ Books I have read, rated my way: Wonderful 2/2, Nice 1/2, Not For Me 0/2.
 <tr><td>Wonderful 2/2</td><td>So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)</td><td>Douglas Adams</td><td>&mdash;</td><td><a href="/book-list/so-long-and-thanks-for-all-the-fish/">Review</a></td></tr>
 <tr><td>Wonderful 2/2</td><td>The Therapy Manifesto: A Principled Guide to Developing Your Mental Health</td><td>Mark Derian</td><td>&mdash;</td><td><a href="/book-list/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">Review</a></td></tr>
 <tr><td>Wonderful 2/2</td><td>To Kill a Mockingbird</td><td>Harper Lee</td><td>&mdash;</td><td><a href="/book-list/to-kill-a-mockingbird/">Review</a></td></tr>
-<tr><td>Nice 1/2</td><td>The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)</td><td>Douglas Adams</td><td>&mdash;</td><td><a href="/book-list/the-ultimate-hitchhikers-guide-to-the-galaxy/">Review</a></td></tr>
+<tr><td>Wonderful 2/2</td><td>The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)</td><td>Douglas Adams</td><td>&mdash;</td><td><a href="/book-list/the-ultimate-hitchhikers-guide-to-the-galaxy/">Review</a></td></tr>
 <tr><td>Wonderful 2/2</td><td>We the Living</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/book-list/we-the-living/">Review</a></td></tr>
 <tr><td>Wonderful 2/2</td><td>The Westing Game</td><td>Ellen Raskin</td><td>&mdash;</td><td><a href="/book-list/the-westing-game/">Review</a></td></tr>
 </tbody>
