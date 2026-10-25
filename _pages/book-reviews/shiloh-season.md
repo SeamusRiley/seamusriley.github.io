@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/shiloh-season/
+permalink: /books/shiloh-season/
 ---
 
 **Rating:** 2/2 Wonderful  
