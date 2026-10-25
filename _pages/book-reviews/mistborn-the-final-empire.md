@@ -29,7 +29,6 @@ category: "Fantasy"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Mistborn: The Final Empire  
 **Author:** Brandon Sanderson  
 **Category:** Fantasy  
 **Recommender:** &mdash;
