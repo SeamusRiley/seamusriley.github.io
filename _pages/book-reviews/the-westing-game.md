@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Westing Game  
 **Author:** Ellen Raskin  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
