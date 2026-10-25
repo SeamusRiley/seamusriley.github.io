@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-green-glass-sea/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Green Glass Sea (Green Glass, #1)  
 **Author:** Ellen Klages  
 **Recommender:** &mdash;
