@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/gullivers-travels/
+permalink: /books/gullivers-travels/
 ---
 
 **Rating:** 1/2 Nice  
