@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/enders-game/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Ender's Game (Ender's Saga, #1)  
 **Author:** Orson Scott Card  
 **Recommender:** &mdash;
