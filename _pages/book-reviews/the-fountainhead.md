@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-fountainhead/
+permalink: /books/the-fountainhead/
 ---
 
 **Rating:** 2/2 Wonderful  
