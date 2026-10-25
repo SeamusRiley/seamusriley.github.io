@@ -5,41 +5,33 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /movies-shows/
+excerpt: 'See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">Stage Productions</a>'
 ---
+
+See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">Stage Productions</a>
 
 ## Watched
 
-- Babe: Pig in the City
-  - Recommended by Me
-  - Rated 2/2 Wonderful
-- Blade Runner 2049
-  - Recommended by Me
-  - Rated 2/2 Wonderful
-- Cyrano De Bergerac (1940)
-  - Rated 2/2 Wonderful
-- Digger
-  - Rated 2/2 Wonderful
-- Eldorado
-  - Recommended by Ben
-- Eternal Sunshine of the Spotless Mind
-  - Recommended by Me
-  - Rated 0/2 Not For Me
-- The Good Place
-  - Recommended by Kate
-  - Rated 0/2 Not For Me
-- A Little Bit of Chaos
-  - Recommended by Angel Walker
-- Naked Gun 2
-  - Recommended by Me
-  - Rated 2/2 Wonderful
-- No Country for Old Men
-  - Recommended by Me
-- Office Space
-  - Recommended by Me
-- Project Hail Mary
-  - Rated 2/2 Wonderful
-- The Secret Life of Walter Mitty
-  - Rated 2/2 Wonderful
+<table>
+<thead>
+<tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th></tr>
+</thead>
+<tbody>
+<tr><td>2/2 Wonderful</td><td>Babe: Pig in the City</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>2/2 Wonderful</td><td>Blade Runner 2049</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>2/2 Wonderful</td><td>Cyrano De Bergerac (1940)</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Digger</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>&mdash;</td><td>Eldorado</td><td>&mdash;</td><td>Ben</td></tr>
+<tr><td>0/2 Not For Me</td><td>Eternal Sunshine of the Spotless Mind</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>0/2 Not For Me</td><td>The Good Place</td><td>&mdash;</td><td>Kate</td></tr>
+<tr><td>&mdash;</td><td>A Little Bit of Chaos</td><td>&mdash;</td><td>Angel Walker</td></tr>
+<tr><td>2/2 Wonderful</td><td>Naked Gun 2</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>&mdash;</td><td>No Country for Old Men</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>&mdash;</td><td>Office Space</td><td>&mdash;</td><td>Me</td></tr>
+<tr><td>2/2 Wonderful</td><td>Project Hail Mary</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Secret Life of Walter Mitty</td><td>&mdash;</td><td>&mdash;</td></tr>
+</tbody>
+</table>
 
 ## Want to Watch
 
