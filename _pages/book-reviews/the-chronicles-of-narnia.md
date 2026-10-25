@@ -29,7 +29,6 @@ category: "Fantasy"
 
 
 **Rating:** 1/2 Nice  
-**Name:** The Chronicles of Narnia (The Chronicles of Narnia, #1-7)  
 **Author:** C.S. Lewis  
 **Category:** Fantasy  
 **Recommender:** &mdash;
