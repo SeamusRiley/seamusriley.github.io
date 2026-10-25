@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/lucky-breaks/
+permalink: /books/lucky-breaks/
 ---
 
 **Rating:** 2/2 Wonderful  
