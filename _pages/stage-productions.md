@@ -9,8 +9,14 @@ permalink: /stage-productions/
 
 ## Seen
 
-*Nothing here yet.*
+- Come From Away
+  - Written by Irene Sankoff and David Hein
+- The Guy Who Didn&#x27;t Like Musicals
+  - Written by Nick and Matt Lang
+- Hamilton
+  - Written by Lin-Manuel Miranda
 
 ## Want to See
 
-*Nothing here yet.*
+- 9-5
+  - Written by Dolly Parton
