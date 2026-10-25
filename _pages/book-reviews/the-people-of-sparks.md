@@ -29,7 +29,6 @@ category: "Dystopian"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The People of Sparks (The City of Ember #2)  
 **Author:** Jeanne DuPrau  
 **Category:** Dystopian  
 **Recommender:** &mdash;
