@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/shiloh/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Shiloh (Shiloh, #1)  
 **Author:** Phyllis Reynolds Naylor  
 **Recommender:** &mdash;
