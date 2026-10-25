@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/
+permalink: /books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/
 ---
 
 **Rating:** 1/2 Nice  
