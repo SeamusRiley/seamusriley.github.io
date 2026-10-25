@@ -4,13 +4,13 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/all-the-pretty-horses/
+permalink: /books/all-the-pretty-horses/
 ---
 
 **Rating:** 2/2 Wonderful  
 **Name:** All the Pretty Horses (The Border Trilogy, #1)  
 **Author:** Cormac McCarthy  
-**Recommender:** &mdash;  
+**Recommender:** Eli  
 **Date read:** Feb 23, 2026
 
 ### Review
