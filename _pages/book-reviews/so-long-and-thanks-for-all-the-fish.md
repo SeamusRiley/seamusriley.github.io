@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4)  
 **Author:** Douglas Adams  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
