@@ -26,7 +26,7 @@ category: "Fantasy"
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:271px;height:52px;background:#9a5c26"><span>The Chronicles of Narnia</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:260.1px;height:52px;background:#9a5c26"><span>The Chronicles of Narnia</span></div></div>
 
 
 **Rating:** 1/2 Nice  
