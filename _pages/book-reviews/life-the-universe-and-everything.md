@@ -10,6 +10,7 @@ category: "Science Fiction"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
+<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -29,6 +30,7 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
+**Name:** Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)  
 **Author:** Douglas Adams  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
