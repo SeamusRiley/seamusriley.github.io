@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Ender's Game (Ender's Saga, #1)  
 **Author:** Orson Scott Card  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
