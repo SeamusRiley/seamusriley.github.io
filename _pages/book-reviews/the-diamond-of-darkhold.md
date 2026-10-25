@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-diamond-of-darkhold/
+permalink: /books/the-diamond-of-darkhold/
 ---
 
 **Rating:** 2/2 Wonderful  
