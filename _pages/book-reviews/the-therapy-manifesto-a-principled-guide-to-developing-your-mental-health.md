@@ -29,7 +29,6 @@ category: "Mind & Self"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Therapy Manifesto: A Principled Guide to Developing Your Mental Health  
 **Author:** Mark Derian  
 **Category:** Mind & Self  
 **Recommender:** &mdash;  
