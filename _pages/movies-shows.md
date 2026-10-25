@@ -11,22 +11,35 @@ permalink: /movies-shows/
 
 - Babe: Pig in the City
   - Recommended by Me
+  - Rated 2/2 Wonderful
 - Blade Runner 2049
   - Recommended by Me
+  - Rated 2/2 Wonderful
+- Cyrano De Bergerac (1940)
+  - Rated 2/2 Wonderful
+- Digger
+  - Rated 2/2 Wonderful
 - Eldorado
   - Recommended by Ben
 - Eternal Sunshine of the Spotless Mind
   - Recommended by Me
+  - Rated 0/2 Not For Me
 - The Good Place
   - Recommended by Kate
+  - Rated 0/2 Not For Me
 - A Little Bit of Chaos
   - Recommended by Angel Walker
 - Naked Gun 2
   - Recommended by Me
+  - Rated 2/2 Wonderful
 - No Country for Old Men
   - Recommended by Me
 - Office Space
   - Recommended by Me
+- Project Hail Mary
+  - Rated 2/2 Wonderful
+- The Secret Life of Walter Mitty
+  - Rated 2/2 Wonderful
 
 ## Want to Watch
 
