@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/life-the-universe-and-everything/
-genre: "Science Fiction"
+category: "Science Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Science Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)  
 **Author:** Douglas Adams  
-**Genre:** Science Fiction  
+**Category:** Science Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
