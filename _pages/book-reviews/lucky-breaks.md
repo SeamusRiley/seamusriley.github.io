@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/lucky-breaks/
-genre: "Children's & Middle Grade"
+category: "Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Children's & Middle Grade"
 **Rating:** 2/2 Wonderful  
 **Name:** Lucky Breaks (The Hard Pan Trilogy, #2)  
 **Author:** Susan Patron  
-**Genre:** Children's & Middle Grade  
+**Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
