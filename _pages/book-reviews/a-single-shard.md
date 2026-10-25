@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/a-single-shard/
+permalink: /books/a-single-shard/
 ---
 
 **Rating:** 2/2 Wonderful  
