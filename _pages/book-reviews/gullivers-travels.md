@@ -29,7 +29,6 @@ category: "Classics & Literary Fiction"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Gulliver's Travels  
 **Author:** Jonathan Swift  
 **Category:** Classics & Literary Fiction  
 **Recommender:** &mdash;
