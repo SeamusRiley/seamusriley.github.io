@@ -43,7 +43,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><a href="/books/enders-game/" title="Ender&#x27;s Game (Ender&#x27;s Saga, #1)" style="max-height:218px"><strong>Ender&#x27;s Game</strong></a></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/the-chronicles-of-narnia/" title="The Chronicles of Narnia (The Chronicles of Narnia, #1-7)" style="max-height:250px">The Chronicles of Narnia</a></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#9a5c26"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:188px"><strong>The Magician&#x27;s Nephew</strong></a></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:250px">Mistborn</a></div>
+<div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:250px">Mistborn &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><a href="/books/the-city-of-ember/" title="The City of Ember (Book of Ember, #1)" style="max-height:218px"><strong>The City of Ember</strong></a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><a href="/books/the-people-of-sparks/" title="The People of Sparks (The City of Ember #2)" style="max-height:218px"><strong>The People of Sparks</strong></a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><a href="/books/the-prophet-of-yonwood/" title="The Prophet of Yonwood (Book of Ember, #3)" style="max-height:218px"><strong>The Prophet of Yonwood</strong></a></div>
@@ -101,7 +101,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td>Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Lucky Breaks (The Hard Pan Trilogy, #2)</td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Magician&#x27;s Nephew (Chronicles of Narnia, #6)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td><a href="/books/mistborn-the-final-empire/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Ominous Parallels</td><td>Leonard Peikoff</td><td>&mdash;</td><td><a href="/books/the-ominous-parallels/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>The People of Sparks (The City of Ember #2)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
