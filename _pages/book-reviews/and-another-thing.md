@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/and-another-thing/
+permalink: /books/and-another-thing/
 ---
 
 **Rating:** 2/2 Wonderful  
