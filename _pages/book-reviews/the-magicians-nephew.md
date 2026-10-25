@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-magicians-nephew/
-genre: "Fantasy"
+category: "Fantasy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Fantasy"
 **Rating:** 2/2 Wonderful  
 **Name:** The Magician's Nephew (Chronicles of Narnia, #6)  
 **Author:** C.S. Lewis  
-**Genre:** Fantasy  
+**Category:** Fantasy  
 **Recommender:** &mdash;
 
 *No review yet.*
