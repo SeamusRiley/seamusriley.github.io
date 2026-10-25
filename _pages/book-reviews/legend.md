@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/legend/
 ---
 
-**Rating:** Nice 1/2  
+**Rating:** 1/2 Nice  
 **Name:** Legend (Legend, #1)  
 **Author:** Marie Lu  
 **Recommender:** &mdash;
