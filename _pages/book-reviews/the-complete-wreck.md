@@ -10,6 +10,7 @@ category: "Children's & Middle Grade"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
+<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -29,6 +30,7 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 0/2 Not For Me  
+**Name:** The Complete Wreck (A Series of Unfortunate Events, #1-13)  
 **Author:** Lemony Snicket  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
