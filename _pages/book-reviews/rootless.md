@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/rootless/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Rootless (Rootless, #1)  
 **Author:** Chris Howard  
 **Recommender:** &mdash;
