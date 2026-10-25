@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-green-glass-sea/
+permalink: /books/the-green-glass-sea/
 ---
 
 **Rating:** 2/2 Wonderful  
