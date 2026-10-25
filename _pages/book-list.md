@@ -17,7 +17,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-spine a,.bk-spine span{writing-mode:vertical-rl;transform:rotate(180deg);color:#f7f1e3;text-decoration:none;font-size:12.5px;letter-spacing:.4px;white-space:nowrap;overflow:hidden;max-height:220px}
 .bk-spine.bk-long a,.bk-spine.bk-long span{font-size:10.5px}
 .bk-bookend{width:160px;height:160px;flex:none;background:linear-gradient(#8a6844,#6e5133);border-radius:2px;box-shadow:inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center}
-.bk-bookend img{width:78%;height:78%;object-fit:contain;filter:sepia(1) saturate(2.4) hue-rotate(-12deg) brightness(.5) contrast(1.2)}
+.bk-bookend img{width:78%;height:78%;object-fit:contain}
 .bk-legend{font-size:.85em;margin:.1em 0 1.5em}
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 </style>
@@ -69,7 +69,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:200px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:188px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:218px">Born to Run &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:218px">I Am Justice &#9733;</a></div>
-<div class="bk-bookend"><img src="/assets/images/home%20-%20crest.svg" alt="Crest"></div>
+<div class="bk-bookend"><img src="/assets/images/crest_brown.svg" alt="Crest"></div>
 </div><div class="bk-board"></div>
 </div>
 <p class="bk-legend">Shelf colors by category:<br>
