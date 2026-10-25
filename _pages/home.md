@@ -21,6 +21,7 @@ author_profile: false
 - [Social Network](/socialnetwork/) 
 - [Blog](/blog/) 
 - [Puzzles!](/puzzles/)
+- [Book List](/book-list/)
 
 
 
