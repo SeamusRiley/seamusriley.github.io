@@ -8,6 +8,8 @@ permalink: /books/
 excerpt: 'Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Movies &amp; Shows</a>, <a href="/stage-productions/">Stage Productions</a>'
 ---
 
+Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Movies &amp; Shows</a>, <a href="/stage-productions/">Stage Productions</a>
+
 <table>
 <thead>
 <tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th><th>Review</th></tr>
