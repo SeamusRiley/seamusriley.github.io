@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/mistborn-the-final-empire/
-genre: "Fantasy"
+category: "Fantasy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Fantasy"
 **Rating:** 1/2 Nice  
 **Name:** Mistborn: The Final Empire  
 **Author:** Brandon Sanderson  
-**Genre:** Fantasy  
+**Category:** Fantasy  
 **Recommender:** &mdash;
 
 ### Review
