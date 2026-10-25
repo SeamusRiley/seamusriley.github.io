@@ -29,7 +29,6 @@ category: "Dystopian"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Rootless (Rootless, #1)  
 **Author:** Chris Howard  
 **Category:** Dystopian  
 **Recommender:** &mdash;
