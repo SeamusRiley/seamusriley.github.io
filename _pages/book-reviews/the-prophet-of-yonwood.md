@@ -29,7 +29,6 @@ category: "Dystopian"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Prophet of Yonwood (Book of Ember, #3)  
 **Author:** Jeanne DuPrau  
 **Category:** Dystopian  
 **Recommender:** &mdash;
