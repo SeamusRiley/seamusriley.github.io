@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-restaurant-at-the-end-of-the-universe/
+permalink: /books/the-restaurant-at-the-end-of-the-universe/
 ---
 
 **Rating:** 2/2 Wonderful  
