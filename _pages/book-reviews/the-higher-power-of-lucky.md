@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-higher-power-of-lucky/
+permalink: /books/the-higher-power-of-lucky/
 ---
 
 **Rating:** 2/2 Wonderful  
