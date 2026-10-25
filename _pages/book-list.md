@@ -59,5 +59,24 @@ Books I have read, rated my way: 2/2 Wonderful, 1/2 Nice, 0/2 Not For Me.
 
 ### Want to Read
 
+- Annihilation &mdash; Jeff VanderMeer
+- The DIM Hypothesis &mdash; Leonard Peikoff
+- Emotion and Meaning in Music &mdash; Leonard B. Meyer
+- The Franklin Project
+- Freehold &mdash; Michael Z. Williamson
+- Heroes and Champions &mdash; Andrew Bernstein
+- How We Know &mdash; Harry Binswanger
+- Less Than Words Can Say &mdash; Richard Mitchell
+- A Little Princess &mdash; Frances Hodgson Burnett
+- Loving Life &mdash; Craig Biddle
+- Myths to Live By &mdash; Joseph Campbell
+- Netochka Nezvanova &mdash; Fyodor Dostoevsky
+- Nostrilia
+- Open Veins of Latin America &mdash; Eduardo Galeano
+- Piranesi &mdash; Susanna Clarke
+- The Productivity Project &mdash; Chris Bailey
 - The Reckoning (Rootless, #3) &mdash; Chris Howard
 - The Rift (Rootless, #2) &mdash; Chris Howard
+- The Shame Core &mdash; John Bradshaw
+- Touching the Art &mdash; Luc Travers
+- The Witcher Books &mdash; Andrzej Sapkowski
