@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** A Single Shard  
 **Author:** Linda Sue Park  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
