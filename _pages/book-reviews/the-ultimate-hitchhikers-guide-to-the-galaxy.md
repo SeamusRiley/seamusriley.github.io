@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-ultimate-hitchhikers-guide-to-the-galaxy/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)  
 **Author:** Douglas Adams  
 **Recommender:** &mdash;
