@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-diamond-of-darkhold/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Diamond of Darkhold (Book of Ember, #4)  
 **Author:** Jeanne DuPrau  
 **Recommender:** &mdash;
