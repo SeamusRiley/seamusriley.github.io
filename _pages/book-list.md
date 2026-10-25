@@ -69,7 +69,16 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:230px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:218px">I Am Justice &#9733;</a></div>
 </div><div class="bk-board"></div>
 </div>
-<p class="bk-legend">Shelf colors by genre:<span class="bk-dot" style="background:#1e4d3d"></span>Philosophy <span class="bk-dot" style="background:#6e5133"></span>Classics &amp; Literary Fiction <span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction <span class="bk-dot" style="background:#9a5c26"></span>Fantasy <span class="bk-dot" style="background:#b45a1b"></span>Dystopian <span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade <span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction <span class="bk-dot" style="background:#26221e"></span>Thriller</p>
+<p class="bk-legend">Shelf colors by category:<br>
+<span class="bk-dot" style="background:#1e4d3d"></span>Philosophy (6)<br>
+<span class="bk-dot" style="background:#6e5133"></span>Classics &amp; Literary Fiction (4)<br>
+<span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
+<span class="bk-dot" style="background:#9a5c26"></span>Fantasy (3)<br>
+<span class="bk-dot" style="background:#b45a1b"></span>Dystopian (6)<br>
+<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (11)<br>
+<span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
+<span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
+<span class="bk-dot" style="background:#26221e"></span>Thriller (1)</p>
 
 <table>
 <thead>
