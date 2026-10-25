@@ -26,18 +26,18 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 </style>
 <div class="bk-shelf" id="bookshelf">
 <div class="bk-row">
-<div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:218px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><span style="max-height:250px">OPAR</span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:188px">Anthem &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:250px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:250px"><strong>The Fountainhead</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/ideal/" title="Ideal" style="max-height:218px">Ideal &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><span style="max-height:218px"><strong>ITOE</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/we-the-living/" title="We the Living" style="max-height:218px"><strong>We the Living</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:218px"><strong>The Fall Line</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><span style="max-height:218px"><strong>To Kill a Mockingbird</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:218px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><span style="max-height:218px">Gulliver&#x27;s Travels</span></div>
+<div class="bk-spine" style="width:38px;height:233px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:221px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:265px;background:#1e4d3d"><span style="max-height:253px">OPAR</span></div>
+<div class="bk-spine" style="width:28px;height:206px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:194px">Anthem &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:268px;background:#1e4d3d"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:256px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:268px;background:#1e4d3d"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:256px"><strong>The Fountainhead</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#1e4d3d"><a href="/books/ideal/" title="Ideal" style="max-height:224px">Ideal &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#1e4d3d"><span style="max-height:224px"><strong>ITOE</strong></span></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#1e4d3d"><a href="/books/we-the-living/" title="We the Living" style="max-height:224px"><strong>We the Living</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:224px"><strong>The Fall Line</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:242px;background:#6e5133"><span style="max-height:230px"><strong>To Kill a Mockingbird</strong></span></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:224px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:233px;background:#6e5133"><span style="max-height:221px">Gulliver&#x27;s Travels</span></div>
 <div class="bk-spine bk-long" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>The Hitchhiker&#x27;s Guide to the Galaxy</strong></span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#1f4e5f"><span style="max-height:250px"><strong>DON&#x27;T PANIC</strong></span></div>
 <div class="bk-spine bk-long" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>The Restaurant at the End of the Universe</strong></span></div>
@@ -46,36 +46,36 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Mostly Harmless</strong></span></div>
 </div><div class="bk-board"></div>
 <div class="bk-row">
-<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>And Another Thing...</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Ender&#x27;s Game</strong></span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><span style="max-height:250px">The Chronicles of Narnia</span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#9a5c26"><span style="max-height:188px"><strong>The Magician&#x27;s Nephew</strong></span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:250px">Mistborn &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px"><strong>The City of Ember</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px"><strong>The People of Sparks</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px"><strong>The Prophet of Yonwood</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px"><strong>The Diamond of Darkhold</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px"><strong>Rootless</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#b45a1b"><span style="max-height:218px">Legend</span></div>
+<div class="bk-spine" style="width:38px;height:242px;background:#1f4e5f"><span style="max-height:230px"><strong>And Another Thing...</strong></span></div>
+<div class="bk-spine" style="width:38px;height:227px;background:#1f4e5f"><span style="max-height:215px"><strong>Ender&#x27;s Game</strong></span></div>
+<div class="bk-spine" style="width:52px;height:271px;background:#9a5c26"><span style="max-height:259px">The Chronicles of Narnia</span></div>
+<div class="bk-spine" style="width:28px;height:209px;background:#9a5c26"><span style="max-height:197px"><strong>The Magician&#x27;s Nephew</strong></span></div>
+<div class="bk-spine" style="width:52px;height:271px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:259px">Mistborn &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:218px;background:#b45a1b"><span style="max-height:206px"><strong>The City of Ember</strong></span></div>
+<div class="bk-spine" style="width:38px;height:218px;background:#b45a1b"><span style="max-height:206px"><strong>The People of Sparks</strong></span></div>
+<div class="bk-spine" style="width:38px;height:218px;background:#b45a1b"><span style="max-height:206px"><strong>The Prophet of Yonwood</strong></span></div>
+<div class="bk-spine" style="width:38px;height:218px;background:#b45a1b"><span style="max-height:206px"><strong>The Diamond of Darkhold</strong></span></div>
+<div class="bk-spine" style="width:38px;height:236px;background:#b45a1b"><span style="max-height:224px"><strong>Rootless</strong></span></div>
+<div class="bk-spine" style="width:38px;height:224px;background:#b45a1b"><span style="max-height:212px">Legend</span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>Elijah of Buxton</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>Alabama Moon</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>The Green Glass Sea</strong></span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><a href="/books/the-far-side-galleries-1-5/" title="The Far Side Galleries 1-5" style="max-height:250px"><strong>The Far Side Galleries 1-5</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh</strong></span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh Season</strong></span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Saving Shiloh</strong></span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>A Single Shard</strong></span></div>
+<div class="bk-spine" style="width:38px;height:239px;background:#67782a"><span style="max-height:227px"><strong>The Green Glass Sea</strong></span></div>
+<div class="bk-spine" style="width:52px;height:265px;background:#67782a"><a href="/books/the-far-side-galleries-1-5/" title="The Far Side Galleries 1-5" style="max-height:253px"><strong>The Far Side Galleries 1-5</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:28px;height:203px;background:#67782a"><span style="max-height:191px"><strong>Shiloh</strong></span></div>
+<div class="bk-spine" style="width:28px;height:203px;background:#67782a"><span style="max-height:191px"><strong>Shiloh Season</strong></span></div>
+<div class="bk-spine" style="width:28px;height:203px;background:#67782a"><span style="max-height:191px"><strong>Saving Shiloh</strong></span></div>
+<div class="bk-spine" style="width:28px;height:212px;background:#67782a"><span style="max-height:200px"><strong>A Single Shard</strong></span></div>
 </div><div class="bk-board"></div>
 <div class="bk-row">
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Higher Power of Lucky</strong></span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Lucky Breaks</strong></span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Westing Game</strong></span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><a href="/books/the-complete-calvin-and-hobbes/" title="The Complete Calvin and Hobbes" style="max-height:250px"><strong>Calvin and Hobbes</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#96502e"><span style="max-height:218px">Codependent No More</span></div>
-<div class="bk-spine" style="width:28px;height:200px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:188px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:218px">Born to Run &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:218px">I Am Justice &#9733;</a></div>
+<div class="bk-spine" style="width:28px;height:197px;background:#67782a"><span style="max-height:185px"><strong>The Higher Power of Lucky</strong></span></div>
+<div class="bk-spine" style="width:28px;height:197px;background:#67782a"><span style="max-height:185px"><strong>Lucky Breaks</strong></span></div>
+<div class="bk-spine" style="width:28px;height:188px;background:#67782a"><span style="max-height:176px"><strong>The Westing Game</strong></span></div>
+<div class="bk-spine" style="width:52px;height:265px;background:#67782a"><span style="max-height:253px">The Complete Wreck</span></div>
+<div class="bk-spine" style="width:52px;height:250px;background:#67782a"><a href="/books/the-complete-calvin-and-hobbes/" title="The Complete Calvin and Hobbes" style="max-height:238px"><strong>Calvin and Hobbes</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:221px;background:#96502e"><span style="max-height:209px">Codependent No More</span></div>
+<div class="bk-spine" style="width:28px;height:188px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:176px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:233px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:221px">Born to Run &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:242px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:230px">I Am Justice &#9733;</a></div>
 <a class="bk-bookend" href="https://www.seamusriley.com/blog/crest/" title="The Riley Crest" style="text-decoration:none"><img src="/assets/images/crest_brown.svg" alt="Crest"></a>
 </div><div class="bk-board"></div>
 </div>
