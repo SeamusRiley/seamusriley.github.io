@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-complete-wreck/
+permalink: /books/the-complete-wreck/
 ---
 
 **Rating:** 0/2 Not For Me  
