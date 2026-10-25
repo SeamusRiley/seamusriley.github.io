@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-hitchhikers-guide-to-the-galaxy/
-genre: "Science Fiction"
+category: "Science Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Science Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)  
 **Author:** Douglas Adams  
-**Genre:** Science Fiction  
+**Category:** Science Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
