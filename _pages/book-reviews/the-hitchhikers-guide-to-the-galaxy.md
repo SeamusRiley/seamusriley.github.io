@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-hitchhikers-guide-to-the-galaxy/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)  
 **Author:** Douglas Adams  
 **Recommender:** &mdash;
