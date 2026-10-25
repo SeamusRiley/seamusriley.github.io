@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Shiloh (Shiloh, #1)  
 **Author:** Phyllis Reynolds Naylor  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
