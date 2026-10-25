@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/i-am-justice/
-genre: "Thriller"
+category: "Thriller"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Thriller"
 **Rating:** 0/2 Not For Me  
 **Name:** I Am Justice  
 **Author:** D.P. Watkins  
-**Genre:** Thriller  
+**Category:** Thriller  
 **Recommender:** &mdash;  
 **Date read:** Oct 22, 2023
 
