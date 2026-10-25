@@ -20,6 +20,7 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/movies-shows/">Movie
 <tr><td>1/2 Nice</td><td>Come From Away</td><td>Irene Sankoff and David Hein</td><td>Patrick Healey</td></tr>
 <tr><td>1/2 Nice</td><td>The Guy Who Didn&#x27;t Like Musicals</td><td>Nick and Matt Lang</td><td>Lee O&#x27;Dell</td></tr>
 <tr><td>2/2 Wonderful</td><td>Hamilton</td><td>Lin-Manuel Miranda</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Les Miserables</td><td>Alain Boublil and Claude-Michel Schönberg</td><td>&mdash;</td></tr>
 </tbody>
 </table>
 
