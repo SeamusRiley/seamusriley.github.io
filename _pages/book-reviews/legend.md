@@ -10,6 +10,7 @@ category: "Dystopian"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
+<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -29,6 +30,7 @@ category: "Dystopian"
 
 
 **Rating:** 1/2 Nice  
+**Name:** Legend (Legend, #1)  
 **Author:** Marie Lu  
 **Category:** Dystopian  
 **Recommender:** &mdash;
