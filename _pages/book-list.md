@@ -69,6 +69,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 </div><div class="bk-board"></div>
 <div class="bk-row">
 <div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
+<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><a href="/books/the-complete-calvin-and-hobbes/" title="The Complete Calvin and Hobbes" style="max-height:250px"><strong>Calvin and Hobbes</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#96502e"><span style="max-height:218px">Codependent No More</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:188px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:218px">Born to Run &#9733;</a></div>
@@ -82,7 +83,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fantasy (3)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Dystopian (6)<br>
-<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (12)<br>
+<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (13)<br>
 <span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Thriller (1)</p>
@@ -101,6 +102,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>1/2 Nice</td><td>The Chronicles of Narnia (The Chronicles of Narnia, #1-7)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The City of Ember (Book of Ember, #1)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td>Codependent No More</td><td>Melody Beattie</td><td>Don Michelson</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Complete Calvin and Hobbes</td><td>Bill Watterson</td><td>&mdash;</td><td><a href="/books/the-complete-calvin-and-hobbes/">Review</a></td></tr>
 <tr><td>0/2 Not For Me</td><td>The Complete Wreck (A Series of Unfortunate Events, #1-13)</td><td>Lemony Snicket</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Diamond of Darkhold (Book of Ember, #4)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Elijah of Buxton</td><td>Christopher Paul Curtis</td><td>&mdash;</td><td>&mdash;</td></tr>
