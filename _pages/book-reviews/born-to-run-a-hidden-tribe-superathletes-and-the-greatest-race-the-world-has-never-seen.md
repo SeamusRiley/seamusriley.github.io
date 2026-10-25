@@ -29,7 +29,6 @@ category: "Nonfiction"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen  
 **Author:** Christopher McDougall  
 **Category:** Nonfiction  
 **Recommender:** &mdash;  
