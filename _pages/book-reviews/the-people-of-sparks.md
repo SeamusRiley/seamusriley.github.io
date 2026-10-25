@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-people-of-sparks/
+permalink: /books/the-people-of-sparks/
 ---
 
 **Rating:** 2/2 Wonderful  
