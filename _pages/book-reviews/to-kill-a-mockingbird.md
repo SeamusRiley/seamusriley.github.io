@@ -29,7 +29,6 @@ category: "Classics & Literary Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** To Kill a Mockingbird  
 **Author:** Harper Lee  
 **Category:** Classics & Literary Fiction  
 **Recommender:** &mdash;
