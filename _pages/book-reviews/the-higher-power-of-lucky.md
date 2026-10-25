@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-higher-power-of-lucky/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Higher Power of Lucky (The Hard Pan Trilogy, #1)  
 **Author:** Susan Patron  
 **Recommender:** &mdash;
