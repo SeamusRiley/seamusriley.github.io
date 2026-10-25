@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/lucky-breaks/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Lucky Breaks (The Hard Pan Trilogy, #2)  
 **Author:** Susan Patron  
 **Recommender:** &mdash;
