@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/all-the-pretty-horses/
-genre: "Classics & Literary Fiction"
+category: "Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Classics & Literary Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** All the Pretty Horses (The Border Trilogy, #1)  
 **Author:** Cormac McCarthy  
-**Genre:** Classics & Literary Fiction  
+**Category:** Classics & Literary Fiction  
 **Recommender:** Eli  
 **Date read:** Feb 23, 2026
 
