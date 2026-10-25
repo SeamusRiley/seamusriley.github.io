@@ -14,7 +14,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-row{display:flex;align-items:flex-end;gap:5px;padding:0 8px}
 .bk-board{height:12px;background:linear-gradient(#8a6844,#6e5133);border-radius:2px;box-shadow:0 3px 5px rgba(0,0,0,.35);margin-bottom:20px}
 .bk-spine{display:flex;align-items:center;justify-content:center;border-radius:3px 3px 1px 1px;box-shadow:inset -2px 0 3px rgba(0,0,0,.35),inset 2px 0 2px rgba(255,255,255,.14)}
-.bk-spine a{writing-mode:vertical-rl;color:#f7f1e3;text-decoration:none;font-size:12.5px;letter-spacing:.4px;white-space:nowrap;overflow:hidden;max-height:220px}
+.bk-spine a{writing-mode:vertical-rl;transform:rotate(180deg);color:#f7f1e3;text-decoration:none;font-size:12.5px;letter-spacing:.4px;white-space:nowrap;overflow:hidden;max-height:220px}
 .bk-spine.bk-long a{font-size:10.5px}
 .bk-legend{font-size:.85em;margin:.1em 0 1.5em}
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
