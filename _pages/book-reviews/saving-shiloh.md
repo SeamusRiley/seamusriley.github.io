@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/saving-shiloh/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Saving Shiloh (Shiloh, #3)  
 **Author:** Phyllis Reynolds Naylor  
 **Recommender:** &mdash;
