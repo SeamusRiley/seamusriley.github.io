@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Green Glass Sea (Green Glass, #1)  
 **Author:** Ellen Klages  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
