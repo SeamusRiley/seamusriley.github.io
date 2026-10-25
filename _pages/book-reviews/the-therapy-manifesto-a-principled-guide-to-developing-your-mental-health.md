@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/
+permalink: /books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/
 ---
 
 **Rating:** 2/2 Wonderful  
