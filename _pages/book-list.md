@@ -123,24 +123,65 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 
 ### Want to Read
 
-- Annihilation &mdash; Jeff VanderMeer
-- The DIM Hypothesis &mdash; Leonard Peikoff
-- Emotion and Meaning in Music &mdash; Leonard B. Meyer
+- Annihilation
+  - Written by Jeff VanderMeer
+  - Recommended by Me
+- The DIM Hypothesis
+  - Written by Leonard Peikoff
+  - Recommended by Me
+- Emotion and Meaning in Music
+  - Written by Leonard B. Meyer
+  - Recommended by Tim White
 - The Franklin Project
-- Freehold &mdash; Michael Z. Williamson
-- Heroes and Champions &mdash; Andrew Bernstein
-- How We Know &mdash; Harry Binswanger
-- Less Than Words Can Say &mdash; Richard Mitchell
-- A Little Princess &mdash; Frances Hodgson Burnett
-- Loving Life &mdash; Craig Biddle
-- Myths to Live By &mdash; Joseph Campbell
-- Netochka Nezvanova &mdash; Fyodor Dostoevsky
+  - Recommended by Me
+- Freehold
+  - Written by Michael Z. Williamson
+  - Recommended by Erek
+- Heroes and Champions
+  - Written by Andrew Bernstein
+  - Recommended by Me
+- How We Know
+  - Written by Harry Binswanger
+  - Recommended by Me
+- Less Than Words Can Say
+  - Written by Richard Mitchell
+  - Recommended by Me
+- A Little Princess
+  - Written by Frances Hodgson Burnett
+  - Recommended by Andre
+- Loving Life
+  - Written by Craig Biddle
+  - Recommended by Me
+- Miracleman
+  - Recommended by Me
+- Mr. A
+  - Recommended by Me
+- Myths to Live By
+  - Written by Joseph Campbell
+  - Recommended by Angel
+- Netochka Nezvanova
+  - Written by Fyodor Dostoevsky
 - Nostrilia
-- Open Veins of Latin America &mdash; Eduardo Galeano
-- Piranesi &mdash; Susanna Clarke
-- The Productivity Project &mdash; Chris Bailey
-- The Reckoning (Rootless, #3) &mdash; Chris Howard
-- The Rift (Rootless, #2) &mdash; Chris Howard
-- The Shame Core &mdash; John Bradshaw
-- Touching the Art &mdash; Luc Travers
-- The Witcher Books &mdash; Andrzej Sapkowski
+  - Recommended by Erek
+- Open Veins of Latin America
+  - Written by Eduardo Galeano
+  - Recommended by Olive
+- Piranesi
+  - Written by Susanna Clarke
+  - Recommended by Patrick
+- The Productivity Project
+  - Written by Chris Bailey
+  - Recommended by Me
+- The Reckoning (Rootless, #3)
+  - Written by Chris Howard
+- The Rift (Rootless, #2)
+  - Written by Chris Howard
+- The Shame Core
+  - Written by John Bradshaw
+  - Recommended by Andrew Dowdy
+- Touching the Art
+  - Written by Luc Travers
+  - Recommended by Me
+- The Witcher Books
+  - Written by Andrzej Sapkowski
+  - Recommended by Me
