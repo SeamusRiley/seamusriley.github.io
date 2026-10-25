@@ -10,7 +10,6 @@ category: "Fantasy"
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
 
-<style>.page__title{display:none}</style>
 <style>
 .bk-shelf{margin:1.4em 0 .2em}
 .bk-row{display:flex;align-items:flex-end;gap:0;padding:0 8px}
@@ -25,6 +24,7 @@ category: "Fantasy"
 .bk-spine-h.bk-long span{font-size:10.5px}
 .bk-legend{font-size:.85em;margin:.1em 0 1.5em}
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
+.page__title{display:none}
 </style>
 <div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:200px;height:28px;background:#9a5c26"><span><strong>The Magician&#x27;s Nephew</strong></span></div></div>
 
