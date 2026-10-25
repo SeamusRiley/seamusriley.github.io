@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/a-single-shard/
-genre: "Children's & Middle Grade"
+category: "Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Children's & Middle Grade"
 **Rating:** 2/2 Wonderful  
 **Name:** A Single Shard  
 **Author:** Linda Sue Park  
-**Genre:** Children's & Middle Grade  
+**Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
