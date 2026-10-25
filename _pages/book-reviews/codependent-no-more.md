@@ -29,7 +29,6 @@ category: "Mind & Self"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Codependent No More  
 **Author:** Melody Beattie  
 **Category:** Mind & Self  
 **Recommender:** Don Michelson
