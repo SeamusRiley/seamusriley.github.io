@@ -29,7 +29,7 @@ category: "Children's & Middle Grade"
 <div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:266.3px;height:52px;background:#67782a"><span>Goblet of Fire</span></div></div>
 
 
-**Rating:** 1/2 Nice  
+**Rating:** 0/2 Not For Me  
 **Name:** Harry Potter and the Goblet of Fire (Harry Potter, #4)  
 **Author:** J.K. Rowling  
 **Category:** Children's & Middle Grade  
