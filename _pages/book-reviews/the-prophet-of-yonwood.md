@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-prophet-of-yonwood/
+permalink: /books/the-prophet-of-yonwood/
 ---
 
 **Rating:** 2/2 Wonderful  
