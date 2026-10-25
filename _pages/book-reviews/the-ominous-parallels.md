@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-ominous-parallels/
+permalink: /books/the-ominous-parallels/
 ---
 
 **Rating:** 2/2 Wonderful  
