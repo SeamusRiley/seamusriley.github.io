@@ -58,6 +58,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>Elijah of Buxton</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>Alabama Moon</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#67782a"><span style="max-height:218px"><strong>The Green Glass Sea</strong></span></div>
+<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><a href="/books/the-far-side-galleries-1-5/" title="The Far Side Galleries 1-5" style="max-height:250px"><strong>The Far Side Galleries 1-5</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh Season</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Saving Shiloh</strong></span></div>
@@ -65,9 +66,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Higher Power of Lucky</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Lucky Breaks</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Westing Game</strong></span></div>
-<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
 </div><div class="bk-board"></div>
 <div class="bk-row">
+<div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#96502e"><span style="max-height:218px">Codependent No More</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:188px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:218px">Born to Run &#9733;</a></div>
@@ -81,7 +82,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fantasy (3)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Dystopian (6)<br>
-<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (11)<br>
+<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (12)<br>
 <span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Thriller (1)</p>
@@ -105,6 +106,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td>Elijah of Buxton</td><td>Christopher Paul Curtis</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Ender&#x27;s Game (Ender&#x27;s Saga, #1)</td><td>Orson Scott Card</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Fall Line</td><td>Lucid Fitzpatrick</td><td>&mdash;</td><td><a href="/books/the-fall-line/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td>The Far Side Galleries 1-5</td><td>Gary Larson</td><td>&mdash;</td><td><a href="/books/the-far-side-galleries-1-5/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>The Fountainhead</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/the-fountainhead/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>The Green Glass Sea (Green Glass, #1)</td><td>Ellen Klages</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td>Gulliver&#x27;s Travels</td><td>Jonathan Swift</td><td>&mdash;</td><td>&mdash;</td></tr>
