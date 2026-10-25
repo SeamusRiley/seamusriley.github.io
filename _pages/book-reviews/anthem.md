@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/anthem/
 ---
 
-**Rating:** Nice 1/2  
+**Rating:** 1/2 Nice  
 **Name:** Anthem  
 **Author:** Ayn Rand  
 **Recommender:** &mdash;  
