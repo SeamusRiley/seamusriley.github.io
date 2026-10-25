@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-fall-line/
+permalink: /books/the-fall-line/
 ---
 
 **Rating:** 2/2 Wonderful  
