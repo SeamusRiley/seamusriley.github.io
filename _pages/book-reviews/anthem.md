@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/anthem/
+permalink: /books/anthem/
 ---
 
 **Rating:** 1/2 Nice  
