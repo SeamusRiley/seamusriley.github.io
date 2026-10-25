@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/legend/
+permalink: /books/legend/
 ---
 
 **Rating:** 1/2 Nice  
