@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/i-am-justice/
 ---
 
-**Rating:** Not For Me 0/2  
+**Rating:** 0/2 Not For Me  
 **Name:** I Am Justice  
 **Author:** D.P. Watkins  
 **Recommender:** &mdash;  
