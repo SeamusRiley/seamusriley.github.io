@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/life-the-universe-and-everything/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)  
 **Author:** Douglas Adams  
 **Recommender:** &mdash;
