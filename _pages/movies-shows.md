@@ -14,13 +14,14 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 
 <table>
 <thead>
-<tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th></tr>
+<tr><th>Rating</th><th>Name</th><th>Director</th><th>Recommender</th></tr>
 </thead>
 <tbody>
 <tr><td>2/2 Wonderful</td><td>Babe: Pig in the City</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>2/2 Wonderful</td><td>Blade Runner 2049</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>2/2 Wonderful</td><td>Cyrano De Bergerac (1940)</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Digger</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Django Unchained</td><td>Quentin Tarantino</td><td>Aaron</td></tr>
 <tr><td>&mdash;</td><td>Eldorado</td><td>&mdash;</td><td>Ben</td></tr>
 <tr><td>0/2 Not For Me</td><td>Eternal Sunshine of the Spotless Mind</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>0/2 Not For Me</td><td>The Good Place</td><td>&mdash;</td><td>Kate</td></tr>
@@ -50,7 +51,7 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 - Blow Out
   - Recommended by Eli
 - Bottle Rocket
-  - Written by Wes Anderson
+  - Directed by Wes Anderson
 - Dae Jang Geum
   - Recommended by Craig Biddle
 - The Damn United
