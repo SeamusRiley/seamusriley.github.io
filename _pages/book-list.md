@@ -80,7 +80,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Thriller (1)</p>
 
-<table>
+<table class="sortable">
 <thead>
 <tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th><th>Review</th></tr>
 </thead>
@@ -194,3 +194,35 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 - The Witcher Books
   - Written by Andrzej Sapkowski
   - Recommended by Me
+
+<style>
+table.sortable th{cursor:pointer}
+table.sortable th.srt[data-dir="asc"]::after{content:" ▴"}
+table.sortable th.srt[data-dir="desc"]::after{content:" ▾"}
+</style>
+<script>
+document.querySelectorAll('table.sortable').forEach(function(tbl){
+  var ths = tbl.querySelectorAll('thead th');
+  function key(td){
+    var t = td.textContent.trim().toLowerCase();
+    if (t === '—') return '~~~~';
+    return t.replace(/^(the|a|an)\s+/, '');
+  }
+  ths.forEach(function(th, i){
+    th.title = 'Click to sort';
+    th.addEventListener('click', function(){
+      var tbody = tbl.querySelector('tbody');
+      var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+      var asc = th.getAttribute('data-dir') !== 'asc';
+      ths.forEach(function(o){ o.removeAttribute('data-dir'); o.classList.remove('srt'); });
+      th.setAttribute('data-dir', asc ? 'asc' : 'desc');
+      th.classList.add('srt');
+      rows.sort(function(a, b){
+        var x = key(a.children[i]), y = key(b.children[i]);
+        return (x < y ? -1 : x > y ? 1 : 0) * (asc ? 1 : -1);
+      });
+      rows.forEach(function(r){ tbody.appendChild(r); });
+    });
+  });
+});
+</script>
