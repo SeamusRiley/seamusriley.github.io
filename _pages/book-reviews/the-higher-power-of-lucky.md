@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Higher Power of Lucky (The Hard Pan Trilogy, #1)  
 **Author:** Susan Patron  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
