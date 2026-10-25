@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Alabama Moon (Alabama Moon, #1)  
 **Author:** Watt Key  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
