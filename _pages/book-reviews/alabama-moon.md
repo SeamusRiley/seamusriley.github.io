@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/alabama-moon/
+permalink: /books/alabama-moon/
 ---
 
 **Rating:** 2/2 Wonderful  
