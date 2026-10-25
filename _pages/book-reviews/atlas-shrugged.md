@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/atlas-shrugged/
+permalink: /books/atlas-shrugged/
 ---
 
 **Rating:** 2/2 Wonderful  
