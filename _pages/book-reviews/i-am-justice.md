@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/i-am-justice/
+permalink: /books/i-am-justice/
 ---
 
 **Rating:** 0/2 Not For Me  
