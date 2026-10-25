@@ -37,3 +37,7 @@ Mistborn book 1 is a My Fair Lady story about fear, faith, and revolution. Much 
 <summary>Spoiler, click to expand</summary>
 <p>Ultimately Kelsier's revolt only succeeds because he fraudulently invents a religion centered on himself. Many of the characters are cool, but everyone is shocked all the time. Characters in this book really love to say "you're crazy! It will never work!" in a way that reminded me of info-mercials. The protagonist is not like other girls, and very cool, and also very scared, and the story ends in mormon fashion with her and the male love interest sharing a warm hug. The book did not really become interesting to me until Elend was introduced. Elend is the archetypical marxist savior character who like the protagonist of Metropolis must serve as the arbiter between The Head and The Heart. The magic system is very cool, but the fight scenes are tedious and I skimmed over all of them. Overall I think the book does a good job of describing the plight of a woman of ability to overcome a society of wretchedness. In essence it's a My Fair Lady story. Kelsier is the inviolate father figure who pays the bills and shows her respect and Elend is the troubled lover figure whom she has to save from himself. In the end everything works out, and there are some awesome plot twists.</p>
 </details>
+
+
+
+1/2 - I'm not blown away but it was enjoyable.
