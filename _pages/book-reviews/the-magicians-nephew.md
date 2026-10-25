@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-magicians-nephew/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Magician's Nephew (Chronicles of Narnia, #6)  
 **Author:** C.S. Lewis  
 **Recommender:** &mdash;
