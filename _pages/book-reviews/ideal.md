@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/ideal/
 ---
 
-**Rating:** Nice 1/2  
+**Rating:** 1/2 Nice  
 **Name:** Ideal  
 **Author:** Ayn Rand  
 **Recommender:** &mdash;  
