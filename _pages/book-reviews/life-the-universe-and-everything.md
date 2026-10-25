@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/life-the-universe-and-everything/
+permalink: /books/life-the-universe-and-everything/
 ---
 
 **Rating:** 2/2 Wonderful  
