@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-restaurant-at-the-end-of-the-universe/
-genre: "Science Fiction"
+category: "Science Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Science Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)  
 **Author:** Douglas Adams  
-**Genre:** Science Fiction  
+**Category:** Science Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
