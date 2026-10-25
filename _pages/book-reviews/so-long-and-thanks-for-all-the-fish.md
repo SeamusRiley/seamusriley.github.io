@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/so-long-and-thanks-for-all-the-fish/
+permalink: /books/so-long-and-thanks-for-all-the-fish/
 ---
 
 **Rating:** 2/2 Wonderful  
