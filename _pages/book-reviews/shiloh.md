@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/shiloh/
+permalink: /books/shiloh/
 ---
 
 **Rating:** 2/2 Wonderful  
