@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/enders-game/
+permalink: /books/enders-game/
 ---
 
 **Rating:** 2/2 Wonderful  
