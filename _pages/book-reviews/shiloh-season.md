@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Shiloh Season (Shiloh, #2)  
 **Author:** Phyllis Reynolds Naylor  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
