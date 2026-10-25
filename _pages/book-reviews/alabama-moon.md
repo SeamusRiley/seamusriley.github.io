@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/alabama-moon/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Alabama Moon (Alabama Moon, #1)  
 **Author:** Watt Key  
 **Recommender:** &mdash;
