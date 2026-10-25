@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-prophet-of-yonwood/
-genre: "Dystopian"
+category: "Dystopian"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Dystopian"
 **Rating:** 2/2 Wonderful  
 **Name:** The Prophet of Yonwood (Book of Ember, #3)  
 **Author:** Jeanne DuPrau  
-**Genre:** Dystopian  
+**Category:** Dystopian  
 **Recommender:** &mdash;
 
 *No review yet.*
