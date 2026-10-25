@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)  
 **Author:** Douglas Adams  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
