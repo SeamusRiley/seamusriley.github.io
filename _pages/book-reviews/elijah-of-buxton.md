@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Elijah of Buxton  
 **Author:** Christopher Paul Curtis  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
