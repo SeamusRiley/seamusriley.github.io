@@ -24,10 +24,10 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-legend{font-size:.85em;margin:.1em 0 1.5em}
 .bk-dot{display:inline-block;width:.7em;height:.7em;border-radius:2px;margin:0 .3em 0 .9em}
 </style>
-<div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch">
+<div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:max-content;max-width:100%">
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
 <div style="flex:1;min-width:0">
-<div class="bk-row">
+<div class="bk-row" style="padding:0">
 <div class="bk-spine" style="width:38px;height:235.4px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:223.4px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:275.0px;background:#1e4d3d"><span style="max-height:263.0px">OPAR</span></div>
 <div class="bk-spine" style="width:28px;height:187.0px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
@@ -47,7 +47,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine bk-long" style="width:28px;height:194.4px;background:#1f4e5f"><span style="max-height:182.4px"><strong>So Long, and Thanks for All the Fish</strong></span></div>
 <div class="bk-spine" style="width:38px;height:226.2px;background:#1f4e5f"><span style="max-height:214.2px"><strong>Mostly Harmless</strong></span></div>
 </div><div class="bk-board"></div>
-<div class="bk-row">
+<div class="bk-row" style="padding:0">
 <div class="bk-spine" style="width:38px;height:229.2px;background:#1f4e5f"><span style="max-height:217.2px"><strong>And Another Thing...</strong></span></div>
 <div class="bk-spine" style="width:38px;height:241.5px;background:#1f4e5f"><span style="max-height:229.5px"><strong>Ender&#x27;s Game</strong></span></div>
 <div class="bk-spine" style="width:52px;height:260.1px;background:#9a5c26"><span style="max-height:248.10000000000002px">The Chronicles of Narnia</span></div>
@@ -68,7 +68,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><span style="max-height:197.3px"><strong>Saving Shiloh</strong></span></div>
 <div class="bk-spine" style="width:28px;height:201.9px;background:#67782a"><span style="max-height:189.9px"><strong>A Single Shard</strong></span></div>
 </div><div class="bk-board"></div>
-<div class="bk-row">
+<div class="bk-row" style="padding:0">
 <div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><span style="max-height:201.0px"><strong>The Higher Power of Lucky</strong></span></div>
 <div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><span style="max-height:201.0px"><strong>Lucky Breaks</strong></span></div>
 <div class="bk-spine" style="width:28px;height:198.1px;background:#67782a"><span style="max-height:186.1px"><strong>The Westing Game</strong></span></div>
