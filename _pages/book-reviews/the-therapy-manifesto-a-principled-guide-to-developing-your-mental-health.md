@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** The Therapy Manifesto: A Principled Guide to Developing Your Mental Health  
 **Author:** Mark Derian  
 **Recommender:** &mdash;  
