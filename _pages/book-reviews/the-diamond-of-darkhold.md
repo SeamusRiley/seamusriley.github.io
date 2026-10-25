@@ -29,7 +29,6 @@ category: "Dystopian"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Diamond of Darkhold (Book of Ember, #4)  
 **Author:** Jeanne DuPrau  
 **Category:** Dystopian  
 **Recommender:** &mdash;
