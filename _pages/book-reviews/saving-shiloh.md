@@ -29,7 +29,6 @@ category: "Children's & Middle Grade"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** Saving Shiloh (Shiloh, #3)  
 **Author:** Phyllis Reynolds Naylor  
 **Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
