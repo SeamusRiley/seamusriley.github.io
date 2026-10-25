@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-ultimate-hitchhikers-guide-to-the-galaxy/
+permalink: /books/the-ultimate-hitchhikers-guide-to-the-galaxy/
 ---
 
 **Rating:** 2/2 Wonderful  
