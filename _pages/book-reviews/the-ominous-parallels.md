@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Ominous Parallels  
 **Author:** Leonard Peikoff  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
