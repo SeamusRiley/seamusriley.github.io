@@ -29,52 +29,52 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div style="flex:1;min-width:0">
 <div class="bk-row" style="padding:0">
 <div class="bk-spine" style="width:38px;height:235.4px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:223.4px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:275.0px;background:#1e4d3d"><span style="max-height:263.0px">OPAR</span></div>
+<div class="bk-spine" style="width:52px;height:275.0px;background:#1e4d3d"><a href="/books/opar/" title="OPAR (Objectivism: The Philosophy of Ayn Rand)" style="max-height:263.0px">OPAR</a></div>
 <div class="bk-spine" style="width:28px;height:187.0px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:249.0px;background:#1e4d3d"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:237.0px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:249.0px;background:#1e4d3d"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/ideal/" title="Ideal" style="max-height:205.0px">Ideal &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><span style="max-height:205.0px"><strong>ITOE</strong></span></div>
+<div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/introduction-to-objectivist-epistemology/" title="Introduction to Objectivist Epistemology" style="max-height:205.0px"><strong>ITOE</strong></a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/we-the-living/" title="We the Living" style="max-height:205.0px"><strong>We the Living</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:236.9px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:224.9px"><strong>The Fall Line</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:230.8px;background:#6e5133"><span style="max-height:218.8px"><strong>To Kill a Mockingbird</strong></span></div>
+<div class="bk-spine" style="width:38px;height:230.8px;background:#6e5133"><a href="/books/to-kill-a-mockingbird/" title="To Kill a Mockingbird" style="max-height:218.8px"><strong>To Kill a Mockingbird</strong></a></div>
 <div class="bk-spine" style="width:38px;height:223.1px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:211.1px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:233.8px;background:#6e5133"><span style="max-height:221.8px">Gulliver&#x27;s Travels</span></div>
-<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><span style="max-height:214.2px"><strong>The Hitchhiker&#x27;s Guide to the Galaxy</strong></span></div>
-<div class="bk-spine" style="width:52px;height:263.9px;background:#1f4e5f"><span style="max-height:251.89999999999998px"><strong>DON&#x27;T PANIC</strong></span></div>
-<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><span style="max-height:214.2px"><strong>The Restaurant at the End of the Universe</strong></span></div>
-<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><span style="max-height:214.2px"><strong>Life, the Universe and Everything</strong></span></div>
-<div class="bk-spine bk-long" style="width:28px;height:194.4px;background:#1f4e5f"><span style="max-height:182.4px"><strong>So Long, and Thanks for All the Fish</strong></span></div>
-<div class="bk-spine" style="width:38px;height:226.2px;background:#1f4e5f"><span style="max-height:214.2px"><strong>Mostly Harmless</strong></span></div>
+<div class="bk-spine" style="width:38px;height:233.8px;background:#6e5133"><a href="/books/gullivers-travels/" title="Gulliver&#x27;s Travels" style="max-height:221.8px">Gulliver&#x27;s Travels</a></div>
+<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><a href="/books/the-hitchhikers-guide-to-the-galaxy/" title="The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)" style="max-height:214.2px"><strong>The Hitchhiker&#x27;s Guide to the Galaxy</strong></a></div>
+<div class="bk-spine" style="width:52px;height:263.9px;background:#1f4e5f"><a href="/books/the-ultimate-hitchhikers-guide-to-the-galaxy/" title="The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)" style="max-height:251.89999999999998px"><strong>DON&#x27;T PANIC</strong></a></div>
+<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><a href="/books/the-restaurant-at-the-end-of-the-universe/" title="The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)" style="max-height:214.2px"><strong>The Restaurant at the End of the Universe</strong></a></div>
+<div class="bk-spine bk-long" style="width:38px;height:226.2px;background:#1f4e5f"><a href="/books/life-the-universe-and-everything/" title="Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)" style="max-height:214.2px"><strong>Life, the Universe and Everything</strong></a></div>
+<div class="bk-spine" style="width:28px;height:194.4px;background:#1f4e5f"><a href="/books/so-long-and-thanks-for-all-the-fish/" title="So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)" style="max-height:182.4px"><strong>SLATFATF</strong></a></div>
+<div class="bk-spine" style="width:38px;height:226.2px;background:#1f4e5f"><a href="/books/mostly-harmless/" title="Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)" style="max-height:214.2px"><strong>Mostly Harmless</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
-<div class="bk-spine" style="width:38px;height:229.2px;background:#1f4e5f"><span style="max-height:217.2px"><strong>And Another Thing...</strong></span></div>
-<div class="bk-spine" style="width:38px;height:241.5px;background:#1f4e5f"><span style="max-height:229.5px"><strong>Ender&#x27;s Game</strong></span></div>
-<div class="bk-spine" style="width:52px;height:260.1px;background:#9a5c26"><span style="max-height:248.10000000000002px">The Chronicles of Narnia</span></div>
-<div class="bk-spine" style="width:28px;height:190.7px;background:#9a5c26"><span style="max-height:178.7px"><strong>The Magician&#x27;s Nephew</strong></span></div>
+<div class="bk-spine" style="width:38px;height:229.2px;background:#1f4e5f"><a href="/books/and-another-thing/" title="And Another Thing... (The Hitchhiker&#x27;s Guide to the Galaxy, #6)" style="max-height:217.2px"><strong>And Another Thing...</strong></a></div>
+<div class="bk-spine" style="width:38px;height:241.5px;background:#1f4e5f"><a href="/books/enders-game/" title="Ender&#x27;s Game (Ender&#x27;s Saga, #1)" style="max-height:229.5px"><strong>Ender&#x27;s Game</strong></a></div>
+<div class="bk-spine" style="width:52px;height:260.1px;background:#9a5c26"><a href="/books/the-chronicles-of-narnia/" title="The Chronicles of Narnia (The Chronicles of Narnia, #1-7)" style="max-height:248.10000000000002px">The Chronicles of Narnia</a></div>
+<div class="bk-spine" style="width:28px;height:190.7px;background:#9a5c26"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:178.7px"><strong>The Magician&#x27;s Nephew</strong></a></div>
 <div class="bk-spine" style="width:52px;height:256.4px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:244.39999999999998px">Mistborn &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><span style="max-height:220.3px"><strong>The City of Ember</strong></span></div>
-<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><span style="max-height:220.3px"><strong>The People of Sparks</strong></span></div>
-<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><span style="max-height:220.3px"><strong>The Prophet of Yonwood</strong></span></div>
-<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><span style="max-height:220.3px"><strong>The Diamond of Darkhold</strong></span></div>
-<div class="bk-spine" style="width:38px;height:218.5px;background:#b45a1b"><span style="max-height:206.5px"><strong>Rootless</strong></span></div>
-<div class="bk-spine" style="width:38px;height:238.4px;background:#b45a1b"><span style="max-height:226.4px">Legend</span></div>
-<div class="bk-spine" style="width:38px;height:221.6px;background:#67782a"><span style="max-height:209.6px"><strong>Elijah of Buxton</strong></span></div>
-<div class="bk-spine" style="width:38px;height:243.0px;background:#67782a"><span style="max-height:231.0px"><strong>Alabama Moon</strong></span></div>
-<div class="bk-spine" style="width:38px;height:227.7px;background:#67782a"><span style="max-height:215.7px"><strong>The Green Glass Sea</strong></span></div>
+<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><a href="/books/the-city-of-ember/" title="The City of Ember (Book of Ember, #1)" style="max-height:220.3px"><strong>The City of Ember</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><a href="/books/the-people-of-sparks/" title="The People of Sparks (The City of Ember #2)" style="max-height:220.3px"><strong>The People of Sparks</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><a href="/books/the-prophet-of-yonwood/" title="The Prophet of Yonwood (Book of Ember, #3)" style="max-height:220.3px"><strong>The Prophet of Yonwood</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.3px;background:#b45a1b"><a href="/books/the-diamond-of-darkhold/" title="The Diamond of Darkhold (Book of Ember, #4)" style="max-height:220.3px"><strong>The Diamond of Darkhold</strong></a></div>
+<div class="bk-spine" style="width:38px;height:218.5px;background:#b45a1b"><a href="/books/rootless/" title="Rootless (Rootless, #1)" style="max-height:206.5px"><strong>Rootless</strong></a></div>
+<div class="bk-spine" style="width:38px;height:238.4px;background:#b45a1b"><a href="/books/legend/" title="Legend (Legend, #1)" style="max-height:226.4px">Legend</a></div>
+<div class="bk-spine" style="width:38px;height:221.6px;background:#67782a"><a href="/books/elijah-of-buxton/" title="Elijah of Buxton" style="max-height:209.6px"><strong>Elijah of Buxton</strong></a></div>
+<div class="bk-spine" style="width:38px;height:243.0px;background:#67782a"><a href="/books/alabama-moon/" title="Alabama Moon (Alabama Moon, #1)" style="max-height:231.0px"><strong>Alabama Moon</strong></a></div>
+<div class="bk-spine" style="width:38px;height:227.7px;background:#67782a"><a href="/books/the-green-glass-sea/" title="The Green Glass Sea (Green Glass, #1)" style="max-height:215.7px"><strong>The Green Glass Sea</strong></a></div>
 <div class="bk-spine" style="width:52px;height:267.6px;background:#67782a"><a href="/books/the-far-side-galleries-1-5/" title="The Far Side Galleries 1-5" style="max-height:255.60000000000002px"><strong>The Far Side Galleries 1-5</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><span style="max-height:197.3px"><strong>Shiloh</strong></span></div>
-<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><span style="max-height:197.3px"><strong>Shiloh Season</strong></span></div>
-<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><span style="max-height:197.3px"><strong>Saving Shiloh</strong></span></div>
-<div class="bk-spine" style="width:28px;height:201.9px;background:#67782a"><span style="max-height:189.9px"><strong>A Single Shard</strong></span></div>
+<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:197.3px"><strong>Shiloh</strong></a></div>
+<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:197.3px"><strong>Shiloh Season</strong></a></div>
+<div class="bk-spine" style="width:28px;height:209.3px;background:#67782a"><a href="/books/saving-shiloh/" title="Saving Shiloh (Shiloh, #3)" style="max-height:197.3px"><strong>Saving Shiloh</strong></a></div>
+<div class="bk-spine" style="width:28px;height:201.9px;background:#67782a"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:189.9px"><strong>A Single Shard</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
-<div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><span style="max-height:201.0px"><strong>The Higher Power of Lucky</strong></span></div>
-<div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><span style="max-height:201.0px"><strong>Lucky Breaks</strong></span></div>
-<div class="bk-spine" style="width:28px;height:198.1px;background:#67782a"><span style="max-height:186.1px"><strong>The Westing Game</strong></span></div>
-<div class="bk-spine" style="width:52px;height:271.3px;background:#67782a"><span style="max-height:259.3px">The Complete Wreck</span></div>
+<div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><a href="/books/the-higher-power-of-lucky/" title="The Higher Power of Lucky (The Hard Pan Trilogy, #1)" style="max-height:201.0px"><strong>The Higher Power of Lucky</strong></a></div>
+<div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><a href="/books/lucky-breaks/" title="Lucky Breaks (The Hard Pan Trilogy, #2)" style="max-height:201.0px"><strong>Lucky Breaks</strong></a></div>
+<div class="bk-spine" style="width:28px;height:198.1px;background:#67782a"><a href="/books/the-westing-game/" title="The Westing Game" style="max-height:186.1px"><strong>The Westing Game</strong></a></div>
+<div class="bk-spine" style="width:52px;height:271.3px;background:#67782a"><a href="/books/the-complete-wreck/" title="The Complete Wreck (A Series of Unfortunate Events, #1-13)" style="max-height:259.3px">The Complete Wreck</a></div>
 <div class="bk-spine" style="width:52px;height:252.7px;background:#67782a"><a href="/books/the-complete-calvin-and-hobbes/" title="The Complete Calvin and Hobbes" style="max-height:240.7px"><strong>Calvin and Hobbes</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:239.9px;background:#96502e"><span style="max-height:227.9px">Codependent No More</span></div>
+<div class="bk-spine" style="width:38px;height:239.9px;background:#96502e"><a href="/books/codependent-no-more/" title="Codependent No More" style="max-height:227.9px">Codependent No More</a></div>
 <div class="bk-spine" style="width:28px;height:205.6px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:193.6px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:220.1px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:208.1px">Born to Run &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:224.6px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:212.6px">I Am Justice &#9733;</a></div>
@@ -99,52 +99,52 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th><th>Review</th></tr>
 </thead>
 <tbody>
-<tr><td>2/2 Wonderful</td><td>Alabama Moon (Alabama Moon, #1)</td><td>Watt Key</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>All the Pretty Horses (The Border Trilogy, #1)</td><td>Cormac McCarthy</td><td>Eli</td><td><a href="/books/all-the-pretty-horses/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>And Another Thing... (The Hitchhiker&#x27;s Guide to the Galaxy, #6)</td><td>Eoin Colfer</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Anthem</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/anthem/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>Atlas Shrugged</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/atlas-shrugged/">Review</a></td></tr>
-<tr><td>1/2 Nice</td><td>Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</td><td>Christopher McDougall</td><td>&mdash;</td><td><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/">Review</a></td></tr>
-<tr><td>1/2 Nice</td><td>The Chronicles of Narnia (The Chronicles of Narnia, #1-7)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The City of Ember (Book of Ember, #1)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Codependent No More</td><td>Melody Beattie</td><td>Don Michelson</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Complete Calvin and Hobbes</td><td>Bill Watterson</td><td>&mdash;</td><td><a href="/books/the-complete-calvin-and-hobbes/">Review</a></td></tr>
-<tr><td>0/2 Not For Me</td><td>The Complete Wreck (A Series of Unfortunate Events, #1-13)</td><td>Lemony Snicket</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Diamond of Darkhold (Book of Ember, #4)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Elijah of Buxton</td><td>Christopher Paul Curtis</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Ender&#x27;s Game (Ender&#x27;s Saga, #1)</td><td>Orson Scott Card</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Fall Line</td><td>Lucid Fitzpatrick</td><td>&mdash;</td><td><a href="/books/the-fall-line/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>The Far Side Galleries 1-5</td><td>Gary Larson</td><td>&mdash;</td><td><a href="/books/the-far-side-galleries-1-5/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>The Fountainhead</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/the-fountainhead/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>The Green Glass Sea (Green Glass, #1)</td><td>Ellen Klages</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Gulliver&#x27;s Travels</td><td>Jonathan Swift</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Higher Power of Lucky (The Hard Pan Trilogy, #1)</td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>0/2 Not For Me</td><td>I Am Justice</td><td>D.P. Watkins</td><td>&mdash;</td><td><a href="/books/i-am-justice/">Review</a></td></tr>
-<tr><td>1/2 Nice</td><td>Ideal</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/ideal/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>Introduction to Objectivist Epistemology</td><td>Ayn Rand</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Legend (Legend, #1)</td><td>Marie Lu</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Lucky Breaks (The Hard Pan Trilogy, #2)</td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Magician&#x27;s Nephew (Chronicles of Narnia, #6)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td><a href="/books/mistborn-the-final-empire/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Ominous Parallels</td><td>Leonard Peikoff</td><td>&mdash;</td><td><a href="/books/the-ominous-parallels/">Review</a></td></tr>
-<tr><td>1/2 Nice</td><td>OPAR (Objectivism: The Philosophy of Ayn Rand)</td><td>Leonard Peikoff</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The People of Sparks (The City of Ember #2)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Prophet of Yonwood (Book of Ember, #3)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Rootless (Rootless, #1)</td><td>Chris Howard</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Saving Shiloh (Shiloh, #3)</td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Shiloh (Shiloh, #1)</td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Shiloh Season (Shiloh, #2)</td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>A Single Shard</td><td>Linda Sue Park</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Therapy Manifesto: A Principled Guide to Developing Your Mental Health</td><td>Mark Derian</td><td>&mdash;</td><td><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>To Kill a Mockingbird</td><td>Harper Lee</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>We the Living</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/we-the-living/">Review</a></td></tr>
-<tr><td>2/2 Wonderful</td><td>The Westing Game</td><td>Ellen Raskin</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/alabama-moon/">Alabama Moon (Alabama Moon, #1)</a></td><td>Watt Key</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/all-the-pretty-horses/">All the Pretty Horses (The Border Trilogy, #1)</a></td><td>Cormac McCarthy</td><td>Eli</td><td><a href="/books/all-the-pretty-horses/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/and-another-thing/">And Another Thing... (The Hitchhiker&#x27;s Guide to the Galaxy, #6)</a></td><td>Eoin Colfer</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/anthem/">Anthem</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/anthem/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/atlas-shrugged/">Atlas Shrugged</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/atlas-shrugged/">Review</a></td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/">Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</a></td><td>Christopher McDougall</td><td>&mdash;</td><td><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/">Review</a></td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/the-chronicles-of-narnia/">The Chronicles of Narnia (The Chronicles of Narnia, #1-7)</a></td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-city-of-ember/">The City of Ember (Book of Ember, #1)</a></td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/codependent-no-more/">Codependent No More</a></td><td>Melody Beattie</td><td>Don Michelson</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-complete-calvin-and-hobbes/">The Complete Calvin and Hobbes</a></td><td>Bill Watterson</td><td>&mdash;</td><td><a href="/books/the-complete-calvin-and-hobbes/">Review</a></td></tr>
+<tr><td>0/2 Not For Me</td><td><a href="/books/the-complete-wreck/">The Complete Wreck (A Series of Unfortunate Events, #1-13)</a></td><td>Lemony Snicket</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-diamond-of-darkhold/">The Diamond of Darkhold (Book of Ember, #4)</a></td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/elijah-of-buxton/">Elijah of Buxton</a></td><td>Christopher Paul Curtis</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/enders-game/">Ender&#x27;s Game (Ender&#x27;s Saga, #1)</a></td><td>Orson Scott Card</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-fall-line/">The Fall Line</a></td><td>Lucid Fitzpatrick</td><td>&mdash;</td><td><a href="/books/the-fall-line/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-far-side-galleries-1-5/">The Far Side Galleries 1-5</a></td><td>Gary Larson</td><td>&mdash;</td><td><a href="/books/the-far-side-galleries-1-5/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-fountainhead/">The Fountainhead</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/the-fountainhead/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-green-glass-sea/">The Green Glass Sea (Green Glass, #1)</a></td><td>Ellen Klages</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/gullivers-travels/">Gulliver&#x27;s Travels</a></td><td>Jonathan Swift</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-higher-power-of-lucky/">The Higher Power of Lucky (The Hard Pan Trilogy, #1)</a></td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-hitchhikers-guide-to-the-galaxy/">The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>0/2 Not For Me</td><td><a href="/books/i-am-justice/">I Am Justice</a></td><td>D.P. Watkins</td><td>&mdash;</td><td><a href="/books/i-am-justice/">Review</a></td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/ideal/">Ideal</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/ideal/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/introduction-to-objectivist-epistemology/">Introduction to Objectivist Epistemology</a></td><td>Ayn Rand</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/legend/">Legend (Legend, #1)</a></td><td>Marie Lu</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/life-the-universe-and-everything/">Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/lucky-breaks/">Lucky Breaks (The Hard Pan Trilogy, #2)</a></td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-magicians-nephew/">The Magician&#x27;s Nephew (Chronicles of Narnia, #6)</a></td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/mistborn-the-final-empire/">Mistborn: The Final Empire</a></td><td>Brandon Sanderson</td><td>&mdash;</td><td><a href="/books/mistborn-the-final-empire/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/mostly-harmless/">Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-ominous-parallels/">The Ominous Parallels</a></td><td>Leonard Peikoff</td><td>&mdash;</td><td><a href="/books/the-ominous-parallels/">Review</a></td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/opar/">OPAR (Objectivism: The Philosophy of Ayn Rand)</a></td><td>Leonard Peikoff</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-people-of-sparks/">The People of Sparks (The City of Ember #2)</a></td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-prophet-of-yonwood/">The Prophet of Yonwood (Book of Ember, #3)</a></td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-restaurant-at-the-end-of-the-universe/">The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/rootless/">Rootless (Rootless, #1)</a></td><td>Chris Howard</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/saving-shiloh/">Saving Shiloh (Shiloh, #3)</a></td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/shiloh/">Shiloh (Shiloh, #1)</a></td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/shiloh-season/">Shiloh Season (Shiloh, #2)</a></td><td>Phyllis Reynolds Naylor</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/a-single-shard/">A Single Shard</a></td><td>Linda Sue Park</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/so-long-and-thanks-for-all-the-fish/">So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">The Therapy Manifesto: A Principled Guide to Developing Your Mental Health</a></td><td>Mark Derian</td><td>&mdash;</td><td><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/to-kill-a-mockingbird/">To Kill a Mockingbird</a></td><td>Harper Lee</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-ultimate-hitchhikers-guide-to-the-galaxy/">The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/we-the-living/">We the Living</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/we-the-living/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/the-westing-game/">The Westing Game</a></td><td>Ellen Raskin</td><td>&mdash;</td><td>&mdash;</td></tr>
 </tbody>
 </table>
 
