@@ -29,7 +29,6 @@ category: "Classics & Literary Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Fall Line  
 **Author:** Lucid Fitzpatrick  
 **Category:** Classics & Literary Fiction  
 **Recommender:** &mdash;  
