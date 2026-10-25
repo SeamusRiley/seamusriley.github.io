@@ -12,7 +12,7 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/movies-shows/">Movie
 
 ## Seen
 
-<table>
+<table class="sortable">
 <thead>
 <tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th></tr>
 </thead>
@@ -28,3 +28,35 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/movies-shows/">Movie
 
 - 9-5
   - Written by Dolly Parton
+
+<style>
+table.sortable th{cursor:pointer}
+table.sortable th.srt[data-dir="asc"]::after{content:" ▴"}
+table.sortable th.srt[data-dir="desc"]::after{content:" ▾"}
+</style>
+<script>
+document.querySelectorAll('table.sortable').forEach(function(tbl){
+  var ths = tbl.querySelectorAll('thead th');
+  function key(td){
+    var t = td.textContent.trim().toLowerCase();
+    if (t === '—') return '~~~~';
+    return t.replace(/^(the|a|an)\s+/, '');
+  }
+  ths.forEach(function(th, i){
+    th.title = 'Click to sort';
+    th.addEventListener('click', function(){
+      var tbody = tbl.querySelector('tbody');
+      var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+      var asc = th.getAttribute('data-dir') !== 'asc';
+      ths.forEach(function(o){ o.removeAttribute('data-dir'); o.classList.remove('srt'); });
+      th.setAttribute('data-dir', asc ? 'asc' : 'desc');
+      th.classList.add('srt');
+      rows.sort(function(a, b){
+        var x = key(a.children[i]), y = key(b.children[i]);
+        return (x < y ? -1 : x > y ? 1 : 0) * (asc ? 1 : -1);
+      });
+      rows.forEach(function(r){ tbody.appendChild(r); });
+    });
+  });
+});
+</script>
