@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** We the Living  
 **Author:** Ayn Rand  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
