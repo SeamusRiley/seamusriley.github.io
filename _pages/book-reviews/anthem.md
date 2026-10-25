@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Anthem  
 **Author:** Ayn Rand  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
