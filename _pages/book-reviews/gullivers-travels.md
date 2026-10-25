@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/gullivers-travels/
-genre: "Classics & Literary Fiction"
+category: "Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Classics & Literary Fiction"
 **Rating:** 1/2 Nice  
 **Name:** Gulliver's Travels  
 **Author:** Jonathan Swift  
-**Genre:** Classics & Literary Fiction  
+**Category:** Classics & Literary Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
