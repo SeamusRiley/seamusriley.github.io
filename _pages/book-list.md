@@ -21,7 +21,7 @@ excerpt: 'Also includes comic strips and anthologies. See Also <a href="/movies-
 <tr><td>1/2 Nice</td><td>Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</td><td>Christopher McDougall</td><td>&mdash;</td><td><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/">Review</a></td></tr>
 <tr><td>1/2 Nice</td><td>The Chronicles of Narnia (The Chronicles of Narnia, #1-7)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The City of Ember (Book of Ember, #1)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>&mdash;</td><td>Codependent No More</td><td>Melody Beattie</td><td>Don Michelson</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Codependent No More</td><td>Melody Beattie</td><td>Don Michelson</td><td>&mdash;</td></tr>
 <tr><td>0/2 Not For Me</td><td>The Complete Wreck (A Series of Unfortunate Events, #1-13)</td><td>Lemony Snicket</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Diamond of Darkhold (Book of Ember, #4)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Elijah of Buxton</td><td>Christopher Paul Curtis</td><td>&mdash;</td><td>&mdash;</td></tr>
@@ -38,7 +38,7 @@ excerpt: 'Also includes comic strips and anthologies. See Also <a href="/movies-
 <tr><td>2/2 Wonderful</td><td>Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Lucky Breaks (The Hard Pan Trilogy, #2)</td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Magician&#x27;s Nephew (Chronicles of Narnia, #6)</td><td>C.S. Lewis</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>&mdash;</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Ominous Parallels</td><td>Leonard Peikoff</td><td>&mdash;</td><td><a href="/books/the-ominous-parallels/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>The People of Sparks (The City of Ember #2)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
