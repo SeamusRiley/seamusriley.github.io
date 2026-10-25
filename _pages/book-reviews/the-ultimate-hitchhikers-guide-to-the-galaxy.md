@@ -29,7 +29,6 @@ category: "Science Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)  
 **Author:** Douglas Adams  
 **Category:** Science Fiction  
 **Recommender:** &mdash;
