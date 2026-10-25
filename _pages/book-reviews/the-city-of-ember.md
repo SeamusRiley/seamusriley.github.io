@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-city-of-ember/
+permalink: /books/the-city-of-ember/
 ---
 
 **Rating:** 2/2 Wonderful  
