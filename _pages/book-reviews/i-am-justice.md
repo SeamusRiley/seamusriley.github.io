@@ -29,7 +29,6 @@ category: "Thriller"
 
 
 **Rating:** 0/2 Not For Me  
-**Name:** I Am Justice  
 **Author:** D.P. Watkins  
 **Category:** Thriller  
 **Recommender:** &mdash;  
