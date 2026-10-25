@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-chronicles-of-narnia/
-genre: "Fantasy"
+category: "Fantasy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Fantasy"
 **Rating:** 1/2 Nice  
 **Name:** The Chronicles of Narnia (The Chronicles of Narnia, #1-7)  
 **Author:** C.S. Lewis  
-**Genre:** Fantasy  
+**Category:** Fantasy  
 **Recommender:** &mdash;
 
 *No review yet.*
