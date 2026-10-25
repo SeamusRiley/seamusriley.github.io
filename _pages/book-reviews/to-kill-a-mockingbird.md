@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/to-kill-a-mockingbird/
+permalink: /books/to-kill-a-mockingbird/
 ---
 
 **Rating:** 2/2 Wonderful  
