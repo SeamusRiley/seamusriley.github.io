@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/to-kill-a-mockingbird/
-genre: "Classics & Literary Fiction"
+category: "Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Classics & Literary Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** To Kill a Mockingbird  
 **Author:** Harper Lee  
-**Genre:** Classics & Literary Fiction  
+**Category:** Classics & Literary Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
