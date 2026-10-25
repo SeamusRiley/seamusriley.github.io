@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/
 ---
 
-**Rating:** Nice 1/2  
+**Rating:** 1/2 Nice  
 **Name:** Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen  
 **Author:** Christopher McDougall  
 **Recommender:** &mdash;  
