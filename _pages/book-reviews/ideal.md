@@ -29,7 +29,6 @@ category: "Philosophy"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Ideal  
 **Author:** Ayn Rand  
 **Category:** Philosophy  
 **Recommender:** &mdash;  
