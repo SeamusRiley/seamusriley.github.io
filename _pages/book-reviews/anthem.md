@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/anthem/
-genre: "Philosophy"
+category: "Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -26,7 +26,7 @@ genre: "Philosophy"
 **Rating:** 1/2 Nice  
 **Name:** Anthem  
 **Author:** Ayn Rand  
-**Genre:** Philosophy  
+**Category:** Philosophy  
 **Recommender:** &mdash;  
 **Date read:** Feb 17, 2020
 
