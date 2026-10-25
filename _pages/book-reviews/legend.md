@@ -29,7 +29,6 @@ category: "Dystopian"
 
 
 **Rating:** 1/2 Nice  
-**Name:** Legend (Legend, #1)  
 **Author:** Marie Lu  
 **Category:** Dystopian  
 **Recommender:** &mdash;
