@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: false
 author_profile: false
-permalink: /book-list/the-westing-game/
+permalink: /books/the-westing-game/
 ---
 
 **Rating:** 2/2 Wonderful  
