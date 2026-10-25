@@ -27,10 +27,12 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-shelf" id="bookshelf">
 <div class="bk-row">
 <div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:218px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><span style="max-height:250px">OPAR</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:188px">Anthem &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:250px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#1e4d3d"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:250px"><strong>The Fountainhead</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/ideal/" title="Ideal" style="max-height:218px">Ideal &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><span style="max-height:218px"><strong>ITOE</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#1e4d3d"><a href="/books/we-the-living/" title="We the Living" style="max-height:218px"><strong>We the Living</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:218px"><strong>The Fall Line</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#6e5133"><span style="max-height:218px"><strong>To Kill a Mockingbird</strong></span></div>
@@ -42,10 +44,10 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine bk-long" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Life, the Universe and Everything</strong></span></div>
 <div class="bk-spine bk-long" style="width:28px;height:200px;background:#1f4e5f"><span style="max-height:188px"><strong>So Long, and Thanks for All the Fish</strong></span></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Mostly Harmless</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>And Another Thing...</strong></span></div>
-<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Ender&#x27;s Game</strong></span></div>
 </div><div class="bk-board"></div>
 <div class="bk-row">
+<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>And Another Thing...</strong></span></div>
+<div class="bk-spine" style="width:38px;height:230px;background:#1f4e5f"><span style="max-height:218px"><strong>Ender&#x27;s Game</strong></span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><span style="max-height:250px">The Chronicles of Narnia</span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#9a5c26"><span style="max-height:188px"><strong>The Magician&#x27;s Nephew</strong></span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:250px">Mistborn &#9733;</a></div>
@@ -63,11 +65,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Shiloh Season</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Saving Shiloh</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>A Single Shard</strong></span></div>
+</div><div class="bk-board"></div>
+<div class="bk-row">
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Higher Power of Lucky</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>Lucky Breaks</strong></span></div>
 <div class="bk-spine" style="width:28px;height:200px;background:#67782a"><span style="max-height:188px"><strong>The Westing Game</strong></span></div>
-</div><div class="bk-board"></div>
-<div class="bk-row">
 <div class="bk-spine" style="width:52px;height:262px;background:#67782a"><span style="max-height:250px">The Complete Wreck</span></div>
 <div class="bk-spine" style="width:52px;height:262px;background:#67782a"><a href="/books/the-complete-calvin-and-hobbes/" title="The Complete Calvin and Hobbes" style="max-height:250px"><strong>Calvin and Hobbes</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:230px;background:#96502e"><span style="max-height:218px">Codependent No More</span></div>
@@ -78,7 +80,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 </div><div class="bk-board"></div>
 </div>
 <p class="bk-legend">Shelf colors by category:<br>
-<span class="bk-dot" style="background:#1e4d3d"></span>Philosophy (6)<br>
+<span class="bk-dot" style="background:#1e4d3d"></span>Philosophy (8)<br>
 <span class="bk-dot" style="background:#6e5133"></span>Classics &amp; Literary Fiction (4)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fantasy (3)<br>
@@ -116,6 +118,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td>The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>0/2 Not For Me</td><td>I Am Justice</td><td>D.P. Watkins</td><td>&mdash;</td><td><a href="/books/i-am-justice/">Review</a></td></tr>
 <tr><td>1/2 Nice</td><td>Ideal</td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/ideal/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td>Introduction to Objectivist Epistemology</td><td>Ayn Rand</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td>Legend (Legend, #1)</td><td>Marie Lu</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>Lucky Breaks (The Hard Pan Trilogy, #2)</td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
@@ -123,6 +126,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>1/2 Nice</td><td>Mistborn: The Final Empire</td><td>Brandon Sanderson</td><td>&mdash;</td><td><a href="/books/mistborn-the-final-empire/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td>Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Ominous Parallels</td><td>Leonard Peikoff</td><td>&mdash;</td><td><a href="/books/the-ominous-parallels/">Review</a></td></tr>
+<tr><td>1/2 Nice</td><td>OPAR (Objectivism: The Philosophy of Ayn Rand)</td><td>Leonard Peikoff</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The People of Sparks (The City of Ember #2)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Prophet of Yonwood (Book of Ember, #3)</td><td>Jeanne DuPrau</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td>The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)</td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
