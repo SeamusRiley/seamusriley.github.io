@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/elijah-of-buxton/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** Elijah of Buxton  
 **Author:** Christopher Paul Curtis  
 **Recommender:** &mdash;
