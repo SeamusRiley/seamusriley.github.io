@@ -7,7 +7,7 @@ author_profile: false
 permalink: /book-list/we-the-living/
 ---
 
-**Rating:** Wonderful 2/2  
+**Rating:** 2/2 Wonderful  
 **Name:** We the Living  
 **Author:** Ayn Rand  
 **Recommender:** &mdash;  
