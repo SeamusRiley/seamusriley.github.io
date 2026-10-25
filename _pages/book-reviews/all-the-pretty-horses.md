@@ -29,7 +29,6 @@ category: "Classics & Literary Fiction"
 
 
 **Rating:** 2/2 Wonderful  
-**Name:** All the Pretty Horses (The Border Trilogy, #1)  
 **Author:** Cormac McCarthy  
 **Category:** Classics & Literary Fiction  
 **Recommender:** Eli  
