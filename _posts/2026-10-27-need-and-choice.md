@@ -11,7 +11,7 @@ tags:
 
 ## My stark, unforgiving, and probably misintegrated philosophy of love.
 
-As of today, I have chosen to spend most of my life alone. My romantic relationships have burned brightly and briefly, and every time one ended, it was me who ended it. I saw cracks in the foundation that they perhaps did not. Perhaps there was no way they could have seen them. Sometimes people would say I'm asexual—void of desire. I'm not. 24/7/365 intimacy stays on my mind. I have every bit of my father's libido, but unlike him I am a perfectionist in love. In every other area of my life I have lost my need of perfectionism and embraced an ethos of steady progress, but not in love. In love, man's highest reflection of self, I practice a brutalist ethic of purposefulness over pragmatism, choice over need, and radical self-acceptance.
+So far, I have chosen to spend most of my life alone. My romantic relationships have burned brightly and briefly, and every time one ended, it was me who ended it. I saw cracks in the foundation that they perhaps did not. Perhaps there was no way they could have seen them. Sometimes people would say I'm asexual—void of desire. I'm not. 24/7/365 intimacy stays on my mind. I have every bit of my father's libido, but unlike him I am a perfectionist in love. In every other area of my life I have lost my need of perfectionism and embraced an ethos of steady progress, but not in love. In love, man's highest reflection of self, I practice a brutalist ethic of purposefulness over pragmatism, choice over need, and radical self-acceptance.
 
 ### What is acceptance really?
 
