@@ -3,6 +3,8 @@ permalink: /birthdays/
 title: "Birthdays"
 ---
 
+<p id="bday-summary"></p>
+
 
 <style>
 #bday-calendar { margin: 0 0 1.5em 0; }
@@ -19,7 +21,6 @@ title: "Birthdays"
 
 <div id="bday-calendar"><div class="bcal-grid" id="bday-cal-grid"></div></div>
 
-<p id="bday-summary"></p>
 
 <h2>Coming up</h2>
 <ul id="bday-upcoming"></ul>
@@ -59,7 +60,8 @@ function render() {
     const turns = b.year ? c.getFullYear() - b.year : null;
     return { b, c, days, turns };
   }).sort((a, z) => a.days - z.days || a.b.name.localeCompare(z.b.name));
-  document.getElementById("bday-summary").textContent = BIRTHDAYS.length + " birthdays tracked. Next up: " + items[0].b.name + " on " + MONTHS[items[0].b.month - 1] + " " + items[0].b.day + ".";
+  var top3 = items.slice(0, 3).map(function (it, ix) { return (ix ? "then " : "") + it.b.name + " on " + MONTHS[it.b.month - 1] + " " + it.b.day; });
+  document.getElementById("bday-summary").textContent = BIRTHDAYS.length + " birthdays tracked. Next up: " + top3.join(", ") + ".";
   const ul = document.getElementById("bday-upcoming");
   items.forEach(({ b, days, turns }) => {
     const when = days === 0 ? "today!" : days === 1 ? "tomorrow" : "in " + days + " days";
