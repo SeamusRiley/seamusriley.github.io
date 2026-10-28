@@ -5,19 +5,19 @@ title: "Birthdays"
 
 
 <style>
-#bday-calendar { display: grid; grid-template-columns: repeat(auto-fill, minmax(218px, 1fr)); gap: 14px; margin: 0 0 1.5em 0; }
-.bcal-month { border: 1px solid #ddd; border-radius: 10px; padding: 8px; background: #fff; }
-.bcal-month h3 { margin: 0 0 6px 2px; font-size: 0.95em; }
-.bcal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; }
-.bcal-day { background: #f4f4f6; border-radius: 5px; min-height: 36px; padding: 2px; box-sizing: border-box; }
-.bcal-day .bcal-num { font-size: 10px; color: #888; line-height: 1; }
+#bday-calendar { margin: 0 0 1.5em 0; }
+.bcal-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(46px, 1fr)); gap: 3px; }
+.bcal-day { background: #f4f4f6; border-radius: 5px; min-height: 42px; padding: 2px; box-sizing: border-box; }
+.bcal-day.bcal-monthstart { background: #e8e8ec; }
+.bcal-day .bcal-mon { font-size: 8px; font-weight: bold; letter-spacing: 0.05em; color: #555; line-height: 1; text-transform: uppercase; }
+.bcal-day .bcal-num { font-size: 10px; color: #888; line-height: 1.2; }
 .bcal-day.bcal-today { outline: 2px solid #e03131; }
 .bcal-day.bcal-today .bcal-num { color: #e03131; font-weight: bold; }
 .bcal-chips { display: flex; flex-wrap: wrap; gap: 2px; margin-top: 2px; }
 .bcal-chip { border-radius: 4px; color: #fff; font-size: 10px; font-weight: bold; line-height: 1.5; padding: 0 4px; }
 </style>
 
-<div id="bday-calendar"></div>
+<div id="bday-calendar"><div class="bcal-grid" id="bday-cal-grid"></div></div>
 
 <p id="bday-summary"></p>
 
@@ -75,6 +75,7 @@ render();
 <script>
 (function () {
   var MONTH_NAMES = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var MONTH_SHORT = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   var DAYS_IN_MONTH = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
   function initials(name) {
     var words = name.replace(/[()]/g, "").split(/\s+/).filter(Boolean);
@@ -87,20 +88,19 @@ render();
     for (var i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) % 360;
     return "hsl(" + h + ", 62%, 48%)";
   }
-  var wrap = document.getElementById("bday-calendar");
+  var grid = document.getElementById("bday-cal-grid");
   var now = new Date();
   MONTH_NAMES.forEach(function (mName, mi) {
-    var card = document.createElement("div");
-    card.className = "bcal-month";
-    var h = document.createElement("h3");
-    h.textContent = mName;
-    card.appendChild(h);
-    var grid = document.createElement("div");
-    grid.className = "bcal-grid";
     for (var d = 1; d <= DAYS_IN_MONTH[mi]; d++) {
       var cell = document.createElement("div");
-      cell.className = "bcal-day";
+      cell.className = "bcal-day" + (d === 1 ? " bcal-monthstart" : "");
       if (now.getMonth() === mi && now.getDate() === d) cell.className += " bcal-today";
+      if (d === 1) {
+        var mon = document.createElement("div");
+        mon.className = "bcal-mon";
+        mon.textContent = MONTH_SHORT[mi];
+        cell.appendChild(mon);
+      }
       var num = document.createElement("div");
       num.className = "bcal-num";
       num.textContent = d;
@@ -121,8 +121,6 @@ render();
       }
       grid.appendChild(cell);
     }
-    card.appendChild(grid);
-    wrap.appendChild(card);
   });
 })();
 </script>
