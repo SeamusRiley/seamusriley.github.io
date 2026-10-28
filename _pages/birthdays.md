@@ -36,6 +36,20 @@ function nextOccurrence(b, today) {
   if (c < t0) c = new Date(today.getFullYear() + 1, b.month - 1, b.day);
   return c;
 }
+function initials(name) {
+  var words = name.replace(/[()]/g, "").split(/\s+/).filter(Boolean);
+  if (!words.length) return "?";
+  if (words.length === 1) return words[0].charAt(0).toUpperCase();
+  return (words[0].charAt(0) + words[words.length - 1].charAt(0)).toUpperCase();
+}
+function colorFor(name) {
+  var h = 0;
+  for (var i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) % 360;
+  return "hsl(" + h + ", 62%, 48%)";
+}
+function chipHTML(b) {
+  return "<span class=\"bcal-chip\" style=\"background:" + colorFor(b.name) + "\">" + initials(b.name) + "</span> ";
+}
 function render() {
   const today = new Date();
   const t0 = new Date(today.getFullYear(), today.getMonth(), today.getDate());
@@ -50,7 +64,7 @@ function render() {
   items.forEach(({ b, days, turns }) => {
     const when = days === 0 ? "today!" : days === 1 ? "tomorrow" : "in " + days + " days";
     const li = document.createElement("li");
-    li.innerHTML = "<strong></strong> \u2014 " + MONTHS[b.month - 1] + " " + b.day + (turns && turns >= 1 ? " (turns " + turns + ")" : "") + " \u2014 " + when;
+    li.innerHTML = chipHTML(b) + "<strong></strong> \u2014 " + MONTHS[b.month - 1] + " " + b.day + (turns && turns >= 1 ? " (turns " + turns + ")" : "") + " \u2014 " + when;
     li.querySelector("strong").textContent = b.name;
     if (days === 0) li.style.fontWeight = "bold";
     ul.appendChild(li);
@@ -63,7 +77,8 @@ function render() {
     const list = document.createElement("ul");
     inMonth.forEach(b => {
       const li = document.createElement("li");
-      li.textContent = b.name + " \u2014 " + m + " " + b.day + (b.year ? " (" + b.year + ")" : "");
+      li.innerHTML = chipHTML(b);
+      li.appendChild(document.createTextNode(b.name + " \u2014 " + m + " " + b.day + (b.year ? " (" + b.year + ")" : "")));
       list.appendChild(li);
     });
     byMonth.appendChild(list);
