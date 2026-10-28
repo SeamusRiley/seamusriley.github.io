@@ -69,7 +69,8 @@ function render() {
     if (days === 0) li.style.fontWeight = "bold";
     ul.appendChild(li);
   });
-  render();
+}
+render();
 </script>
 
 <script>
