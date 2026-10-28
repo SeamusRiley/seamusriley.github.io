@@ -8,7 +8,7 @@ title: "Birthdays"
 #bday-calendar { margin: 0 0 1.5em 0; }
 .bcal-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(46px, 1fr)); gap: 3px; }
 .bcal-day { background: #f4f4f6; border-radius: 5px; min-height: 42px; padding: 2px; box-sizing: border-box; }
-.bcal-day.bcal-monthstart { background: #e8e8ec; }
+.bcal-day.bcal-monthstart { background: #e8e8ec; grid-column-start: 1; }
 .bcal-day .bcal-mon { font-size: 8px; font-weight: bold; letter-spacing: 0.05em; color: #555; line-height: 1; text-transform: uppercase; }
 .bcal-day .bcal-num { font-size: 10px; color: #888; line-height: 1.2; }
 .bcal-day.bcal-today { outline: 2px solid #e03131; }
