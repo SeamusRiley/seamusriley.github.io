@@ -3,6 +3,22 @@ permalink: /birthdays/
 title: "Birthdays"
 ---
 
+
+<style>
+#bday-calendar { display: grid; grid-template-columns: repeat(auto-fill, minmax(218px, 1fr)); gap: 14px; margin: 0 0 1.5em 0; }
+.bcal-month { border: 1px solid #ddd; border-radius: 10px; padding: 8px; background: #fff; }
+.bcal-month h3 { margin: 0 0 6px 2px; font-size: 0.95em; }
+.bcal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; }
+.bcal-day { background: #f4f4f6; border-radius: 5px; min-height: 36px; padding: 2px; box-sizing: border-box; }
+.bcal-day .bcal-num { font-size: 10px; color: #888; line-height: 1; }
+.bcal-day.bcal-today { outline: 2px solid #e03131; }
+.bcal-day.bcal-today .bcal-num { color: #e03131; font-weight: bold; }
+.bcal-chips { display: flex; flex-wrap: wrap; gap: 2px; margin-top: 2px; }
+.bcal-chip { border-radius: 4px; color: #fff; font-size: 10px; font-weight: bold; line-height: 1.5; padding: 0 4px; }
+</style>
+
+<div id="bday-calendar"></div>
+
 <p id="bday-summary"></p>
 
 <h2>Coming up</h2>
@@ -54,4 +70,59 @@ function render() {
   });
 }
 render();
+</script>
+
+<script>
+(function () {
+  var MONTH_NAMES = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var DAYS_IN_MONTH = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  function initials(name) {
+    var words = name.replace(/[()]/g, "").split(/\s+/).filter(Boolean);
+    if (!words.length) return "?";
+    if (words.length === 1) return words[0].charAt(0).toUpperCase();
+    return (words[0].charAt(0) + words[words.length - 1].charAt(0)).toUpperCase();
+  }
+  function colorFor(name) {
+    var h = 0;
+    for (var i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) % 360;
+    return "hsl(" + h + ", 62%, 48%)";
+  }
+  var wrap = document.getElementById("bday-calendar");
+  var now = new Date();
+  MONTH_NAMES.forEach(function (mName, mi) {
+    var card = document.createElement("div");
+    card.className = "bcal-month";
+    var h = document.createElement("h3");
+    h.textContent = mName;
+    card.appendChild(h);
+    var grid = document.createElement("div");
+    grid.className = "bcal-grid";
+    for (var d = 1; d <= DAYS_IN_MONTH[mi]; d++) {
+      var cell = document.createElement("div");
+      cell.className = "bcal-day";
+      if (now.getMonth() === mi && now.getDate() === d) cell.className += " bcal-today";
+      var num = document.createElement("div");
+      num.className = "bcal-num";
+      num.textContent = d;
+      cell.appendChild(num);
+      var todays = BIRTHDAYS.filter(function (b) { return b.month === mi + 1 && b.day === d; });
+      if (todays.length) {
+        var chips = document.createElement("div");
+        chips.className = "bcal-chips";
+        todays.forEach(function (b) {
+          var chip = document.createElement("span");
+          chip.className = "bcal-chip";
+          chip.style.background = colorFor(b.name);
+          chip.textContent = initials(b.name);
+          chip.title = b.name + " \u2014 " + mName + " " + d;
+          chips.appendChild(chip);
+        });
+        cell.appendChild(chips);
+      }
+      grid.appendChild(cell);
+    }
+    card.appendChild(grid);
+    wrap.appendChild(card);
+  });
+})();
 </script>
