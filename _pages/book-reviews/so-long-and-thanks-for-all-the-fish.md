@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/so-long-and-thanks-for-all-the-fish/
-category: "Science Fiction"
+category: "Fiction - Science Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Science Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4)  
 **Author:** Douglas Adams  
-**Category:** Science Fiction  
+**Category:** Fiction - Science Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
