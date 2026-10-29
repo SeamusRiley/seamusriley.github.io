@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-magicians-nephew/
-category: "Fantasy"
+category: "Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Fantasy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:189.9px;height:28px;background:#9a5c26"><span><strong>The Magician&#x27;s Nephew</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:189.9px;height:28px;background:#67782a"><span><strong>The Magician&#x27;s Nephew</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** The Magician's Nephew (Chronicles of Narnia, #6)  
 **Author:** C.S. Lewis  
-**Category:** Fantasy  
+**Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
