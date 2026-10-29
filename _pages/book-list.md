@@ -145,12 +145,12 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:239.1px;background:#1f4e5f"><a href="/books/enders-game/" title="Ender&#x27;s Game (Ender&#x27;s Saga, #1)" style="max-height:227.1px"><strong>Ender&#x27;s Game</strong></a></div>
 <div class="bk-spine" style="width:28px;height:189.9px;background:#9a5c26"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:177.9px"><strong>The Magician&#x27;s Nephew</strong></a></div>
 <div class="bk-spine" style="width:52px;height:254.8px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:242.8px">Mistborn &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:232.6px;background:#b45a1b"><a href="/books/the-city-of-ember/" title="The City of Ember (Book of Ember, #1)" style="max-height:220.6px"><strong>The City of Ember</strong></a></div>
-<div class="bk-spine" style="width:38px;height:232.6px;background:#b45a1b"><a href="/books/the-people-of-sparks/" title="The People of Sparks (The City of Ember #2)" style="max-height:220.6px"><strong>The People of Sparks</strong></a></div>
-<div class="bk-spine" style="width:38px;height:232.6px;background:#b45a1b"><a href="/books/the-prophet-of-yonwood/" title="The Prophet of Yonwood (Book of Ember, #3)" style="max-height:220.6px"><strong>The Prophet of Yonwood</strong></a></div>
-<div class="bk-spine" style="width:38px;height:232.6px;background:#b45a1b"><a href="/books/the-diamond-of-darkhold/" title="The Diamond of Darkhold (Book of Ember, #4)" style="max-height:220.6px"><strong>The Diamond of Darkhold</strong></a></div>
 <div class="bk-spine" style="width:38px;height:218.3px;background:#b45a1b"><a href="/books/rootless/" title="Rootless (Rootless, #1)" style="max-height:206.3px"><strong>Rootless</strong></a></div>
 <div class="bk-spine" style="width:38px;height:236.5px;background:#b45a1b"><a href="/books/legend/" title="Legend (Legend, #1)" style="max-height:224.5px">Legend</a></div>
+<div class="bk-spine" style="width:38px;height:232.6px;background:#67782a"><a href="/books/the-city-of-ember/" title="The City of Ember (Book of Ember, #1)" style="max-height:220.6px"><strong>The City of Ember</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.6px;background:#67782a"><a href="/books/the-people-of-sparks/" title="The People of Sparks (The City of Ember #2)" style="max-height:220.6px"><strong>The People of Sparks</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.6px;background:#67782a"><a href="/books/the-prophet-of-yonwood/" title="The Prophet of Yonwood (Book of Ember, #3)" style="max-height:220.6px"><strong>The Prophet of Yonwood</strong></a></div>
+<div class="bk-spine" style="width:38px;height:232.6px;background:#67782a"><a href="/books/the-diamond-of-darkhold/" title="The Diamond of Darkhold (Book of Ember, #4)" style="max-height:220.6px"><strong>The Diamond of Darkhold</strong></a></div>
 <div class="bk-spine" style="width:52px;height:257.7px;background:#67782a"><a href="/books/the-chronicles-of-narnia/" title="The Chronicles of Narnia (The Chronicles of Narnia, #1-7)" style="max-height:245.7px">The Chronicles of Narnia</a></div>
 <div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:195.2px"><strong>Shiloh</strong></a></div>
 <div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:195.2px"><strong>Shiloh Season</strong></a></div>
@@ -198,14 +198,14 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#6e5133"></span>Classics &amp; Literary Fiction (7)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fantasy (2)<br>
-<span class="bk-dot" style="background:#b45a1b"></span>Dystopian (6)<br>
-<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (26)<br>
+<span class="bk-dot" style="background:#b45a1b"></span>Dystopian (2)<br>
+<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (30)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics (3)<br>
 <span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Thriller (1)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (66)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious total (37)</p>
+<span class="bk-dot" style="background:transparent"></span>Serious total (33)</p>
 
 <table class="sortable">
 <thead>
