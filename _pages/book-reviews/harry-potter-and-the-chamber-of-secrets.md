@@ -114,7 +114,7 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:230.0px;height:38px;background:#67782a"><span>Chamber of Secrets</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:229.5px;height:38px;background:#67782a"><span>Chamber of Secrets</span></div></div>
 
 
 **Rating:** 1/2 Nice  
