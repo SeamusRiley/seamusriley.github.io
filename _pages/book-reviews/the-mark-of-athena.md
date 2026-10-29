@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-mark-of-athena/
-category: "Children's & Middle Grade"
+category: "Fiction - Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Children's & Middle Grade"
 **Rating:** 1/2 Nice  
 **Name:** The Mark of Athena (The Heroes of Olympus, #3)  
 **Author:** Rick Riordan  
-**Category:** Children's & Middle Grade  
+**Category:** Fiction - Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
