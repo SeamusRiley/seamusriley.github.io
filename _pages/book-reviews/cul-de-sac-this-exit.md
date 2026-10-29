@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/cul-de-sac-this-exit/
-category: "Comics"
+category: "Comics & Collections"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Comics"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:210.1px;height:28px;background:#2e4a7a"><span><strong>Cul de Sac</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:207.8px;height:28px;background:#2e4a7a"><span><strong>Cul de Sac</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** Cul de Sac: This Exit  
 **Author:** Richard Thompson  
-**Category:** Comics  
+**Category:** Comics & Collections  
 **Recommender:** &mdash;
 
 *No review yet.*
