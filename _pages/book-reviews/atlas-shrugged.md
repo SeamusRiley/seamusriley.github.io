@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/atlas-shrugged/
-category: "Philosophy"
+category: "Non-Fiction - Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Philosophy"
 **Rating:** 2/2 Wonderful  
 **Name:** Atlas Shrugged  
 **Author:** Ayn Rand  
-**Category:** Philosophy  
+**Category:** Non-Fiction - Philosophy  
 **Recommender:** &mdash;  
 **Date read:** Jul 2019
 
