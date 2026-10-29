@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/introduction-to-objectivist-epistemology/
-category: "Philosophy"
+category: "Non-Fiction - Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Philosophy"
 **Rating:** 2/2 Wonderful  
 **Name:** Introduction to Objectivist Epistemology  
 **Author:** Ayn Rand  
-**Category:** Philosophy  
+**Category:** Non-Fiction - Philosophy  
 **Recommender:** &mdash;
 
 *No review yet.*
