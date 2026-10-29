@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-complete-calvin-and-hobbes/
-category: "Comics"
+category: "Comics & Collections"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Comics"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:251.4px;height:52px;background:#2e4a7a"><span><strong>Calvin and Hobbes</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:253.0px;height:52px;background:#2e4a7a"><span><strong>Calvin and Hobbes</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** The Complete Calvin and Hobbes  
 **Author:** Bill Watterson  
-**Category:** Comics  
+**Category:** Comics & Collections  
 **Recommender:** &mdash;
 
 ### Review
