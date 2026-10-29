@@ -114,7 +114,7 @@ category: "Fiction - Classics & Literary Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:237.6px;height:38px;background:#6e5133"><span><strong>The Adventures of Tom Sawyer</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:236.0px;height:38px;background:#6e5133"><span><strong>The Adventures of Tom Sawyer</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
