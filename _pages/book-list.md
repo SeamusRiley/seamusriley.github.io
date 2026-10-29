@@ -194,16 +194,16 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#98764e,#876542 55%,#71552f);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset 2px 0 3px rgba(255,255,255,.12),-2px 0 4px rgba(0,0,0,.25)"></div>
 </div>
 <p class="bk-legend">Bold titles are favorites, starred titles are reviewed. Click books for full titles. Spine color indicates category.<br>
-<span class="bk-dot" style="background:#1e4d3d"></span>Philosophy (10)<br>
-<span class="bk-dot" style="background:#6e5133"></span>Classics &amp; Literary Fiction (7)<br>
-<span class="bk-dot" style="background:#1f4e5f"></span>Science Fiction (8)<br>
-<span class="bk-dot" style="background:#9a5c26"></span>Fantasy (1)<br>
-<span class="bk-dot" style="background:#b45a1b"></span>Dystopian (2)<br>
-<span class="bk-dot" style="background:#67782a"></span>Children's &amp; Middle Grade (31)<br>
+<span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (10)<br>
+<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (7)<br>
+<span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (8)<br>
+<span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (1)<br>
+<span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
+<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (31)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics (3)<br>
-<span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
-<span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
-<span class="bk-dot" style="background:#26221e"></span>Thriller (1)<br>
+<span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
+<span class="bk-dot" style="background:#7a6a58"></span>Non-Fiction (1)<br>
+<span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (66)<br>
 <span class="bk-dot" style="background:transparent"></span>Serious total (32)</p>
 
