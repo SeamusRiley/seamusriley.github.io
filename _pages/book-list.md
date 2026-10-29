@@ -116,14 +116,14 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
 <div style="flex:1;min-width:0">
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:38px;height:219.0px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:207.0px">Born to Run &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:237.0px;background:#96502e"><a href="/books/codependent-no-more/" title="Codependent No More" style="max-height:225.0px">Codependent No More</a></div>
+<div class="bk-spine" style="width:28px;height:204.3px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:192.3px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:240.0px;background:#1e4d3d"><a href="/books/the-discovery-of-freedom/" title="The Discovery of Freedom" style="max-height:228.0px">The Discovery of Freedom</a></div>
 <div class="bk-spine" style="width:38px;height:229.0px;background:#1e4d3d"><a href="/books/the-god-of-the-machine/" title="The God of the Machine" style="max-height:217.0px">The God of the Machine</a></div>
 <div class="bk-spine" style="width:38px;height:234.0px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:222.0px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:270.3px;background:#1e4d3d"><a href="/books/opar/" title="OPAR (Objectivism: The Philosophy of Ayn Rand)" style="max-height:258.3px">OPAR</a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/introduction-to-objectivist-epistemology/" title="Introduction to Objectivist Epistemology" style="max-height:205.0px"><strong>ITOE</strong></a></div>
-<div class="bk-spine" style="width:38px;height:237.0px;background:#96502e"><a href="/books/codependent-no-more/" title="Codependent No More" style="max-height:225.0px">Codependent No More</a></div>
-<div class="bk-spine" style="width:28px;height:204.3px;background:#96502e"><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/" title="The Therapy Manifesto: A Principled Guide to Developing Your Mental Health" style="max-height:192.3px"><strong>The Therapy Manifesto</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:219.0px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:207.0px">Born to Run &#9733;</a></div>
 <div class="bk-spine" style="width:28px;height:187.0px;background:#2f6b4f"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:249.0px;background:#2f6b4f"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:237.0px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:249.0px;background:#2f6b4f"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
@@ -208,9 +208,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#98764e,#876542 55%,#71552f);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset 2px 0 3px rgba(255,255,255,.12),-2px 0 4px rgba(0,0,0,.25)"></div>
 </div>
 <p class="bk-legend">Bold titles are favorites, starred titles are reviewed. Click books for full titles. Spine color indicates category.<br>
-<span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
-<span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Non-Fiction (1)<br>
+<span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
+<span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (12)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (11)<br>
