@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/and-another-thing/
-category: "Science Fiction"
+category: "Fiction - Science Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Science Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** And Another Thing... (The Hitchhiker's Guide to the Galaxy, #6)  
 **Author:** Eoin Colfer  
-**Category:** Science Fiction  
+**Category:** Fiction - Science Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
