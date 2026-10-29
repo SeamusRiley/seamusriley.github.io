@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/legend/
-category: "Dystopian"
+category: "Fiction - Dystopia"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Dystopian"
 **Rating:** 1/2 Nice  
 **Name:** Legend (Legend, #1)  
 **Author:** Marie Lu  
-**Category:** Dystopian  
+**Category:** Fiction - Dystopia  
 **Recommender:** &mdash;
 
 *No review yet.*
