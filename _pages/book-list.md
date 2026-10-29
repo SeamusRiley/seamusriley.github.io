@@ -204,7 +204,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#96502e"></span>Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Nonfiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Thriller (1)<br>
-<span class="bk-dot" style="background:transparent"></span>Total (66)</p>
+<span class="bk-dot" style="background:transparent"></span>Total (66)<br>
+<span class="bk-dot" style="background:transparent"></span>Serious total (35)</p>
 
 <table class="sortable">
 <thead>
