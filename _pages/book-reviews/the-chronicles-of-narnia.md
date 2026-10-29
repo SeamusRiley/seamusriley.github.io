@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-chronicles-of-narnia/
-category: "Fantasy"
+category: "Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Fantasy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:257.7px;height:52px;background:#9a5c26"><span>The Chronicles of Narnia</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:257.7px;height:52px;background:#67782a"><span>The Chronicles of Narnia</span></div></div>
 
 
 **Rating:** 1/2 Nice  
 **Name:** The Chronicles of Narnia (The Chronicles of Narnia, #1-7)  
 **Author:** C.S. Lewis  
-**Category:** Fantasy  
+**Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
