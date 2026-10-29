@@ -114,7 +114,7 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:269.2px;height:52px;background:#67782a"><span>The Complete Wreck</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:267.9px;height:52px;background:#67782a"><span>The Complete Wreck</span></div></div>
 
 
 **Rating:** 0/2 Not For Me  
