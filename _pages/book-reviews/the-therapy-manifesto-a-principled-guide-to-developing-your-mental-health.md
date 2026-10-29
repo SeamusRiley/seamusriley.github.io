@@ -114,7 +114,7 @@ category: "Non-Fiction - Mind & Self"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:204.3px;height:28px;background:#96502e"><span><strong>The Therapy Manifesto</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:202.6px;height:28px;background:#96502e"><span><strong>The Therapy Manifesto</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
