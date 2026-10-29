@@ -1,0 +1,14 @@
+{
+  "name": "Birthdays",
+  "short_name": "Birthdays",
+  "id": "/birthdays/",
+  "start_url": "/birthdays/",
+  "scope": "/birthdays/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
