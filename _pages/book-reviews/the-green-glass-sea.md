@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-green-glass-sea/
-category: "Classics & Literary Fiction"
+category: "Fiction - Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Classics & Literary Fiction"
 **Rating:** 2/2 Wonderful  
 **Name:** The Green Glass Sea (Green Glass, #1)  
 **Author:** Ellen Klages  
-**Category:** Classics & Literary Fiction  
+**Category:** Fiction - Classics & Literary Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
