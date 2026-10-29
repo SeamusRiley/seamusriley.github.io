@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/harry-potter-and-the-goblet-of-fire/
-category: "Children's & Middle Grade"
+category: "Fiction - Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Children's & Middle Grade"
 **Rating:** 0/2 Not For Me  
 **Name:** Harry Potter and the Goblet of Fire (Harry Potter, #4)  
 **Author:** J.K. Rowling  
-**Category:** Children's & Middle Grade  
+**Category:** Fiction - Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
