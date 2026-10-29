@@ -1,6 +1,7 @@
 {
   "name": "Seamus Riley",
   "short_name": "Seamus Riley",
+  "id": "/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
