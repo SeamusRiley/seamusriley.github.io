@@ -114,7 +114,7 @@ category: "Fiction - Science Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:226.8px;height:38px;background:#1f4e5f"><span><strong>And Another Thing...</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:226.0px;height:38px;background:#1f4e5f"><span><strong>And Another Thing...</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
