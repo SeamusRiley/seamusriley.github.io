@@ -132,10 +132,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:226.1px;background:#6e5133"><a href="/books/the-green-glass-sea/" title="The Green Glass Sea (Green Glass, #1)" style="max-height:214.1px"><strong>The Green Glass Sea</strong></a></div>
 <div class="bk-spine" style="width:38px;height:228.7px;background:#6e5133"><a href="/books/to-kill-a-mockingbird/" title="To Kill a Mockingbird" style="max-height:216.7px"><strong>To Kill a Mockingbird</strong></a></div>
 <div class="bk-spine" style="width:38px;height:222.2px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:210.2px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:28px;height:198.6px;background:#6e5133"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:186.6px"><strong>A Single Shard</strong></a></div>
 <div class="bk-spine" style="width:38px;height:233.9px;background:#6e5133"><a href="/books/gullivers-travels/" title="Gulliver&#x27;s Travels" style="max-height:221.9px">Gulliver&#x27;s Travels</a></div>
-<div class="bk-spine bk-long" style="width:38px;height:224.8px;background:#1f4e5f"><a href="/books/the-hitchhikers-guide-to-the-galaxy/" title="The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)" style="max-height:212.8px"><strong>The Hitchhiker&#x27;s Guide to the Galaxy</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine bk-long" style="width:38px;height:224.8px;background:#1f4e5f"><a href="/books/the-hitchhikers-guide-to-the-galaxy/" title="The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)" style="max-height:212.8px"><strong>The Hitchhiker&#x27;s Guide to the Galaxy</strong></a></div>
 <div class="bk-spine" style="width:52px;height:260.6px;background:#1f4e5f"><a href="/books/the-ultimate-hitchhikers-guide-to-the-galaxy/" title="The Ultimate Hitchhiker&#x27;s Guide to the Galaxy (Hitchhiker&#x27;s Guide to the Galaxy, #1-5)" style="max-height:248.60000000000002px"><strong>DON&#x27;T PANIC</strong></a></div>
 <div class="bk-spine bk-long" style="width:38px;height:224.8px;background:#1f4e5f"><a href="/books/the-restaurant-at-the-end-of-the-universe/" title="The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)" style="max-height:212.8px"><strong>The Restaurant at the End of the Universe</strong></a></div>
 <div class="bk-spine bk-long" style="width:38px;height:224.8px;background:#1f4e5f"><a href="/books/life-the-universe-and-everything/" title="Life, the Universe and Everything (The Hitchhiker&#x27;s Guide to the Galaxy, #3)" style="max-height:212.8px"><strong>Life, the Universe and Everything</strong></a></div>
@@ -154,10 +155,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:28px;height:189.9px;background:#67782a"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:177.9px"><strong>The Magician&#x27;s Nephew</strong></a></div>
 <div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:195.2px"><strong>Shiloh</strong></a></div>
 <div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:195.2px"><strong>Shiloh Season</strong></a></div>
-<div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/saving-shiloh/" title="Saving Shiloh (Shiloh, #3)" style="max-height:195.2px"><strong>Saving Shiloh</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
-<div class="bk-spine" style="width:28px;height:198.6px;background:#67782a"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:186.6px"><strong>A Single Shard</strong></a></div>
+<div class="bk-spine" style="width:28px;height:207.2px;background:#67782a"><a href="/books/saving-shiloh/" title="Saving Shiloh (Shiloh, #3)" style="max-height:195.2px"><strong>Saving Shiloh</strong></a></div>
 <div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><a href="/books/the-higher-power-of-lucky/" title="The Higher Power of Lucky (The Hard Pan Trilogy, #1)" style="max-height:201.0px"><strong>The Higher Power of Lucky</strong></a></div>
 <div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><a href="/books/lucky-breaks/" title="Lucky Breaks (The Hard Pan Trilogy, #2)" style="max-height:201.0px"><strong>Lucky Breaks</strong></a></div>
 <div class="bk-spine" style="width:28px;height:195.7px;background:#67782a"><a href="/books/the-westing-game/" title="The Westing Game" style="max-height:183.7px"><strong>The Westing Game</strong></a></div>
@@ -196,17 +196,17 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <p class="bk-legend">Bold titles are favorites, starred titles are reviewed. Click books for full titles. Spine color indicates category.<br>
 <span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
-<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (7)<br>
+<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (8)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (1)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
-<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (31)<br>
+<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (30)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics (3)<br>
 <span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#7a6a58"></span>Non-Fiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (66)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious Total (32)<br>
+<span class="bk-dot" style="background:transparent"></span>Serious Total (33)<br>
 <span class="bk-dot" style="background:transparent"></span>Fiction Total (55)</p>
 
 <table class="sortable">
