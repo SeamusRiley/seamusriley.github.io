@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/rootless/
-category: "Dystopian"
+category: "Fiction - Dystopia"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Dystopian"
 **Rating:** 2/2 Wonderful  
 **Name:** Rootless (Rootless, #1)  
 **Author:** Chris Howard  
-**Category:** Dystopian  
+**Category:** Fiction - Dystopia  
 **Recommender:** &mdash;
 
 *No review yet.*
