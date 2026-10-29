@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-ominous-parallels/
-category: "Philosophy"
+category: "Non-Fiction - Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Philosophy"
 **Rating:** 2/2 Wonderful  
 **Name:** The Ominous Parallels  
 **Author:** Leonard Peikoff  
-**Category:** Philosophy  
+**Category:** Non-Fiction - Philosophy  
 **Recommender:** &mdash;  
 **Date read:** Sep 2022
 
