@@ -114,7 +114,7 @@ category: "Non-Fiction - Philosophy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:229.0px;height:38px;background:#1e4d3d"><span>The God of the Machine</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:228.6px;height:38px;background:#1e4d3d"><span>The God of the Machine</span></div></div>
 
 
 **Rating:** 1/2 Nice  
