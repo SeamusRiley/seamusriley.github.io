@@ -114,7 +114,7 @@ category: "Fiction - Dystopia"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:218.3px;height:38px;background:#b45a1b"><span><strong>Rootless</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:218.2px;height:38px;background:#b45a1b"><span><strong>Rootless</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
