@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/opar/
-category: "Philosophy"
+category: "Non-Fiction - Philosophy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Philosophy"
 **Rating:** 1/2 Nice  
 **Name:** OPAR (Objectivism: The Philosophy of Ayn Rand)  
 **Author:** Leonard Peikoff  
-**Category:** Philosophy  
+**Category:** Non-Fiction - Philosophy  
 **Recommender:** &mdash;
 
 *No review yet.*
