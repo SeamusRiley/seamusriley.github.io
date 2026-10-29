@@ -114,7 +114,7 @@ category: "Classics & Literary Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:230.0px;height:38px;background:#6e5133"><span><strong>To Kill a Mockingbird</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:228.7px;height:38px;background:#6e5133"><span><strong>To Kill a Mockingbird</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
