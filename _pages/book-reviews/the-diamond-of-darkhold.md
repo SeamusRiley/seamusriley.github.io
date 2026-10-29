@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-diamond-of-darkhold/
-category: "Children's & Middle Grade"
+category: "Fiction - Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -120,7 +120,7 @@ category: "Children's & Middle Grade"
 **Rating:** 2/2 Wonderful  
 **Name:** The Diamond of Darkhold (Book of Ember, #4)  
 **Author:** Jeanne DuPrau  
-**Category:** Children's & Middle Grade  
+**Category:** Fiction - Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
