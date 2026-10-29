@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/a-single-shard/
-category: "Fiction - Children's & Middle Grade"
+category: "Fiction - Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.6px;height:28px;background:#67782a"><span><strong>A Single Shard</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.6px;height:28px;background:#6e5133"><span><strong>A Single Shard</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** A Single Shard  
 **Author:** Linda Sue Park  
-**Category:** Fiction - Children's & Middle Grade  
+**Category:** Fiction - Classics & Literary Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
