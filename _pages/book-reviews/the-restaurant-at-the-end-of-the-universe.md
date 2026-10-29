@@ -114,7 +114,7 @@ category: "Science Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:225.7px;height:38px;background:#1f4e5f"><span><strong>The Restaurant at the End of the Universe</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:224.8px;height:38px;background:#1f4e5f"><span><strong>The Restaurant at the End of the Universe</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
