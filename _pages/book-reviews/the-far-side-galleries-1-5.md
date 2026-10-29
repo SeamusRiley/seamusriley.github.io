@@ -114,7 +114,7 @@ category: "Comics"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:263.4px;height:52px;background:#2e4a7a"><span><strong>The Far Side Galleries 1-5</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:263.2px;height:52px;background:#2e4a7a"><span><strong>The Far Side Galleries 1-5</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
