@@ -205,7 +205,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#7a6a58"></span>Non-Fiction (1)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (66)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious total (32)</p>
+<span class="bk-dot" style="background:transparent"></span>Serious Total (32)<br>
+<span class="bk-dot" style="background:transparent"></span>Fiction Total (50)</p>
 
 <table class="sortable">
 <thead>
