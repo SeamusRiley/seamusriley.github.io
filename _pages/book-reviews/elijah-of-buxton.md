@@ -114,7 +114,7 @@ category: "Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:221.3px;height:38px;background:#67782a"><span><strong>Elijah of Buxton</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:220.9px;height:38px;background:#67782a"><span><strong>Elijah of Buxton</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
