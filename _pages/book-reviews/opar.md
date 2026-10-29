@@ -114,7 +114,7 @@ category: "Non-Fiction - Philosophy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:270.3px;height:52px;background:#1e4d3d"><span>OPAR</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:271.0px;height:52px;background:#1e4d3d"><span>OPAR</span></div></div>
 
 
 **Rating:** 1/2 Nice  
