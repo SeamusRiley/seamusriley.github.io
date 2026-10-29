@@ -2,3 +2,9 @@
 <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
 <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png">
 <link rel="manifest" href="/site.webmanifest">
+<script>
+if (location.pathname.indexOf('/birthdays') === 0) {
+  var manifestLink = document.querySelector('link[rel="manifest"]');
+  if (manifestLink) manifestLink.href = '/birthdays.webmanifest';
+}
+</script>
