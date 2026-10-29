@@ -120,12 +120,12 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:230.0px;background:#1e4d3d"><a href="/books/the-god-of-the-machine/" title="The God of the Machine" style="max-height:218.0px">The God of the Machine</a></div>
 <div class="bk-spine" style="width:38px;height:235.2px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:223.2px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:52px;height:272.1px;background:#1e4d3d"><a href="/books/opar/" title="OPAR (Objectivism: The Philosophy of Ayn Rand)" style="max-height:260.1px">OPAR</a></div>
-<div class="bk-spine" style="width:28px;height:187.0px;background:#1e4d3d"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:249.0px;background:#1e4d3d"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:237.0px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:52px;height:249.0px;background:#1e4d3d"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/ideal/" title="Ideal" style="max-height:205.0px">Ideal &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/introduction-to-objectivist-epistemology/" title="Introduction to Objectivist Epistemology" style="max-height:205.0px"><strong>ITOE</strong></a></div>
-<div class="bk-spine" style="width:38px;height:217.0px;background:#1e4d3d"><a href="/books/we-the-living/" title="We the Living" style="max-height:205.0px"><strong>We the Living</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:28px;height:187.0px;background:#2f6b4f"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:249.0px;background:#2f6b4f"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:237.0px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:52px;height:249.0px;background:#2f6b4f"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:217.0px;background:#2f6b4f"><a href="/books/ideal/" title="Ideal" style="max-height:205.0px">Ideal &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:217.0px;background:#2f6b4f"><a href="/books/we-the-living/" title="We the Living" style="max-height:205.0px"><strong>We the Living</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:220.9px;background:#6e5133"><a href="/books/elijah-of-buxton/" title="Elijah of Buxton" style="max-height:208.9px"><strong>Elijah of Buxton</strong></a></div>
 <div class="bk-spine" style="width:28px;height:201.4px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:189.4px"><strong>The Fall Line</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:243.0px;background:#6e5133"><a href="/books/alabama-moon/" title="Alabama Moon (Alabama Moon, #1)" style="max-height:231.0px"><strong>Alabama Moon</strong></a></div>
@@ -194,7 +194,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#98764e,#876542 55%,#71552f);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset 2px 0 3px rgba(255,255,255,.12),-2px 0 4px rgba(0,0,0,.25)"></div>
 </div>
 <p class="bk-legend">Bold titles are favorites, starred titles are reviewed. Click books for full titles. Spine color indicates category.<br>
-<span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (10)<br>
+<span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
+<span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (7)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (8)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (1)<br>
@@ -206,7 +207,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (66)<br>
 <span class="bk-dot" style="background:transparent"></span>Serious Total (32)<br>
-<span class="bk-dot" style="background:transparent"></span>Fiction Total (50)</p>
+<span class="bk-dot" style="background:transparent"></span>Fiction Total (55)</p>
 
 <table class="sortable">
 <thead>
