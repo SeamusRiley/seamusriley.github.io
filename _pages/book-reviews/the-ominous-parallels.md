@@ -114,7 +114,7 @@ category: "Philosophy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:235.8px;height:38px;background:#1e4d3d"><span><strong>The Ominous Parallels</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:235.2px;height:38px;background:#1e4d3d"><span><strong>The Ominous Parallels</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
