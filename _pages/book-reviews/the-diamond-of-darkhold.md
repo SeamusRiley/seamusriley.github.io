@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-diamond-of-darkhold/
-category: "Dystopian"
+category: "Children's & Middle Grade"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Dystopian"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:232.6px;height:38px;background:#b45a1b"><span><strong>The Diamond of Darkhold</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:232.6px;height:38px;background:#67782a"><span><strong>The Diamond of Darkhold</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
 **Name:** The Diamond of Darkhold (Book of Ember, #4)  
 **Author:** Jeanne DuPrau  
-**Category:** Dystopian  
+**Category:** Children's & Middle Grade  
 **Recommender:** &mdash;
 
 *No review yet.*
