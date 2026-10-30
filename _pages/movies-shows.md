@@ -14,48 +14,48 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 
 <table class="sortable">
 <thead>
-<tr><th>Rating</th><th>Name</th><th>Director</th><th>Recommender</th></tr>
+<tr><th>Rating</th><th>Name</th><th>Director</th><th>Recommender</th><th>Review</th></tr>
 </thead>
 <tbody>
-<tr><td>2/2 Wonderful</td><td>Adaptation</td><td>Spike Jonze</td><td>Eli</td></tr>
-<tr><td>2/2 Wonderful</td><td>Babe: Pig in the City</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>2/2 Wonderful</td><td>Blade Runner 2049</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>2/2 Wonderful</td><td>Castle in the Sky</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Cyrano De Bergerac (1940)</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Digger</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Disappearance of Haruhi Suzumiya</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Django Unchained</td><td>Quentin Tarantino</td><td>Aaron</td></tr>
-<tr><td>2/2 Wonderful</td><td>Dororo</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>&mdash;</td><td>Eldorado</td><td>&mdash;</td><td>Ben</td></tr>
-<tr><td>2/2 Wonderful</td><td>Erased</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>0/2 Not For Me</td><td>Eternal Sunshine of the Spotless Mind</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>0/2 Not For Me</td><td>The Good Place</td><td>&mdash;</td><td>Kate</td></tr>
-<tr><td>2/2 Wonderful</td><td>Howl&#x27;s Moving Castle</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Is It Wrong to Try to Pick Up Girls in a Dungeon?</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Kiki&#x27;s Delivery Service</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>KonoSuba: God&#x27;s Blessing on This Wonderful World!</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>KonoSuba: God&#x27;s Blessing on This Wonderful World! 2</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Melancholy of Haruhi Suzumiya</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Melancholy of Haruhi Suzumiya (2009)</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Mob Psycho 100</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Mob Psycho 100 II</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>My Neighbor Totoro</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Naked Gun 2</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>2/2 Wonderful</td><td>Nausicaä of the Valley of the Wind</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>&mdash;</td><td>Office Space</td><td>&mdash;</td><td>Me</td></tr>
-<tr><td>2/2 Wonderful</td><td>A Place Further Than The Universe</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Ponyo</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Porco Rosso</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Princess Mononoke</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Project Hail Mary</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Ranking of Kings</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>The Secret Life of Walter Mitty</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>The Secret World of Arrietty</td><td>Hiromasa Yonebayashi</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Spirited Away</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Spy x Family</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Toradora!</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Violet Evergarden</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>2/2 Wonderful</td><td>Violet Evergarden: The Movie</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Adaptation</td><td>Spike Jonze</td><td>Eli</td><td><a href="/movies-shows/adaptation/">Review</a></td></tr>
+<tr><td>2/2 Wonderful</td><td>Babe: Pig in the City</td><td>&mdash;</td><td>Me</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Blade Runner 2049</td><td>&mdash;</td><td>Me</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Castle in the Sky</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Cyrano De Bergerac (1940)</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Digger</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Disappearance of Haruhi Suzumiya</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Django Unchained</td><td>Quentin Tarantino</td><td>Aaron</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Dororo</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>&mdash;</td><td>Eldorado</td><td>&mdash;</td><td>Ben</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Erased</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>0/2 Not For Me</td><td>Eternal Sunshine of the Spotless Mind</td><td>&mdash;</td><td>Me</td><td>&mdash;</td></tr>
+<tr><td>0/2 Not For Me</td><td>The Good Place</td><td>&mdash;</td><td>Kate</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Howl&#x27;s Moving Castle</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Is It Wrong to Try to Pick Up Girls in a Dungeon?</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Kiki&#x27;s Delivery Service</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>KonoSuba: God&#x27;s Blessing on This Wonderful World!</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>KonoSuba: God&#x27;s Blessing on This Wonderful World! 2</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Melancholy of Haruhi Suzumiya</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Melancholy of Haruhi Suzumiya (2009)</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Mob Psycho 100</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Mob Psycho 100 II</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>My Neighbor Totoro</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Naked Gun 2</td><td>&mdash;</td><td>Me</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Nausicaä of the Valley of the Wind</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>&mdash;</td><td>Office Space</td><td>&mdash;</td><td>Me</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>A Place Further Than The Universe</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Ponyo</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Porco Rosso</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Princess Mononoke</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Project Hail Mary</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Ranking of Kings</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>The Secret Life of Walter Mitty</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>The Secret World of Arrietty</td><td>Hiromasa Yonebayashi</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Spirited Away</td><td>Hayao Miyazaki</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Spy x Family</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Toradora!</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Violet Evergarden</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Violet Evergarden: The Movie</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
 </tbody>
 </table>
 
