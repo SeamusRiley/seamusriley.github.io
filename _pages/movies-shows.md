@@ -17,6 +17,7 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 <tr><th>Rating</th><th>Name</th><th>Director</th><th>Recommender</th></tr>
 </thead>
 <tbody>
+<tr><td>2/2 Wonderful</td><td>Adaptation</td><td>Spike Jonze</td><td>Eli</td></tr>
 <tr><td>2/2 Wonderful</td><td>Babe: Pig in the City</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>2/2 Wonderful</td><td>Blade Runner 2049</td><td>&mdash;</td><td>Me</td></tr>
 <tr><td>2/2 Wonderful</td><td>Castle in the Sky</td><td>Hayao Miyazaki</td><td>&mdash;</td></tr>
@@ -62,8 +63,6 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
 
 - 3 Idiots
   - Recommended by Me
-- Adaptation
-  - Recommended by Eli
 - Another Face in the Crowd
   - Recommended by Eli
 - The Bear
