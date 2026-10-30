@@ -65,6 +65,9 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
   - Recommended by Me
 - Another Face in the Crowd
   - Recommended by Eli
+- The Banshees of Inisherin
+  - Directed by Martin McDonagh
+  - Recommended by Aaron
 - The Bear
   - Recommended by Me
 - Being John Malkovich
