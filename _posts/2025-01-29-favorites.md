@@ -46,8 +46,9 @@ Our favorite things say a lot about us. At a certain point I started recording m
     - Television <a id="television" href="#television" class="favlink" title="Link to this item">#</a>
       - Sitcom <a id="sitcom" href="#sitcom" class="favlink" title="Link to this item">#</a>
         - Seinfeld <a id="seinfeld" href="#seinfeld" class="favlink" title="Link to this item">#</a>
-    - Video: <a id="video" href="#video" class="favlink" title="Link to this item">#</a>
-      - A-Train Sax Battle <a id="a-train-sax-battle" href="#a-train-sax-battle" class="favlink" title="Link to this item">#</a>
+
+- Video: <a id="video" href="#video" class="favlink" title="Link to this item">#</a>
+  - A-Train Sax Battle <a id="a-train-sax-battle" href="#a-train-sax-battle" class="favlink" title="Link to this item">#</a>
 
 - Organisms <a id="organisms" href="#organisms" class="favlink" title="Link to this item">#</a>
   - Flower: <a id="flower" href="#flower" class="favlink" title="Link to this item">#</a>
