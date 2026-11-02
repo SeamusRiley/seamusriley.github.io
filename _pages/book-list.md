@@ -202,11 +202,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" data-genre="classics" data-w="38" style="width:38px;height:225.1px;background:#6e5133"><a href="/books/to-kill-a-mockingbird/" title="To Kill a Mockingbird" style="max-height:213.1px"><strong>To Kill a Mockingbird</strong></a></div>
 <div class="bk-spine" data-genre="classics" data-w="38" style="width:38px;height:219.7px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:207.7px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
 <div class="bk-spine" data-genre="classics" data-w="28" style="width:28px;height:202.2px;background:#6e5133"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:190.2px"><strong>A Single Shard</strong></a></div>
-<div class="bk-spine bk-coll" data-coll="brians-saga" data-genre="classics" data-w="104" style="width:104px;height:224.0px;background:#6e5133" title="Brian&#x27;s Saga"><span class="bk-coll-name"><strong>Brian&#x27;s Saga</strong></span><span class="bk-coll-hint">click to expand</span></div>
+<div class="bk-spine bk-coll" data-coll="brians-saga" data-genre="classics" data-w="104" style="width:104px;height:224.0px;background:#6e5133" title="Hatchet series"><span class="bk-coll-name"><strong>Hatchet series</strong></span><span class="bk-coll-hint">click to expand</span></div>
 <div class="bk-spine" data-genre="classics" data-w="38" data-volof="brians-saga" style="width:38px;height:224.0px;background:#6e5133"><a href="/books/hatchet/" title="Hatchet" style="max-height:212.0px"><strong>Hatchet</strong></a></div>
-<div class="bk-spine" data-genre="children" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#67782a"><a href="/books/the-river/" title="The River" style="max-height:184.8px">The River</a></div>
-<div class="bk-spine" data-genre="children" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#67782a"><a href="/books/brians-winter/" title="Brian&#x27;s Winter" style="max-height:184.8px">Brian&#x27;s Winter</a></div>
-<div class="bk-spine" data-genre="children" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#67782a"><a href="/books/brians-return/" title="Brian&#x27;s Return" style="max-height:184.8px">Brian&#x27;s Return</a></div>
+<div class="bk-spine" data-genre="classics" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#6e5133"><a href="/books/the-river/" title="The River" style="max-height:184.8px">The River</a></div>
+<div class="bk-spine" data-genre="classics" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#6e5133"><a href="/books/brians-winter/" title="Brian&#x27;s Winter" style="max-height:184.8px">Brian&#x27;s Winter</a></div>
+<div class="bk-spine" data-genre="classics" data-w="28" data-volof="brians-saga" style="width:28px;height:196.8px;background:#6e5133"><a href="/books/brians-return/" title="Brian&#x27;s Return" style="max-height:184.8px">Brian&#x27;s Return</a></div>
 <div class="bk-spine" data-genre="classics" data-w="38" style="width:38px;height:234.9px;background:#6e5133"><a href="/books/holes/" title="Holes" style="max-height:222.9px"><strong>Holes</strong></a></div>
 <div class="bk-spine" data-genre="classics" data-w="38" style="width:38px;height:240.3px;background:#6e5133"><a href="/books/kidnapped/" title="Kidnapped" style="max-height:228.3px">Kidnapped</a></div>
 <div class="bk-spine" data-genre="classics" data-w="38" style="width:38px;height:229.5px;background:#6e5133"><a href="/books/gullivers-travels/" title="Gulliver&#x27;s Travels" style="max-height:217.5px">Gulliver&#x27;s Travels</a></div>
@@ -465,15 +465,15 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
-<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (18)<br>
+<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (21)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (10)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (12)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
-<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (143)<br>
+<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (140)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (59)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (258)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious Total (56)<br>
+<span class="bk-dot" style="background:transparent"></span>Serious Total (59)<br>
 <span class="bk-dot" style="background:transparent"></span>Fiction Total (191)</p>
 
 <script>
