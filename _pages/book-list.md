@@ -129,13 +129,15 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:52px;height:249.0px;background:#2f6b4f"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#2f6b4f"><a href="/books/ideal/" title="Ideal" style="max-height:205.0px">Ideal &#9733;</a></div>
 <div class="bk-spine" style="width:38px;height:217.0px;background:#2f6b4f"><a href="/books/we-the-living/" title="We the Living" style="max-height:205.0px"><strong>We the Living</strong> &#9733;</a></div>
+<div class="bk-spine" style="width:38px;height:224.7px;background:#6e5133"><a href="/books/airman/" title="Airman" style="max-height:212.7px"><strong>Airman</strong></a></div>
+<div class="bk-spine" style="width:38px;height:219.1px;background:#6e5133"><a href="/books/bud-not-buddy/" title="Bud, Not Buddy" style="max-height:207.1px">Bud, Not Buddy</a></div>
 <div class="bk-spine" style="width:38px;height:219.1px;background:#6e5133"><a href="/books/elijah-of-buxton/" title="Elijah of Buxton" style="max-height:207.1px"><strong>Elijah of Buxton</strong></a></div>
 <div class="bk-spine" style="width:38px;height:221.9px;background:#6e5133"><a href="/books/robinson-crusoe/" title="Robinson Crusoe" style="max-height:209.9px">Robinson Crusoe</a></div>
 <div class="bk-spine" style="width:28px;height:199.1px;background:#6e5133"><a href="/books/the-fall-line/" title="The Fall Line" style="max-height:187.1px"><strong>The Fall Line</strong> &#9733;</a></div>
-<div class="bk-spine" style="width:38px;height:243.0px;background:#6e5133"><a href="/books/alabama-moon/" title="Alabama Moon (Alabama Moon, #1)" style="max-height:231.0px"><strong>Alabama Moon</strong></a></div>
-<div class="bk-spine" style="width:38px;height:224.0px;background:#6e5133"><a href="/books/the-green-glass-sea/" title="The Green Glass Sea (Green Glass, #1)" style="max-height:212.0px"><strong>The Green Glass Sea</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:38px;height:243.0px;background:#6e5133"><a href="/books/alabama-moon/" title="Alabama Moon (Alabama Moon, #1)" style="max-height:231.0px"><strong>Alabama Moon</strong></a></div>
+<div class="bk-spine" style="width:38px;height:224.0px;background:#6e5133"><a href="/books/the-green-glass-sea/" title="The Green Glass Sea (Green Glass, #1)" style="max-height:212.0px"><strong>The Green Glass Sea</strong></a></div>
 <div class="bk-spine" style="width:38px;height:226.1px;background:#6e5133"><a href="/books/to-kill-a-mockingbird/" title="To Kill a Mockingbird" style="max-height:214.1px"><strong>To Kill a Mockingbird</strong></a></div>
 <div class="bk-spine" style="width:38px;height:220.5px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:208.5px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:28px;height:197.4px;background:#6e5133"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:185.4px"><strong>A Single Shard</strong></a></div>
@@ -153,10 +155,10 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:223.3px;background:#1f4e5f"><a href="/books/mostly-harmless/" title="Mostly Harmless (Hitchhiker&#x27;s Guide to the Galaxy, #5)" style="max-height:211.3px"><strong>Mostly Harmless</strong></a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#1f4e5f"><a href="/books/and-another-thing/" title="And Another Thing... (The Hitchhiker&#x27;s Guide to the Galaxy, #6)" style="max-height:212.7px"><strong>And Another Thing...</strong></a></div>
 <div class="bk-spine" style="width:38px;height:238.1px;background:#1f4e5f"><a href="/books/enders-game/" title="Ender&#x27;s Game (Ender&#x27;s Saga, #1)" style="max-height:226.1px"><strong>Ender&#x27;s Game</strong></a></div>
-<div class="bk-spine" style="width:38px;height:241.6px;background:#1f4e5f"><a href="/books/leviathan/" title="Leviathan (Leviathan, #1)" style="max-height:229.6px"><strong>Leviathan</strong></a></div>
-<div class="bk-spine" style="width:52px;height:273.9px;background:#1f4e5f"><a href="/books/behemoth/" title="Behemoth (Leviathan, #2)" style="max-height:261.9px"><strong>Behemoth</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:38px;height:241.6px;background:#1f4e5f"><a href="/books/leviathan/" title="Leviathan (Leviathan, #1)" style="max-height:229.6px"><strong>Leviathan</strong></a></div>
+<div class="bk-spine" style="width:52px;height:273.9px;background:#1f4e5f"><a href="/books/behemoth/" title="Behemoth (Leviathan, #2)" style="max-height:261.9px"><strong>Behemoth</strong></a></div>
 <div class="bk-spine" style="width:52px;height:273.9px;background:#1f4e5f"><a href="/books/goliath/" title="Goliath (Leviathan, #3)" style="max-height:261.9px"><strong>Goliath</strong></a></div>
 <div class="bk-spine" style="width:52px;height:254.4px;background:#9a5c26"><a href="/books/eragon/" title="Eragon (Inheritance, #1)" style="max-height:242.4px">Eragon</a></div>
 <div class="bk-spine" style="width:52px;height:254.4px;background:#9a5c26"><a href="/books/eldest/" title="Eldest (Inheritance, #2)" style="max-height:242.4px"><strong>Eldest</strong></a></div>
@@ -171,17 +173,15 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:233.9px;background:#67782a"><a href="/books/chains/" title="Chains" style="max-height:221.9px">Chains</a></div>
 <div class="bk-spine" style="width:28px;height:207.8px;background:#67782a"><a href="/books/mr-poppers-penguins/" title="Mr. Popper&#x27;s Penguins" style="max-height:195.8px">Mr. Popper&#x27;s Penguins</a></div>
 <div class="bk-spine" style="width:38px;height:232.5px;background:#67782a"><a href="/books/double-fudge/" title="Double Fudge" style="max-height:220.5px">Double Fudge</a></div>
-<div class="bk-spine" style="width:52px;height:272.8px;background:#67782a"><a href="/books/the-39-clues-1-10/" title="The 39 Clues 1-10" style="max-height:260.8px"><strong>The 39 Clues 1-10</strong></a></div>
-<div class="bk-spine" style="width:52px;height:270.7px;background:#67782a"><a href="/books/trackers-1-2/" title="Trackers 1-2" style="max-height:258.7px">Trackers 1-2</a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
-<div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/airman/" title="Airman" style="max-height:212.7px"><strong>Airman</strong></a></div>
+<div class="bk-spine" style="width:52px;height:272.8px;background:#67782a"><a href="/books/the-39-clues-1-10/" title="The 39 Clues 1-10" style="max-height:260.8px"><strong>The 39 Clues 1-10</strong></a></div>
+<div class="bk-spine" style="width:52px;height:270.7px;background:#67782a"><a href="/books/trackers-1-2/" title="Trackers 1-2" style="max-height:258.7px">Trackers 1-2</a></div>
 <div class="bk-spine" style="width:52px;height:257.7px;background:#67782a"><a href="/books/artemis-fowl-1-8/" title="Artemis Fowl 1-8" style="max-height:245.7px"><strong>Artemis Fowl 1-8</strong></a></div>
 <div class="bk-spine" style="width:28px;height:193.9px;background:#67782a"><a href="/books/the-artemis-fowl-files/" title="The Artemis Fowl Files" style="max-height:181.9px"><strong>The Artemis Fowl Files</strong></a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/half-moon-investigations/" title="Half Moon Investigations" style="max-height:212.7px">Half Moon Investigations</a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/the-supernaturalist/" title="The Supernaturalist" style="max-height:212.7px">The Supernaturalist</a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/the-wish-list/" title="The Wish List" style="max-height:212.7px">The Wish List</a></div>
-<div class="bk-spine" style="width:38px;height:219.1px;background:#67782a"><a href="/books/bud-not-buddy/" title="Bud, Not Buddy" style="max-height:207.1px">Bud, Not Buddy</a></div>
 <div class="bk-spine" style="width:28px;height:209.5px;background:#67782a"><a href="/books/georges-marvelous-medicine/" title="George&#x27;s Marvelous Medicine" style="max-height:197.5px">George&#x27;s Marvelous Medicine</a></div>
 <div class="bk-spine" style="width:38px;height:233.2px;background:#67782a"><a href="/books/the-tale-of-despereaux/" title="The Tale of Despereaux" style="max-height:221.2px">The Tale of Despereaux</a></div>
 <div class="bk-spine" style="width:52px;height:258.8px;background:#67782a"><a href="/books/the-hardy-boys/" title="The Hardy Boys" style="max-height:246.8px">The Hardy Boys &#9733;</a></div>
@@ -193,9 +193,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:52px;height:263.1px;background:#67782a"><a href="/books/diary-of-a-wimpy-kid-1-7/" title="Diary of a Wimpy Kid 1-7" style="max-height:251.10000000000002px">Diary of a Wimpy Kid 1-7</a></div>
 <div class="bk-spine" style="width:52px;height:253.3px;background:#67782a"><a href="/books/the-chronicles-of-narnia/" title="The Chronicles of Narnia (The Chronicles of Narnia, #1-7)" style="max-height:241.3px">The Chronicles of Narnia</a></div>
 <div class="bk-spine" style="width:28px;height:188.7px;background:#67782a"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:176.7px"><strong>The Magician&#x27;s Nephew</strong></a></div>
-<div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:192.3px"><strong>Shiloh</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:192.3px"><strong>Shiloh</strong></a></div>
 <div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:192.3px"><strong>Shiloh Season</strong></a></div>
 <div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/saving-shiloh/" title="Saving Shiloh (Shiloh, #3)" style="max-height:192.3px"><strong>Saving Shiloh</strong></a></div>
 <div class="bk-spine" style="width:52px;height:269.6px;background:#67782a"><a href="/books/magic-tree-house-1-37/" title="Magic Tree House 1-37" style="max-height:257.6px">Magic Tree House 1-37</a></div>
@@ -214,9 +214,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:238.8px;background:#67782a"><a href="/books/the-last-olympian/" title="The Last Olympian (Percy Jackson and the Olympians, #5)" style="max-height:226.8px">The Last Olympian</a></div>
 <div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-lost-hero/" title="The Lost Hero (The Heroes of Olympus, #1)" style="max-height:259.8px">The Lost Hero</a></div>
 <div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-son-of-neptune/" title="The Son of Neptune (The Heroes of Olympus, #2)" style="max-height:259.8px"><strong>The Son of Neptune</strong></a></div>
-<div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-mark-of-athena/" title="The Mark of Athena (The Heroes of Olympus, #3)" style="max-height:259.8px">The Mark of Athena</a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-mark-of-athena/" title="The Mark of Athena (The Heroes of Olympus, #3)" style="max-height:259.8px">The Mark of Athena</a></div>
 <div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-house-of-hades/" title="The House of Hades (The Heroes of Olympus, #4)" style="max-height:259.8px"><strong>The House of Hades</strong></a></div>
 <div class="bk-spine" style="width:52px;height:271.8px;background:#67782a"><a href="/books/the-blood-of-olympus/" title="The Blood of Olympus (The Heroes of Olympus, #5)" style="max-height:259.8px">The Blood of Olympus</a></div>
 <div class="bk-spine" style="width:38px;height:227.5px;background:#67782a"><a href="/books/harry-potter-and-the-sorcerers-stone/" title="Harry Potter and the Sorcerer&#x27;s Stone (Harry Potter, #1)" style="max-height:215.5px">Sorcerer&#x27;s Stone</a></div>
@@ -231,9 +231,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:52px;height:267.4px;background:#67782a"><a href="/books/the-complete-wreck/" title="The Complete Wreck (A Series of Unfortunate Events, #1-13)" style="max-height:255.39999999999998px">The Complete Wreck</a></div>
 <div class="bk-spine" style="width:52px;height:255.5px;background:#67782a"><a href="/books/a-whole-nother-story-1-2/" title="A Whole Nother Story 1-2" style="max-height:243.5px">A Whole Nother Story 1-2</a></div>
 <div class="bk-spine bk-long" style="width:52px;height:275.0px;background:#67782a"><a href="/books/the-mysterious-benedict-society-1-3/" title="The Mysterious Benedict Society 1-3" style="max-height:263.0px"><strong>The Mysterious Benedict Society 1-3</strong></a></div>
-<div class="bk-spine" style="width:52px;height:265.2px;background:#67782a"><a href="/books/the-bartimaeus-trilogy-1-3/" title="The Bartimaeus Trilogy 1-3" style="max-height:253.2px">The Bartimaeus Trilogy 1-3</a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:52px;height:265.2px;background:#67782a"><a href="/books/the-bartimaeus-trilogy-1-3/" title="The Bartimaeus Trilogy 1-3" style="max-height:253.2px">The Bartimaeus Trilogy 1-3</a></div>
 <div class="bk-spine" style="width:38px;height:230.4px;background:#67782a"><a href="/books/the-ring-of-solomon/" title="The Ring of Solomon" style="max-height:218.4px">The Ring of Solomon</a></div>
 <div class="bk-spine" style="width:52px;height:266.3px;background:#67782a"><a href="/books/neil-flambe-1-2/" title="Neil Flambe 1-2" style="max-height:254.3px">Neil Flambe 1-2</a></div>
 <div class="bk-spine" style="width:52px;height:250.1px;background:#2e4a7a"><a href="/books/foxtrot/" title="FoxTrot" style="max-height:238.1px"><strong>FoxTrot</strong></a></div>
@@ -253,15 +253,15 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#96502e"></span>Non-Fiction - Mind &amp; Self (2)<br>
 <span class="bk-dot" style="background:#1e4d3d"></span>Non-Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
-<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (14)<br>
+<span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (16)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (15)<br>
 <span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (7)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
-<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (153)<br>
+<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (151)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (50)<br>
 <span class="bk-dot" style="background:transparent"></span>Total (255)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious Total (52)<br>
+<span class="bk-dot" style="background:transparent"></span>Serious Total (54)<br>
 <span class="bk-dot" style="background:transparent"></span>Fiction Total (197)</p>
 
 <table class="sortable">
