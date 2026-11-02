@@ -59,6 +59,10 @@ category: "Fiction - Science Fiction"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
@@ -68,13 +72,14 @@ category: "Fiction - Science Fiction"
   border-radius: 2px;
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .bk-bookend img {
   width: 78%;
-  height: 78%;
+  height: auto;
   object-fit: contain;
 }
 
