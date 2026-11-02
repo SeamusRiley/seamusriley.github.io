@@ -34,6 +34,7 @@ category: "Fiction - Philosophy"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Fiction - Philosophy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:249.0px;height:52px;background:#2f6b4f"><span><strong>The Fountainhead</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:249.0px;height:36px;background:#2f6b4f"><span><strong>The Fountainhead</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
