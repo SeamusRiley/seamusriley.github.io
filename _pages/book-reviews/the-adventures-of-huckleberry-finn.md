@@ -59,6 +59,10 @@ category: "Fiction - Classics & Literary Fiction"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
@@ -116,7 +120,7 @@ category: "Fiction - Classics & Literary Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:236.5px;height:27px;background:#6e5133"><span>The Adventures of Huckleberry Finn &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:236.5px;height:27px;background:#6e5133"><span><span class="bk-dim">The Adventures of Huckleberry Finn</span> &#9733;</span></div></div>
 
 
 **Rating:** 0/2 Not For Me  
