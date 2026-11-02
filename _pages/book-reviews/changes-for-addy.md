@@ -34,6 +34,7 @@ category: "Fiction - Children's & Middle Grade"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:190.2px;height:28px;background:#67782a"><span>Changes for Addy</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:190.2px;height:20px;background:#67782a"><span>Changes for Addy</span></div></div>
 
 
 **Rating:** &mdash;  
