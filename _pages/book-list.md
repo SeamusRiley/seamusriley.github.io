@@ -169,6 +169,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-divider {
   flex: none;
   align-self: stretch;
+  gap: 5px;
   border-radius: 3px 3px 1px 1px;
   background: linear-gradient(90deg, #71552f, #876542 45%, #98764e);
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.15),
@@ -188,6 +189,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   letter-spacing: .4px;
   white-space: nowrap;
 }
+
+.bk-divider .bk-divider-hint { font-size: 9px; opacity: .85; }
 </style>
 <div class="bk-controls"><button type="button" id="bk-toggle-all">Expand all</button></div>
 <div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:max-content;max-width:100%">
@@ -256,7 +259,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" data-genre="dystopian" data-w="38" style="width:38px;height:218.1px;background:#b45a1b"><a href="/books/rootless/" title="Rootless (Rootless, #1)" style="max-height:206.1px"><strong>Rootless</strong></a></div>
 <div class="bk-spine" data-genre="dystopian" data-w="38" style="width:38px;height:236.0px;background:#b45a1b"><a href="/books/legend/" title="Legend (Legend, #1)" style="max-height:224.0px">Legend</a></div>
 <div class="bk-spine" data-genre="thriller" data-w="38" style="width:38px;height:220.8px;background:#26221e"><a href="/books/i-am-justice/" title="I Am Justice" style="max-height:208.8px">I Am Justice &#9733;</a></div>
-<div class="bk-divider" id="bk-divider" data-w="24" title="Children's section: click to show or hide" style="width:24px"><span>Children's</span></div>
+<div class="bk-divider" id="bk-divider" data-w="48" title="Children's section: click to show or hide" style="width:48px"><span>Children's</span><span class="bk-divider-hint">click to expand</span></div>
 <div class="bk-spine" data-genre="children" data-w="28" style="width:28px;height:209.8px;background:#67782a"><a href="/books/mr-poppers-penguins/" title="Mr. Popper&#x27;s Penguins" style="max-height:197.8px">Mr. Popper&#x27;s Penguins</a></div>
 <div class="bk-spine" data-genre="children" data-w="38" style="width:38px;height:231.1px;background:#67782a"><a href="/books/double-fudge/" title="Double Fudge" style="max-height:219.1px">Double Fudge</a></div>
 <div class="bk-spine" data-genre="children" data-w="38" style="width:38px;height:238.1px;background:#67782a"><a href="/books/trackers/" title="Trackers" style="max-height:226.1px">Trackers</a></div>
@@ -499,6 +502,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   var openColls = {};
   var childrenCollapsed = true;  // Children's starts collapsed.
   var toggleBtn = document.getElementById('bk-toggle-all');
+  var dividerEl = document.getElementById('bk-divider');
   function anyClosed(){
     if (childrenCollapsed) return true;
     for (var i = 0; i < items.length; i++) {
@@ -511,6 +515,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   function syncBtn(){
     if (toggleBtn)
       toggleBtn.textContent = anyClosed() ? 'Expand all' : 'Collapse all';
+    if (dividerEl) {
+      var dh = dividerEl.querySelector('.bk-divider-hint');
+      if (dh) dh.textContent =
+        childrenCollapsed ? 'click to expand' : 'click to collapse';
+    }
   }
   function isVis(el){
     if (el.classList.contains('bk-bookend') || el.id === 'bk-divider')
