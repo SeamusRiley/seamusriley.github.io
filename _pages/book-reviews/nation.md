@@ -59,6 +59,10 @@ category: "Fiction - Fantasy"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
