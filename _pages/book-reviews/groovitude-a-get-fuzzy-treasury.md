@@ -114,7 +114,7 @@ category: "Comics & Collections"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:223.5px;height:38px;background:#2e4a7a"><span><strong>Groovitude</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:221.9px;height:38px;background:#2e4a7a"><span><strong>Groovitude</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
