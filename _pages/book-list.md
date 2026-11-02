@@ -259,8 +259,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (149)<br>
-<span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (50)<br>
-<span class="bk-dot" style="background:transparent"></span>Total (255)<br>
+<span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (62)<br>
+<span class="bk-dot" style="background:transparent"></span>Total (267)<br>
 <span class="bk-dot" style="background:transparent"></span>Serious Total (56)<br>
 <span class="bk-dot" style="background:transparent"></span>Fiction Total (197)</p>
 
