@@ -153,6 +153,19 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-coll.bk-long .bk-coll-name { font-size: 10.5px; }
 .bk-coll-hint { font-size: 9px; opacity: .85; }
 
+.bk-controls { margin: 1.2em 0 0; }
+
+.bk-controls button {
+  font: inherit;
+  font-size: .9em;
+  padding: .35em 1.1em;
+  border: 1px solid #71552f;
+  border-radius: 3px;
+  background: linear-gradient(#98764e, #876542);
+  color: #f7f1e3;
+  cursor: pointer;
+}
+
 .bk-divider {
   flex: none;
   align-self: stretch;
@@ -176,6 +189,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   white-space: nowrap;
 }
 </style>
+<div class="bk-controls"><button type="button" id="bk-toggle-all">Expand all</button></div>
 <div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:max-content;max-width:100%">
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
 <div id="bk-main" style="flex:1;min-width:0">
@@ -484,6 +498,20 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   var items = Array.prototype.slice.call(main.children);
   var openColls = {};
   var childrenCollapsed = true;  // Children's starts collapsed.
+  var toggleBtn = document.getElementById('bk-toggle-all');
+  function anyClosed(){
+    if (childrenCollapsed) return true;
+    for (var i = 0; i < items.length; i++) {
+      var el = items[i];
+      if (el.classList.contains('bk-coll') &&
+          !openColls[el.getAttribute('data-coll')]) return true;
+    }
+    return false;
+  }
+  function syncBtn(){
+    if (toggleBtn)
+      toggleBtn.textContent = anyClosed() ? 'Expand all' : 'Collapse all';
+  }
   function isVis(el){
     if (el.classList.contains('bk-bookend') || el.id === 'bk-divider')
       return true;
@@ -526,6 +554,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       board.className = 'bk-board';
       main.appendChild(board);
     });
+    syncBtn();
   }
   items.forEach(function(el){
     if (el.classList.contains('bk-coll')) {
@@ -543,6 +572,19 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
         reflow();
       });
     }
+  });
+  if (toggleBtn) toggleBtn.addEventListener('click', function(){
+    var open = anyClosed();
+    childrenCollapsed = !open;
+    items.forEach(function(el){
+      if (el.classList.contains('bk-coll')) {
+        openColls[el.getAttribute('data-coll')] = open;
+        var hint = el.querySelector('.bk-coll-hint');
+        if (hint)
+          hint.textContent = open ? 'click to collapse' : 'click to expand';
+      }
+    });
+    reflow();
   });
   reflow();
 })();
