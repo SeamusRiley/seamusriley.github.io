@@ -160,10 +160,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-controls button {
   font: inherit;
   font-size: .9em;
-  width: 100%;
-  box-sizing: border-box;
   position: relative;
-  padding: 23px 10px;
+  padding: 10px 34px;
   border: 1px solid #71552f;
   border-radius: 3px;
   background: linear-gradient(#98764e, #876542);
@@ -171,20 +169,21 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   cursor: pointer;
 }
 
-/* The same green bands the Children's divider wears, inset one
-   band-width from the top and bottom edges. */
+/* The Children's divider's green bands, turned with the button:
+   vertical bands inset one band-width from each side end, the
+   label between them. The button is only as wide as it needs. */
 .bk-controls button::before,
 .bk-controls button::after {
   content: "";
   position: absolute;
-  left: 0;
-  right: 0;
-  height: 9px;
-  background: linear-gradient(90deg, #4c5a1e, #8fa63f 30%, #67782a 55%, #425018);
+  top: 0;
+  bottom: 0;
+  width: 9px;
+  background: linear-gradient(180deg, #4c5a1e, #8fa63f 30%, #67782a 55%, #425018);
 }
 
-.bk-controls button::before { top: 9px; }
-.bk-controls button::after { bottom: 9px; }
+.bk-controls button::before { left: 9px; }
+.bk-controls button::after { right: 9px; }
 
 .bk-divider {
   flex: none;
