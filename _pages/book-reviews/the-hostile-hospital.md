@@ -59,6 +59,10 @@ category: "Fiction - Children's & Middle Grade"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
@@ -68,13 +72,14 @@ category: "Fiction - Children's & Middle Grade"
   border-radius: 2px;
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .bk-bookend img {
   width: 78%;
-  height: 78%;
+  height: auto;
   object-fit: contain;
 }
 
@@ -115,7 +120,7 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:233.2px;height:27px;background:#67782a"><span>The Hostile Hospital</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:233.2px;height:27px;background:#67782a"><span><span class="bk-dim">The Hostile Hospital</span></span></div></div>
 
 
 **Rating:** 0/2 Not For Me  
