@@ -74,7 +74,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 
 .bk-bookend img {
   width: 78%;
-  height: 78%;
+  height: auto;
   object-fit: contain;
 }
 
@@ -601,7 +601,19 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
         endW = Math.min(114, gap);
         bookend.style.width = endW + 'px';
         bookend.style.height = '114px';
-        bookend.style.paddingTop = Math.round(endW * 0.11) + 'px';
+        // The crest lives in a square box of 78% of the width,
+        // centered in the square that fits the top of the plaque
+        // (in the full-size square, simply centered). The box is
+        // sized in pixels: a percentage height on the image made
+        // its box follow the plaque's height instead, and
+        // object-fit then centered the crest in the wrong box.
+        var crest = bookend.querySelector('img');
+        var cs = Math.round(endW * 0.78);
+        bookend.style.paddingTop = Math.round((endW - cs) / 2) + 'px';
+        if (crest) {
+          crest.style.width = cs + 'px';
+          crest.style.height = cs + 'px';
+        }
         // A squished bookend also flexes by sub-pixel amounts, so
         // the frame's fractional width leaves no sliver beside it.
         bookend.style.flex = endW < 114 ? '1 1 auto' : '';
