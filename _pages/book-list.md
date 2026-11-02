@@ -209,7 +209,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-divider .bk-divider-hint { font-size: 9px; opacity: .85; }
 </style>
 <div class="bk-controls"><button type="button" id="bk-toggle-all">Expand all</button></div>
-<div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:max-content;max-width:100%">
+<div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:100%;max-width:762px">
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
 <div id="bk-main" style="flex:1;min-width:0">
 <div class="bk-spine" data-genre="nonfiction" data-w="38" style="width:38px;height:218.6px;background:#7a6a58"><a href="/books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/" title="Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" style="max-height:206.6px">Born to Run &#9733;</a></div>
@@ -519,16 +519,15 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   var openColls = {};
   var shelfEl = document.getElementById('bookshelf');
   function budget(){
-    // Rows wrap to the width the bookcase actually has on this
-    // screen (its parent column, minus the two side uprights),
-    // never wider than the designed 730px. A fixed 730 budget
-    // overflowed the frame on narrow screens.
-    var w = 730;
-    if (shelfEl && shelfEl.parentElement) {
-      var avail = shelfEl.parentElement.clientWidth - 34;
-      if (avail > 120) w = Math.min(730, avail);
-    }
-    return w;
+    // Rows wrap to the bookcase's inner width. The frame is a
+    // fixed width (100% of the column, capped at 762px), so this
+    // is stable: it does not change when collections open or
+    // close. Never wider than the designed 730px.
+    var w = main.clientWidth;
+    if (!w && shelfEl && shelfEl.parentElement)
+      w = shelfEl.parentElement.clientWidth - 34;
+    if (!w || w < 120) w = 730;
+    return Math.min(730, w);
   }
   var childrenCollapsed = true;  // Children's starts collapsed.
   var toggleBtn = document.getElementById('bk-toggle-all');
@@ -563,8 +562,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   function wOf(el){ return parseInt(el.getAttribute('data-w'), 10) || 38; }
   function rowW(r){ return r.reduce(function(s, el){ return s + wOf(el); }, 0); }
   function reflow(){
-    main.innerHTML = '';
     var MAXW = budget();
+    main.innerHTML = '';
     var rows = [], cur = [], curW = 0, bookend = null;
     items.forEach(function(el){
       if (!isVis(el)) return;
