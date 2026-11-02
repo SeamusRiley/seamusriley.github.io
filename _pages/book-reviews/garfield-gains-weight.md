@@ -59,6 +59,10 @@ category: "Comics & Collections"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
@@ -116,10 +120,10 @@ category: "Comics & Collections"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.9px;height:20px;background:#2e4a7a"><span>Garfield Gains Weight</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.9px;height:20px;background:#2e4a7a"><span><span class="bk-dim">Garfield Gains Weight</span></span></div></div>
 
 
-**Rating:** 1/2 Nice  
+**Rating:** 0/2 Not For Me  
 **Name:** Garfield Gains Weight  
 **Author:** Jim Davis  
 **Category:** Comics & Collections  
