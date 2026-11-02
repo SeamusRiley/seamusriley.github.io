@@ -34,6 +34,7 @@ category: "Fiction - Science Fiction"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Fiction - Science Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:222.4px;height:38px;background:#1f4e5f"><span><strong>Life, the Universe and Everything</strong></span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:222.4px;height:27px;background:#1f4e5f"><span><strong>Life, the Universe and Everything</strong></span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
