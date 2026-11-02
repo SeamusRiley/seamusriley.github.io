@@ -34,6 +34,7 @@ category: "Comics & Collections"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Comics & Collections"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.9px;height:28px;background:#2e4a7a"><span>Garfield Swallows His Pride</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:198.9px;height:20px;background:#2e4a7a"><span>Garfield Swallows His Pride</span></div></div>
 
 
 **Rating:** 1/2 Nice  
