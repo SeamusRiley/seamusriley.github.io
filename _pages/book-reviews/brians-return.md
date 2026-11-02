@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/brians-return/
-category: "Fiction - Children's & Middle Grade"
+category: "Fiction - Classics & Literary Fiction"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:196.8px;height:28px;background:#67782a"><span>Brian&#x27;s Return</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:196.8px;height:28px;background:#6e5133"><span>Brian&#x27;s Return</span></div></div>
 
 
 **Rating:** &mdash;  
 **Name:** Brian's Return  
 **Author:** Gary Paulsen  
-**Category:** Fiction - Children's & Middle Grade  
+**Category:** Fiction - Classics & Literary Fiction  
 **Recommender:** &mdash;
 
 *No review yet.*
