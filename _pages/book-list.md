@@ -484,7 +484,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine bk-long" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/something-under-the-bed-is-drooling/" title="Something Under the Bed Is Drooling" style="max-height:176.1px"><strong>Something Under the Bed Is Drooling</strong> &#9733;</a></div>
 <div class="bk-spine" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/yukon-ho/" title="Yukon Ho!" style="max-height:176.1px"><strong>Yukon Ho!</strong></a></div>
 <div class="bk-spine" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/weirdos-from-another-planet/" title="Weirdos from Another Planet!" style="max-height:176.1px"><strong>WFAP</strong> &#9733;</a></div>
-<div class="bk-spine" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/the-revenge-of-the-baby-sat/" title="The Revenge of the Baby-Sat" style="max-height:176.1px"><strong>The Revenge of the Baby-Sat</strong></a></div>
+<div class="bk-spine" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/the-revenge-of-the-baby-sat/" title="The Revenge of the Baby-Sat" style="max-height:176.1px"><strong>Revenge of the Baby-Sat</strong></a></div>
 <div class="bk-spine bk-long" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/scientific-progress-goes-boink/" title="Scientific Progress Goes &quot;Boink&quot;" style="max-height:176.1px"><strong>Scientific Progress Goes &quot;Boink&quot;</strong></a></div>
 <div class="bk-spine bk-long" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/attack-of-the-deranged-mutant-killer-monster-snow-goons/" title="Attack of the Deranged Mutant Killer Monster Snow Goons" style="max-height:176.1px"><strong>Attack of the Deranged Mutant Killer Monster Snow Goons</strong></a></div>
 <div class="bk-spine" data-genre="comics" data-w="28" data-volof="calvin-and-hobbes" style="width:28px;height:188.1px;background:#2e4a7a"><a href="/books/the-days-are-just-packed/" title="The Days Are Just Packed" style="max-height:176.1px"><strong>The Days Are Just Packed</strong></a></div>
@@ -601,11 +601,19 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       var target = hasEnd ? MAXW - 114 : MAXW;
       var base = hasEnd ? rw - 114 : rw;
       if (base > 0 && target > base && target / base <= 1.25) {
+        // Integer widths that sum exactly to the target, so no
+        // rounding pixel is left white at the right end.
         var scale = target / base;
+        var pairs = [], used = 0;
         r.forEach(function(el){
-          if (el !== bookend)
-            el.style.width = (wOf(el) * scale) + 'px';
+          if (el === bookend) return;
+          var nw = Math.floor(wOf(el) * scale);
+          pairs.push([el, nw]); used += nw;
         });
+        var extra = target - used;
+        for (var i = 0; extra > 0 && pairs.length;
+             i = (i + 1) % pairs.length) { pairs[i][1]++; extra--; }
+        pairs.forEach(function(p){ p[0].style.width = p[1] + 'px'; });
       }
       r.forEach(function(el){ row.appendChild(el); });
       main.appendChild(row);
