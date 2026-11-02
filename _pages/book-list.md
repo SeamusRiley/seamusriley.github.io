@@ -143,7 +143,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:38px;height:220.5px;background:#6e5133"><a href="/books/all-the-pretty-horses/" title="All the Pretty Horses (The Border Trilogy, #1)" style="max-height:208.5px"><strong>All the Pretty Horses</strong> &#9733;</a></div>
 <div class="bk-spine" style="width:28px;height:197.4px;background:#6e5133"><a href="/books/a-single-shard/" title="A Single Shard" style="max-height:185.4px"><strong>A Single Shard</strong></a></div>
 <div class="bk-spine" style="width:38px;height:225.4px;background:#6e5133"><a href="/books/hatchet/" title="Hatchet" style="max-height:213.4px"><strong>Hatchet</strong></a></div>
-<div class="bk-spine" style="width:38px;height:235.3px;background:#6e5133"><a href="/books/holes/" title="Holes" style="max-height:223.3px">Holes</a></div>
+<div class="bk-spine" style="width:38px;height:235.3px;background:#6e5133"><a href="/books/holes/" title="Holes" style="max-height:223.3px"><strong>Holes</strong></a></div>
 <div class="bk-spine" style="width:38px;height:240.2px;background:#6e5133"><a href="/books/kidnapped/" title="Kidnapped" style="max-height:228.2px">Kidnapped</a></div>
 <div class="bk-spine" style="width:38px;height:231.1px;background:#6e5133"><a href="/books/gullivers-travels/" title="Gulliver&#x27;s Travels" style="max-height:219.1px">Gulliver&#x27;s Travels</a></div>
 <div class="bk-spine bk-long" style="width:38px;height:236.7px;background:#6e5133"><a href="/books/the-adventures-of-huckleberry-finn/" title="The Adventures of Huckleberry Finn" style="max-height:224.7px">The Adventures of Huckleberry Finn &#9733;</a></div>
@@ -328,7 +328,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-higher-power-of-lucky/">The Higher Power of Lucky (The Hard Pan Trilogy, #1)</a></td><td>Susan Patron</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-hitchhikers-guide-to-the-galaxy/">The Hitchhiker&#x27;s Guide to the Galaxy (The Hitchhiker&#x27;s Guide to the Galaxy, #1)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td><a href="/books/the-hobbit/">The Hobbit</a></td><td>J.R.R. Tolkien</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>&mdash;</td><td><a href="/books/holes/">Holes</a></td><td>Louis Sachar</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td><a href="/books/holes/">Holes</a></td><td>Louis Sachar</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-house-of-hades/">The House of Hades (The Heroes of Olympus, #4)</a></td><td>Rick Riordan</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>0/2 Not For Me</td><td><a href="/books/i-am-justice/">I Am Justice</a></td><td>D.P. Watkins</td><td>&mdash;</td><td><a href="/books/i-am-justice/">Review</a></td></tr>
 <tr><td>1/2 Nice</td><td><a href="/books/ideal/">Ideal</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/ideal/">Review</a></td></tr>
