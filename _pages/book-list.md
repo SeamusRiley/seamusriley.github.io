@@ -567,8 +567,10 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
     main.innerHTML = '';
     items.forEach(function(el){
       // Undo any stretch from the previous layout.
-      if (!el.classList.contains('bk-bookend'))
+      if (!el.classList.contains('bk-bookend')) {
         el.style.width = wOf(el) + 'px';
+        el.style.flex = '';
+      }
     });
     var rows = [], cur = [], curW = 0, bookend = null;
     items.forEach(function(el){
@@ -616,6 +618,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
         for (var i = 0; extra > 0 && pairs.length;
              i = (i + 1) % pairs.length) { pairs[i][1]++; extra--; }
         pairs.forEach(function(p){ p[0].style.width = p[1] + 'px'; });
+        // The last book also flexes: the frame's true inner width
+        // can be a fraction of a pixel, and whole-pixel widths
+        // alone leave that fraction showing as a white sliver.
+        if (pairs.length)
+          pairs[pairs.length - 1][0].style.flex = '1 1 auto';
       }
       r.forEach(function(el){ row.appendChild(el); });
       main.appendChild(row);
