@@ -34,6 +34,7 @@ category: "Non-Fiction - Philosophy"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Non-Fiction - Philosophy"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:233.8px;height:38px;background:#1e4d3d"><span><strong>The Ominous Parallels</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:233.8px;height:27px;background:#1e4d3d"><span><strong>The Ominous Parallels</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
