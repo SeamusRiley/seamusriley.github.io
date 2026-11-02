@@ -179,6 +179,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:52px;height:257.7px;background:#67782a"><a href="/books/artemis-fowl-1-8/" title="Artemis Fowl 1-8" style="max-height:245.7px"><strong>Artemis Fowl 1-8</strong></a></div>
 <div class="bk-spine" style="width:28px;height:193.9px;background:#67782a"><a href="/books/the-artemis-fowl-files/" title="The Artemis Fowl Files" style="max-height:181.9px"><strong>The Artemis Fowl Files</strong></a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/half-moon-investigations/" title="Half Moon Investigations" style="max-height:212.7px">Half Moon Investigations</a></div>
+<div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/the-supernaturalist/" title="The Supernaturalist" style="max-height:212.7px">The Supernaturalist</a></div>
 <div class="bk-spine" style="width:38px;height:224.7px;background:#67782a"><a href="/books/the-wish-list/" title="The Wish List" style="max-height:212.7px">The Wish List</a></div>
 <div class="bk-spine" style="width:38px;height:219.1px;background:#67782a"><a href="/books/bud-not-buddy/" title="Bud, Not Buddy" style="max-height:207.1px">Bud, Not Buddy</a></div>
 <div class="bk-spine" style="width:28px;height:209.5px;background:#67782a"><a href="/books/georges-marvelous-medicine/" title="George&#x27;s Marvelous Medicine" style="max-height:197.5px">George&#x27;s Marvelous Medicine</a></div>
@@ -193,9 +194,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" style="width:52px;height:253.3px;background:#67782a"><a href="/books/the-chronicles-of-narnia/" title="The Chronicles of Narnia (The Chronicles of Narnia, #1-7)" style="max-height:241.3px">The Chronicles of Narnia</a></div>
 <div class="bk-spine" style="width:28px;height:188.7px;background:#67782a"><a href="/books/the-magicians-nephew/" title="The Magician&#x27;s Nephew (Chronicles of Narnia, #6)" style="max-height:176.7px"><strong>The Magician&#x27;s Nephew</strong></a></div>
 <div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh/" title="Shiloh (Shiloh, #1)" style="max-height:192.3px"><strong>Shiloh</strong></a></div>
-<div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:192.3px"><strong>Shiloh Season</strong></a></div>
 </div><div class="bk-board"></div>
 <div class="bk-row" style="padding:0">
+<div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/shiloh-season/" title="Shiloh Season (Shiloh, #2)" style="max-height:192.3px"><strong>Shiloh Season</strong></a></div>
 <div class="bk-spine" style="width:28px;height:204.3px;background:#67782a"><a href="/books/saving-shiloh/" title="Saving Shiloh (Shiloh, #3)" style="max-height:192.3px"><strong>Saving Shiloh</strong></a></div>
 <div class="bk-spine" style="width:52px;height:269.6px;background:#67782a"><a href="/books/magic-tree-house-1-37/" title="Magic Tree House 1-37" style="max-height:257.6px">Magic Tree House 1-37</a></div>
 <div class="bk-spine" style="width:28px;height:213.0px;background:#67782a"><a href="/books/the-higher-power-of-lucky/" title="The Higher Power of Lucky (The Hard Pan Trilogy, #1)" style="max-height:201.0px"><strong>The Higher Power of Lucky</strong></a></div>
@@ -257,11 +258,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (7)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
-<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (152)<br>
+<span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (153)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (50)<br>
-<span class="bk-dot" style="background:transparent"></span>Total (254)<br>
+<span class="bk-dot" style="background:transparent"></span>Total (255)<br>
 <span class="bk-dot" style="background:transparent"></span>Serious Total (52)<br>
-<span class="bk-dot" style="background:transparent"></span>Fiction Total (196)</p>
+<span class="bk-dot" style="background:transparent"></span>Fiction Total (197)</p>
 
 <table class="sortable">
 <thead>
@@ -368,6 +369,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td><a href="/books/so-long-and-thanks-for-all-the-fish/">So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-son-of-neptune/">The Son of Neptune (The Heroes of Olympus, #2)</a></td><td>Rick Riordan</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>&mdash;</td><td><a href="/books/steel-trapp/">Steel Trapp</a></td><td>Ridley Pearson</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/the-supernaturalist/">The Supernaturalist</a></td><td>Eoin Colfer</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td><a href="/books/the-swiss-family-robinson/">The Swiss Family Robinson</a></td><td>Johann David Wyss</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>&mdash;</td><td><a href="/books/the-tale-of-despereaux/">The Tale of Despereaux</a></td><td>Kate DiCamillo</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">The Therapy Manifesto: A Principled Guide to Developing Your Mental Health</a></td><td>Mark Derian</td><td>&mdash;</td><td><a href="/books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/">Review</a></td></tr>
