@@ -160,13 +160,31 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 .bk-controls button {
   font: inherit;
   font-size: .9em;
-  padding: .35em 1.1em;
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  padding: 23px 10px;
   border: 1px solid #71552f;
   border-radius: 3px;
   background: linear-gradient(#98764e, #876542);
   color: #f7f1e3;
   cursor: pointer;
 }
+
+/* The same green bands the Children's divider wears, inset one
+   band-width from the top and bottom edges. */
+.bk-controls button::before,
+.bk-controls button::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 9px;
+  background: linear-gradient(90deg, #4c5a1e, #8fa63f 30%, #67782a 55%, #425018);
+}
+
+.bk-controls button::before { top: 9px; }
+.bk-controls button::after { bottom: 9px; }
 
 .bk-divider {
   flex: none;
@@ -209,7 +227,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 
 .bk-divider .bk-divider-hint { font-size: 9px; opacity: .85; }
 </style>
-<div class="bk-controls"><button type="button" id="bk-toggle-all">Expand all</button></div>
+<div class="bk-controls"><button type="button" id="bk-toggle-all">Expand All Collections</button></div>
 <div class="bk-shelf" id="bookshelf" style="display:flex;align-items:stretch;width:100%;max-width:762px">
 <div style="width:16px;flex:none;border-radius:2px;background:linear-gradient(90deg,#71552f,#876542 45%,#98764e);box-shadow:inset 0 0 0 2px rgba(0,0,0,.15),inset -2px 0 3px rgba(255,255,255,.12),2px 0 4px rgba(0,0,0,.25)"></div>
 <div id="bk-main" style="flex:1;min-width:0">
@@ -545,7 +563,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   }
   function syncBtn(){
     if (toggleBtn)
-      toggleBtn.textContent = anyClosed() ? 'Expand all' : 'Collapse all';
+      toggleBtn.textContent = anyClosed() ? 'Expand All Collections' : 'Collapse All Collections';
     if (dividerEl) {
       var dh = dividerEl.querySelector('.bk-divider-hint');
       if (dh) dh.textContent =
