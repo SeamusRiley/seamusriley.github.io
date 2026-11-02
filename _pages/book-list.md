@@ -116,11 +116,13 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 /* Collections and the Children's divider (2026-11-02). Book-list page
    only; review pages keep the plainer SHELF_CSS above. */
 .bk-coll {
-  flex-direction: column;
-  gap: 3px;
+  flex-direction: row;
+  gap: 5px;
   position: relative;
   overflow: hidden;
   cursor: pointer;
+  box-sizing: border-box;
+  padding: 20px 4px;
 }
 
 .bk-coll::before,
@@ -134,8 +136,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   z-index: 1;
 }
 
-.bk-coll::before { top: 0; }
-.bk-coll::after { bottom: 0; }
+.bk-coll::before { top: 9px; }
+.bk-coll::after { bottom: 9px; }
 
 .bk-coll-name,
 .bk-coll-hint {
@@ -147,7 +149,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   overflow: hidden;
 }
 
-.bk-coll-name { font-size: 12.5px; max-height: 74%; }
+.bk-coll-name { font-size: 12.5px; max-height: 100%; }
 .bk-coll.bk-long .bk-coll-name { font-size: 10.5px; }
 .bk-coll-hint { font-size: 9px; opacity: .85; }
 
