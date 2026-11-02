@@ -59,6 +59,10 @@ category: "Fiction - Children's & Middle Grade"
   font-size: 10.5px;
 }
 
+/* A 0/2 title sits at half strength, the way a 2/2 title is bold
+   (his rule, 2026-11-02). */
+.bk-dim { opacity: .5; }
+
 /* Bookend */
 .bk-bookend {
   width: 114px;
@@ -116,7 +120,7 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:201.1px;height:20px;background:#67782a"><span>The Bad Beginning</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:201.1px;height:20px;background:#67782a"><span><span class="bk-dim">The Bad Beginning</span></span></div></div>
 
 
 **Rating:** 0/2 Not For Me  
