@@ -5,7 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /books/the-blood-of-olympus/
-category: "Fiction - Children's & Middle Grade"
+category: "Fiction - Fantasy"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -114,13 +114,13 @@ category: "Fiction - Children's & Middle Grade"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:273.0px;height:52px;background:#67782a"><span>The Blood of Olympus</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:269.8px;height:52px;background:#9a5c26"><span>The Blood of Olympus</span></div></div>
 
 
 **Rating:** 1/2 Nice  
 **Name:** The Blood of Olympus (The Heroes of Olympus, #5)  
 **Author:** Rick Riordan  
-**Category:** Fiction - Children's & Middle Grade  
+**Category:** Fiction - Fantasy  
 **Recommender:** &mdash;
 
 *No review yet.*
