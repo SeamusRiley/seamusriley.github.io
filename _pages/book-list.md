@@ -581,13 +581,21 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       cur.push(el); curW += w;
     });
     rows.push(cur);
+    var endW = 114;
     if (bookend) {
-      // The bookend closes the shelf: back the last row up until it
-      // fits alongside, spilling books onto a new last row.
+      // The bookend closes the shelf. If it cannot fit the last
+      // row at full size, it shrinks to fill that row's remaining
+      // gap instead of pushing books onto a new, mostly-empty
+      // shelf (his suggestion, 2026-11-02). Only a gap too small
+      // for a legible crest (under 56px) still spills books onto
+      // a new last row, and as few as possible.
       var last = rows[rows.length - 1], overflow = [];
-      while (last.length && rowW(last) + 114 > MAXW)
+      while (last.length && MAXW - rowW(last) < 56)
         overflow.unshift(last.pop());
       if (overflow.length) rows.push(overflow);
+      endW = Math.min(114, MAXW - rowW(rows[rows.length - 1]));
+      bookend.style.width = endW + 'px';
+      bookend.style.height = endW + 'px';
       rows[rows.length - 1].push(bookend);
     }
     rows.forEach(function(r){
@@ -602,7 +610,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       // last, partly-filled shelf) keeps natural widths.
       var rw = rowW(r);
       var hasEnd = bookend && r.indexOf(bookend) >= 0;
-      var target = hasEnd ? MAXW - 114 : MAXW;
+      var target = hasEnd ? MAXW - endW : MAXW;
       var base = hasEnd ? rw - 114 : rw;
       if (base > 0 && target > base && target / base <= 1.25) {
         // Integer widths that sum exactly to the target, so no
