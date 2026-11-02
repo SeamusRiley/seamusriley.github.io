@@ -587,6 +587,12 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       var row = document.createElement('div');
       row.className = 'bk-row';
       row.style.padding = '0';
+      // Fill the shelf: spread a modest wrap remainder evenly
+      // between the books instead of leaving it all at the right
+      // end. A large remainder (the last, partly-filled shelf)
+      // stays as honest empty space.
+      if (r.length > 1 && MAXW - rowW(r) <= MAXW * 0.25)
+        row.style.justifyContent = 'space-between';
       r.forEach(function(el){ row.appendChild(el); });
       main.appendChild(row);
       var board = document.createElement('div');
