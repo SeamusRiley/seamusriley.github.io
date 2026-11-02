@@ -34,6 +34,7 @@ category: "Non-Fiction - Mind & Self"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Non-Fiction - Mind & Self"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:237.0px;height:38px;background:#96502e"><span>Codependent No More</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:237.0px;height:27px;background:#96502e"><span>Codependent No More</span></div></div>
 
 
 **Rating:** 1/2 Nice  
