@@ -564,6 +564,11 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   function reflow(){
     var MAXW = budget();
     main.innerHTML = '';
+    items.forEach(function(el){
+      // Undo any stretch from the previous layout.
+      if (!el.classList.contains('bk-bookend'))
+        el.style.width = wOf(el) + 'px';
+    });
     var rows = [], cur = [], curW = 0, bookend = null;
     items.forEach(function(el){
       if (!isVis(el)) return;
@@ -587,12 +592,21 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       var row = document.createElement('div');
       row.className = 'bk-row';
       row.style.padding = '0';
-      // Fill the shelf: spread a modest wrap remainder evenly
-      // between the books instead of leaving it all at the right
-      // end. A large remainder (the last, partly-filled shelf)
-      // stays as honest empty space.
-      if (r.length > 1 && MAXW - rowW(r) <= MAXW * 0.25)
-        row.style.justifyContent = 'space-between';
+      // Fill the shelf: stretch the books slightly so a modest
+      // wrap remainder disappears and the row fills the frame
+      // edge to edge, books touching. A large remainder (the
+      // last, partly-filled shelf) keeps natural widths.
+      var rw = rowW(r);
+      var hasEnd = bookend && r.indexOf(bookend) >= 0;
+      var target = hasEnd ? MAXW - 114 : MAXW;
+      var base = hasEnd ? rw - 114 : rw;
+      if (base > 0 && target > base && target / base <= 1.25) {
+        var scale = target / base;
+        r.forEach(function(el){
+          if (el !== bookend)
+            el.style.width = (wOf(el) * scale) + 'px';
+        });
+      }
       r.forEach(function(el){ row.appendChild(el); });
       main.appendChild(row);
       var board = document.createElement('div');
