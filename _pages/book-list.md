@@ -67,8 +67,9 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   border-radius: 2px;
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .bk-bookend img {
@@ -583,20 +584,29 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
     rows.push(cur);
     var endW = 114;
     if (bookend) {
-      // The bookend closes the shelf. If it cannot fit the last
-      // row at full size, it shrinks to fill that row's remaining
-      // gap instead of pushing books onto a new, mostly-empty
-      // shelf (his suggestion, 2026-11-02). Only a gap too small
-      // for a legible crest (under 56px) still spills books onto
-      // a new last row, and as few as possible.
-      var last = rows[rows.length - 1], overflow = [];
-      while (last.length && MAXW - rowW(last) < 56)
-        overflow.unshift(last.pop());
-      if (overflow.length) rows.push(overflow);
-      endW = Math.min(114, MAXW - rowW(rows[rows.length - 1]));
-      bookend.style.width = endW + 'px';
-      bookend.style.height = endW + 'px';
-      rows[rows.length - 1].push(bookend);
+      // The bookend closes the shelf (his design, 2026-11-02): its
+      // height never changes; only its width squishes, down to
+      // fill the last row's remaining gap, and the crest — sized
+      // by that width — stays inscribed in the top of the plaque,
+      // its offset from the top equal to its offset from the
+      // sides. The width may squish as far as a small book's width
+      // (20px); below that there is no bookend at all and the
+      // row's books stretch to fill the shelf instead. It never
+      // pushes books onto a new shelf.
+      var last = rows[rows.length - 1];
+      var gap = MAXW - rowW(last);
+      if (gap < 20) {
+        endW = 0;
+      } else {
+        endW = Math.min(114, gap);
+        bookend.style.width = endW + 'px';
+        bookend.style.height = '114px';
+        bookend.style.paddingTop = Math.round(endW * 0.11) + 'px';
+        // A squished bookend also flexes by sub-pixel amounts, so
+        // the frame's fractional width leaves no sliver beside it.
+        bookend.style.flex = endW < 114 ? '1 1 auto' : '';
+        last.push(bookend);
+      }
     }
     rows.forEach(function(r){
       if (!r.length) return;
