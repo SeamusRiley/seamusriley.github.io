@@ -68,13 +68,14 @@ category: "Fiction - Classics & Literary Fiction"
   border-radius: 2px;
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .bk-bookend img {
   width: 78%;
-  height: 78%;
+  height: auto;
   object-fit: contain;
 }
 
@@ -115,10 +116,10 @@ category: "Fiction - Classics & Literary Fiction"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:219.2px;height:27px;background:#6e5133"><span>Bud, Not Buddy</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:219.2px;height:27px;background:#6e5133"><span><strong>Bud, Not Buddy</strong></span></div></div>
 
 
-**Rating:** &mdash;  
+**Rating:** 2/2 Wonderful  
 **Name:** Bud, Not Buddy  
 **Author:** Christopher Paul Curtis  
 **Category:** Fiction - Classics & Literary Fiction  
