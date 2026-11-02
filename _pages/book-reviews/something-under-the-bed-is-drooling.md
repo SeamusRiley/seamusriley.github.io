@@ -34,6 +34,7 @@ category: "Comics & Collections"
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -114,7 +115,7 @@ category: "Comics & Collections"
 }
 .page__title{display:none}
 </style>
-<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h bk-long" style="width:188.1px;height:28px;background:#2e4a7a"><span><strong>Something Under the Bed Is Drooling</strong> &#9733;</span></div></div>
+<div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:188.1px;height:28px;background:#2e4a7a"><span><strong>SUTBID</strong> &#9733;</span></div></div>
 
 
 **Rating:** 2/2 Wonderful  
