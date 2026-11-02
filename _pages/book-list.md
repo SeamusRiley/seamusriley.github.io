@@ -33,6 +33,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 /* Spines */
 .bk-spine {
   display: flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   border-radius: 3px 3px 1px 1px;
@@ -516,6 +517,19 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   if (!main) return;
   var items = Array.prototype.slice.call(main.children);
   var openColls = {};
+  var shelfEl = document.getElementById('bookshelf');
+  function budget(){
+    // Rows wrap to the width the bookcase actually has on this
+    // screen (its parent column, minus the two side uprights),
+    // never wider than the designed 730px. A fixed 730 budget
+    // overflowed the frame on narrow screens.
+    var w = 730;
+    if (shelfEl && shelfEl.parentElement) {
+      var avail = shelfEl.parentElement.clientWidth - 34;
+      if (avail > 120) w = Math.min(730, avail);
+    }
+    return w;
+  }
   var childrenCollapsed = true;  // Children's starts collapsed.
   var toggleBtn = document.getElementById('bk-toggle-all');
   var dividerEl = document.getElementById('bk-divider');
@@ -550,12 +564,13 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   function rowW(r){ return r.reduce(function(s, el){ return s + wOf(el); }, 0); }
   function reflow(){
     main.innerHTML = '';
+    var MAXW = budget();
     var rows = [], cur = [], curW = 0, bookend = null;
     items.forEach(function(el){
       if (!isVis(el)) return;
       if (el.classList.contains('bk-bookend')) { bookend = el; return; }
       var w = wOf(el);
-      if (cur.length && curW + w > 730) { rows.push(cur); cur = []; curW = 0; }
+      if (cur.length && curW + w > MAXW) { rows.push(cur); cur = []; curW = 0; }
       cur.push(el); curW += w;
     });
     rows.push(cur);
@@ -563,7 +578,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
       // The bookend closes the shelf: back the last row up until it
       // fits alongside, spilling books onto a new last row.
       var last = rows[rows.length - 1], overflow = [];
-      while (last.length && rowW(last) + 114 > 730)
+      while (last.length && rowW(last) + 114 > MAXW)
         overflow.unshift(last.pop());
       if (overflow.length) rows.push(overflow);
       rows[rows.length - 1].push(bookend);
@@ -611,6 +626,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
     });
     reflow();
   });
+  window.addEventListener('resize', reflow);
   reflow();
 })();
 </script>
