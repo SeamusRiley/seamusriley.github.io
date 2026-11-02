@@ -68,13 +68,14 @@ category: "Fiction - Children's & Middle Grade"
   border-radius: 2px;
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.18),inset 0 2px 3px rgba(255,255,255,.15),inset 0 -3px 5px rgba(0,0,0,.3);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .bk-bookend img {
   width: 78%;
-  height: 78%;
+  height: auto;
   object-fit: contain;
 }
 
@@ -118,7 +119,7 @@ category: "Fiction - Children's & Middle Grade"
 <div style="display:flex;justify-content:flex-start;margin:.4em 0 1.2em"><div class="bk-spine-h" style="width:205.4px;height:20px;background:#67782a"><span>Rev. War on Wednesday</span></div></div>
 
 
-**Rating:** &mdash;  
+**Rating:** 1/2 Nice  
 **Name:** Revolutionary War on Wednesday  
 **Author:** Mary Pope Osborne  
 **Category:** Fiction - Children's & Middle Grade  
