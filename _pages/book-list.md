@@ -170,6 +170,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   flex: none;
   align-self: stretch;
   gap: 5px;
+  position: relative;
   border-radius: 3px 3px 1px 1px;
   background: linear-gradient(90deg, #71552f, #876542 45%, #98764e);
   box-shadow: inset 0 0 0 2px rgba(0,0,0,.15),
@@ -180,6 +181,20 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   justify-content: center;
   cursor: pointer;
 }
+
+.bk-divider::before,
+.bk-divider::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 9px;
+  background: linear-gradient(90deg, #4c5a1e, #8fa63f 30%, #67782a 55%, #425018);
+  z-index: 1;
+}
+
+.bk-divider::before { top: 9px; }
+.bk-divider::after { bottom: 9px; }
 
 .bk-divider span {
   writing-mode: vertical-rl;
@@ -255,6 +270,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" data-genre="fantasy" data-w="52" data-volof="heroes-of-olympus" style="width:52px;height:269.8px;background:#9a5c26"><a href="/books/the-house-of-hades/" title="The House of Hades (The Heroes of Olympus, #4)" style="max-height:257.8px"><strong>The House of Hades</strong></a></div>
 <div class="bk-spine" data-genre="fantasy" data-w="52" data-volof="heroes-of-olympus" style="width:52px;height:269.8px;background:#9a5c26"><a href="/books/the-blood-of-olympus/" title="The Blood of Olympus (The Heroes of Olympus, #5)" style="max-height:257.8px">The Blood of Olympus</a></div>
 <div class="bk-spine" data-genre="fantasy" data-w="52" style="width:52px;height:256.8px;background:#9a5c26"><a href="/books/mistborn-the-final-empire/" title="Mistborn: The Final Empire" style="max-height:244.8px">Mistborn &#9733;</a></div>
+<div class="bk-spine" data-genre="fantasy" data-w="38" style="width:38px;height:226.8px;background:#9a5c26"><a href="/books/the-fellowship-of-the-ring/" title="The Fellowship of the Ring" style="max-height:214.8px">The Fellowship of the Ring</a></div>
 <div class="bk-spine" data-genre="fantasy" data-w="38" style="width:38px;height:226.8px;background:#9a5c26"><a href="/books/the-hobbit/" title="The Hobbit" style="max-height:214.8px">The Hobbit</a></div>
 <div class="bk-spine" data-genre="dystopian" data-w="38" style="width:38px;height:218.1px;background:#b45a1b"><a href="/books/rootless/" title="Rootless (Rootless, #1)" style="max-height:206.1px"><strong>Rootless</strong></a></div>
 <div class="bk-spine" data-genre="dystopian" data-w="38" style="width:38px;height:236.0px;background:#b45a1b"><a href="/books/legend/" title="Legend (Legend, #1)" style="max-height:224.0px">Legend</a></div>
@@ -485,14 +501,14 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <span class="bk-dot" style="background:#2f6b4f"></span>Fiction - Philosophy (5)<br>
 <span class="bk-dot" style="background:#6e5133"></span>Fiction - Classics &amp; Literary Fiction (21)<br>
 <span class="bk-dot" style="background:#1f4e5f"></span>Fiction - Science Fiction (10)<br>
-<span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (12)<br>
+<span class="bk-dot" style="background:#9a5c26"></span>Fiction - Fantasy (13)<br>
 <span class="bk-dot" style="background:#b45a1b"></span>Fiction - Dystopia (2)<br>
 <span class="bk-dot" style="background:#26221e"></span>Fiction - Thriller (1)<br>
 <span class="bk-dot" style="background:#67782a"></span>Fiction - Children's &amp; Middle Grade (140)<br>
 <span class="bk-dot" style="background:#2e4a7a"></span>Comics &amp; Collections (59)<br>
-<span class="bk-dot" style="background:transparent"></span>Total (258)<br>
-<span class="bk-dot" style="background:transparent"></span>Serious Total (59)<br>
-<span class="bk-dot" style="background:transparent"></span>Fiction Total (191)</p>
+<span class="bk-dot" style="background:transparent"></span>Total (259)<br>
+<span class="bk-dot" style="background:transparent"></span>Serious Total (60)<br>
+<span class="bk-dot" style="background:transparent"></span>Fiction Total (192)</p>
 
 <script>
 (function(){
@@ -684,6 +700,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-far-side-gallery-3/">The Far Side Gallery 3</a></td><td>Gary Larson</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-far-side-gallery-4/">The Far Side Gallery 4</a></td><td>Gary Larson</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-far-side-gallery-5/">The Far Side Gallery 5</a></td><td>Gary Larson</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>0/2 Not For Me</td><td><a href="/books/the-fellowship-of-the-ring/">The Fellowship of the Ring</a></td><td>J.R.R. Tolkien</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-fountainhead/">The Fountainhead</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/the-fountainhead/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/foxtrot/">FoxTrot</a></td><td>Bill Amend</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td><a href="/books/garfield-at-large/">Garfield at Large</a></td><td>Jim Davis</td><td>&mdash;</td><td>&mdash;</td></tr>
