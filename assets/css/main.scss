@@ -20,3 +20,10 @@ h1, h2, h3, h4, h5, h6,
 .feature__item-title {
   font-family: 'Quicksand', sans-serif;
 }
+
+/* 3. Portraits are rectangular or square, never circular or elliptical */
+.author__avatar img,
+.comment__avatar,
+.comment__avatar img {
+  border-radius: 0;
+}
