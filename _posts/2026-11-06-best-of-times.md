@@ -9,11 +9,11 @@ tags:
 
 <img src="/assets/images/decaying-houses.jpg" alt="Decaying houses" width="450">
 
-Is it the best of times or is it the worst of times? As a fan of freedom, reason, and the enlightenment it can be surprisingly difficult to say. Here are my observations:
+Is it the best of times or is it the worst of times? As a fan of freedom, reason, and the Enlightenment it can be surprisingly difficult to say. Here are my observations:
 
 1. We are incomprehensibly safe, healthy, peaceful, rich, and knowledgeable compared to any prior point in human history.
 
-2. Our unprecedented knowledge includes an unprecedented knowledge of the errors still remaining, and the work still to be done. Since we have gotten a taste of so much civilization, the gaps have become glaring: the majority of citizens in the western world have the economic intuition of a child; the majority of art is hypnotic stimuli and or thoughtless simulacrum; the majority of education is rote busywork. True genius of the kind that built modernity seems vanishingly rare, meanwhile millions of people don't know how to make themselves useful in the economy, and "truth" is so distorted that people either return to skepticism or call the world "post-truth".
+2. Our unprecedented knowledge includes an unprecedented knowledge of the errors still remaining, and the work still to be done. Since we have gotten a taste of so much civilization, the gaps have become glaring: the majority of citizens in the Western world have the economic intuition of a child; the majority of art is hypnotic stimuli and or thoughtless simulacra; the majority of education is rote busywork. True genius of the kind that built modernity seems vanishingly rare, meanwhile millions of people don't know how to make themselves useful in the economy, and "truth" is so distorted that people either return to skepticism or call the world "post-truth".
 
 3. It has been common to hear people smother the second fact with the first and appeal to gratitude. This "stop whining" refrain, however popular, is myopic and counter-productive in its lack of vision of a 4th fact.
 
