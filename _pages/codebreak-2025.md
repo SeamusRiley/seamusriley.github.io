@@ -158,3 +158,5 @@ window.addEventListener('resize', fitText);
 const artImg = art.querySelector('img'); if (artImg) artImg.addEventListener('load', fitText);
 render(); fitText();
 </script>
+
+<!-- build nudge 2026-11-06 -->
