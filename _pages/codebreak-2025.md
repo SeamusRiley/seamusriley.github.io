@@ -4,44 +4,44 @@ title: "Christmas Codebreak 2025 — Psychology"
 ---
 
 <style>
-  body { background:#f7f3ea; color:#1c1a17; font-family: Georgia, 'Times New Roman', serif; margin:0; }
+  body { margin:0; }
+  .cb-game { color:#1c1a17; font-family: Georgia, 'Times New Roman', serif; }
   .wrap { max-width:1180px; margin:0 auto; padding:20px 14px 40px; }
-  h1 { font-size:1.55rem; margin:.2em 0 .35em; }
-  p.intro { max-width:72ch; line-height:1.45; }
-  .bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:14px 0 6px; }
-  .clock { font-size:1.9rem; font-variant-numeric:tabular-nums; background:#fffdf6; border:2px solid #1c1a17; padding:2px 14px; border-radius:4px; min-width:130px; text-align:center; }
-  button { font:inherit; background:#fffdf6; border:2px solid #1c1a17; border-radius:4px; padding:5px 12px; cursor:pointer; }
-  button:hover { background:#efe7d3; }
-  #status { font-style:italic; }
-  #warn { display:none; margin:10px 0; padding:9px 13px; border-radius:4px; font-weight:bold; }
-  #warn.warn { display:block; background:#fbe3e0; border:2px solid #b3372a; color:#7c1d12; }
-  #warn.info { display:block; background:#fdf3d8; border:2px solid #a97b12; color:#6b4d08; }
-  .stage { display:flex; gap:18px; align-items:flex-start; margin-top:12px; }
-  /* key panel, modelled on the printed one */
-  .key { background:#fffdf6; border:2.5px solid #1c1a17; border-collapse:collapse; flex:0 0 auto; }
-  .key th, .key td { border:1.5px solid #1c1a17; text-align:center; padding:0; }
-  .key th { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:1.05rem; padding:3px 8px; }
-  .key td.letter { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:1.15rem; width:34px; height:27px; }
-  .key td.c2h, .key td.c2 { border-left:3px dashed #1c1a17; }
-  .key input { width:40px; height:27px; border:0; background:transparent; text-align:center; font:inherit; font-size:1.02rem; padding:0; }
-  .key input:focus { outline:2.5px solid #2b50c8; outline-offset:-2.5px; background:#eaf0ff; }
-  .key input.locked { font-weight:bold; color:#444; }
-  .key input.err { background:#f8d7d2; }
-  .key caption { caption-side:top; text-align:left; font-style:italic; padding-bottom:5px; }
-  /* artwork stage */
-  .art { position:relative; flex:1 1 auto; container-type:inline-size; border:2.5px solid #1c1a17; background:#fff; line-height:0; }
-  .art img { width:100%; height:auto; display:block; }
-  .cell { position:absolute; width:2.45%; height:3.42%; transform:translate(-50%,-50%); display:flex; align-items:center; justify-content:center; cursor:text; line-height:1; }
-  .cell .ch { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:1.55cqw; color:#20306e; pointer-events:none; }
-  .cell.hl { background:rgba(255,205,55,.38); }
-  .cell.sel { box-shadow:0 0 0 2.5px #b3372a inset; background:rgba(255,205,55,.25); }
-  .cell.sel::after { content:''; width:2px; height:62%; background:#b3372a; animation:blink 1s steps(1) infinite; margin-left:1px; }
-  @keyframes blink { 50% { opacity:0; } }
-  .cell .dot { position:absolute; top:1px; left:1px; width:4px; height:4px; border-radius:50%; background:#d9930d; pointer-events:none; }
-  .foot { margin-top:14px; font-size:.92rem; font-style:italic; max-width:72ch; }
-  @media (max-width:760px){ .stage{flex-direction:column-reverse;} .key{align-self:center;} }
+  .cb-game h1 { font-size:1.55rem; margin:.2em 0 .35em; }
+  .cb-game p.intro { max-width:72ch; line-height:1.45; }
+  .cb-game .bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:14px 0 6px; }
+  .cb-game .clock { font-size:1.9rem; font-variant-numeric:tabular-nums; background:#fffdf6; border:2px solid #1c1a17; padding:2px 14px; border-radius:4px; min-width:130px; text-align:center; }
+  .cb-game button { font:inherit; background:#fffdf6; border:2px solid #1c1a17; border-radius:4px; padding:5px 12px; cursor:pointer; }
+  .cb-game button:hover { background:#efe7d3; }
+  .cb-game #status { font-style:italic; }
+  .cb-game #warn { display:none; margin:10px 0; padding:9px 13px; border-radius:4px; font-weight:bold; }
+  .cb-game #warn.warn { display:block; background:#fbe3e0; border:2px solid #b3372a; color:#7c1d12; }
+  .cb-game #warn.info { display:block; background:#fdf3d8; border:2px solid #a97b12; color:#6b4d08; }
+  .cb-game .stage { display:flex; gap:18px; align-items:flex-start; margin-top:12px; }
+  .cb-game .key { background:#fffdf6; border:2.5px solid #1c1a17; border-collapse:collapse; flex:0 0 auto; }
+  .cb-game .key th, .cb-game .key td { border:1.5px solid #1c1a17; text-align:center; padding:0; }
+  .cb-game .key th { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:1.05rem; padding:3px 8px; }
+  .cb-game .key td.letter { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:1.15rem; width:34px; height:27px; }
+  .cb-game .key td.c2h, .cb-game .key td.c2 { border-left:3px dashed #1c1a17; }
+  .cb-game .key input { width:40px; height:27px; border:0; background:transparent; text-align:center; font:inherit; font-size:1.02rem; padding:0; }
+  .cb-game .key input:focus { outline:2.5px solid #2b50c8; outline-offset:-2.5px; background:#eaf0ff; }
+  .cb-game .key input.locked { font-weight:bold; color:#444; }
+  .cb-game .key input.err { background:#f8d7d2; }
+  .cb-game .key caption { caption-side:top; text-align:left; font-style:italic; padding-bottom:5px; }
+  .cb-game .art { position:relative; flex:1 1 auto; min-width:0; border:2.5px solid #1c1a17; background:#fff; line-height:0; }
+  .cb-game .art img { width:100%; height:auto; display:block; }
+  .cb-game .cell { position:absolute; width:2.45%; height:3.42%; transform:translate(-50%,-50%); display:flex; align-items:center; justify-content:center; cursor:text; line-height:1; }
+  .cb-game .cell .ch { font-family:'Bradley Hand','Segoe Print','Comic Sans MS',cursive; font-size:var(--chfs, 14px); color:#20306e; pointer-events:none; }
+  .cb-game .cell.hl { background:rgba(255,205,55,.38); }
+  .cb-game .cell.sel { box-shadow:0 0 0 2.5px #b3372a inset; background:rgba(255,205,55,.25); }
+  .cb-game .cell.sel::after { content:''; width:2px; height:62%; background:#b3372a; animation:cbblink 1s steps(1) infinite; margin-left:1px; }
+  @keyframes cbblink { 50% { opacity:0; } }
+  .cb-game .cell .dot { position:absolute; top:1px; left:1px; width:4px; height:4px; border-radius:50%; background:#d9930d; pointer-events:none; }
+  .cb-game .foot { margin-top:14px; font-size:.92rem; font-style:italic; max-width:72ch; }
+  @media (max-width:760px){ .cb-game .stage{flex-direction:column;} .cb-game .art{order:-1; width:100%; flex:none;} .cb-game .key{align-self:center;} }
 </style>
 
+<div class="cb-game">
 <div class="bar">
   <div class="clock" id="clock">0:00</div>
 <div id="warn" role="alert"></div>
@@ -53,6 +53,7 @@ title: "Christmas Codebreak 2025 — Psychology"
   <div class="art" id="art">
     <img src="/assets/images/puzzle-2025-bg.png" alt="The hand-drawn 2025 Christmas codebreak lattice">
   </div>
+</div>
 </div>
 <input id="kbd" type="text" autocomplete="off" style="position:fixed;opacity:0;pointer-events:none;bottom:0;left:0;height:1px;width:1px;">
 
@@ -203,5 +204,8 @@ document.getElementById('btnResetClock').addEventListener('click', () => {
 document.getElementById('btnClear').addEventListener('click', () => {
   assign = { '0': Object.assign({}, LOCKED['0']), '1': {} }; manual = {}; save(); render();
 });
-render(); showClock();
+function fitText() { const w = art.clientWidth; if (w) art.style.setProperty('--chfs', Math.max(7, w * 0.0155).toFixed(1) + 'px'); }
+window.addEventListener('resize', fitText);
+const artImg = art.querySelector('img'); if (artImg) artImg.addEventListener('load', fitText);
+render(); showClock(); fitText();
 </script>
