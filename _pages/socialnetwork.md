@@ -167,6 +167,8 @@ author_profile: false
 
 ## Other People's Personal Websites
 
+> I think Everyone should have a personal website, and there should be one website per person and company on the internet. Here are some people I know with personal websites I like.
+
 - [Matt Bateman](https://mattbateman.xyz)
 - [Arthur Zey](https://www.arthurzey.com)
 - [David Crawford](https://blog.davidcrawford.co/)
