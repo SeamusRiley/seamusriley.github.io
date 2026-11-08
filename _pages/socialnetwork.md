@@ -164,3 +164,9 @@ author_profile: false
   <div style="text-align: center; margin: 20px 0;">
   <img src="/assets/images/socialnetwork.png" alt="various social media logos connected by little threads with Discord at the center" style="max-width: 50%; height: auto;">
 </div>
+
+## Other People's Personal Websites
+
+- [Matt Bateman](https://mattbateman.xyz)
+- [Arthur Zey](https://www.arthurzey.com)
+- [David Crawford](https://blog.davidcrawford.co/)
