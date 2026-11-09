@@ -15,6 +15,7 @@ author_profile: false
 
 ### Philosophy 
 - [Content](/content/) 
+- [Madison Objectivist Group](/madison-objectivist-group/)
 
 ### Personal 
 - [Bio](/blog/shortbio/) 
