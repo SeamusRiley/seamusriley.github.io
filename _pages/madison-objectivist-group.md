@@ -21,3 +21,7 @@ Thanks!
 ---
 
 Find MOG on Facebook: [Facebook Group](https://facebook.com/groups/1303359532868960/)
+
+## Group Calendar
+
+[Download the group calendar (.ics)](/assets/files/mog-calendar.ics)
