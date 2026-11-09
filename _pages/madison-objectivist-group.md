@@ -20,7 +20,3 @@ There is an RCS chat for posting meeting times and locations. Any outreach activ
 ## Socials (If you're into that sort of thing)
 
 Find MOG on Facebook: [Facebook Page](https://facebook.com/1348463565021032/) · [Facebook Group](https://facebook.com/groups/1303359532868960/)
-
-## Group Calendar - (Coming Soon!)
-
-[Download the group calendar (.ics)](/assets/files/mog-calendar.ics)
