@@ -17,6 +17,12 @@ Not debate, not education, and not "outreach", just the occasional meeting with 
 
 There is an RCS chat for posting meeting times and locations. Any outreach activities conducted by MOG or its members are secondary to the group's core purpose.
 
+## Policies
+
+- Friends and significant others are welcome to attend events so long as they're thoughtful and trusted people, but only Objectivists are full members with group chat access. 
+- There are no dues.
+- There is no quorum for gatherings. I just do my best to make them worth attending for the largest number possible, and I invite people I'd be comfortable chatting with even if it was just us two.
+
 ## Socials (If you're into that sort of thing)
 
 Note: Group photos will be kept in the Facebook
