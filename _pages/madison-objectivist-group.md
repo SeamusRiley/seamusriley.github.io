@@ -17,3 +17,7 @@ There is an RCS chat for posting meeting times and locations. Any outreach activ
 
 Thanks!
 –S. Byrne
+
+---
+
+Find MOG on Facebook: [Facebook Group](https://facebook.com/groups/1303359532868960/)
