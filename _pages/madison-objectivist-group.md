@@ -20,7 +20,7 @@ Thanks!
 
 ---
 
-Find MOG on Facebook: [Facebook Group](https://facebook.com/groups/1303359532868960/)
+Find MOG on Facebook: [Facebook Page](https://facebook.com/1348463565021032/) · [Facebook Group](https://facebook.com/groups/1303359532868960/)
 
 ## Group Calendar
 
