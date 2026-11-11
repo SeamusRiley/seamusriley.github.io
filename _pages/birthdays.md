@@ -126,4 +126,4 @@ render();
 })();
 </script>
 
-<!-- build nudge -->
+<!-- redeploy 2026-11-10 evening -->
