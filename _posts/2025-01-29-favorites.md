@@ -178,59 +178,33 @@ Our favorite things say a lot about us. At a certain point I started recording m
 <details markdown="1">
 <summary>Quote</summary>
 
-- Daniel Naroditsky <a id="daniel-naroditsky" href="#daniel-naroditsky" class="favlink" title="Link to this item">#</a>
-  <ul style="list-style-type: disc;">
-    <li style="margin-left: 3.2em;">I would just risk it. <a id="i-would-just-risk-it" href="#i-would-just-risk-it" class="favlink" title="Link to this item">#</a></li>
-  </ul>
-  - Ayn Rand <a id="ayn-rand" href="#ayn-rand" class="favlink" title="Link to this item">#</a>
-    - There’s nothing of any importance in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value. <a id="there-s-nothing-of-any-important" href="#there-s-nothing-of-any-important" class="favlink" title="Link to this item">#</a>
-    - James, you ought to discover some day that words have an exact meaning. <a id="james-you-ought-to-discover" href="#james-you-ought-to-discover" class="favlink" title="Link to this item">#</a>
-  - Fifth Guy <a id="fifth-guy" href="#fifth-guy" class="favlink" title="Link to this item">#</a>
-    - I mean that's a free patty… <a id="i-mean-that-s-a-free" href="#i-mean-that-s-a-free" class="favlink" title="Link to this item">#</a>
-  - Phil Hartman <a id="phil-hartman" href="#phil-hartman" class="favlink" title="Link to this item">#</a>
-    - This is the part of the job I hate. <a id="this-is-the-part-of" href="#this-is-the-part-of" class="favlink" title="Link to this item">#</a>
-  - Cyrano <a id="cyrano" href="#cyrano" class="favlink" title="Link to this item">#</a>
-    - Happy? I'm going to be a storm. A flame! I want to fight whole armies all alone! I have ten hearts. I have a hundred arms! I feel too strong to war with mortals—bring me giants! (Cyrano de Bergerac, 1950 film (Jose Ferrer)) <a id="happy-i-m-going-to-be" href="#happy-i-m-going-to-be" class="favlink" title="Link to this item">#</a>
-  - Reese <a id="reese" href="#reese" class="favlink" title="Link to this item">#</a>
-    - And then I saw something shiny, and I put it in my shiny things box. <a id="and-then-i-saw-something" href="#and-then-i-saw-something" class="favlink" title="Link to this item">#</a>
-  - Peter Zirbel <a id="peter-zirbel" href="#peter-zirbel" class="favlink" title="Link to this item">#</a>
-    - Speed Kills <a id="speed-kills" href="#speed-kills" class="favlink" title="Link to this item">#</a>
-    - You have a formidable intellect. Use it for good, not for evil. <a id="you-have-a-formidable-intellect" href="#you-have-a-formidable-intellect" class="favlink" title="Link to this item">#</a>
-  - Ulfric Stormcloak <a id="ulfric-stormcloak" href="#ulfric-stormcloak" class="favlink" title="Link to this item">#</a>
-    - Let the Dragonborn do it. It will make for a better song. (Skyrim) <a id="let-the-dragonborn-do-it" href="#let-the-dragonborn-do-it" class="favlink" title="Link to this item">#</a>
-  - Seamus Riley <a id="seamus-riley" href="#seamus-riley" class="favlink" title="Link to this item">#</a>
-    - Do your crying but do it at night. <a id="do-your-crying-but-do" href="#do-your-crying-but-do" class="favlink" title="Link to this item">#</a>
-    - All one needs to judge the quality of an architect is to look at the quality of his stairway. <a id="all-one-needs-to-judge" href="#all-one-needs-to-judge" class="favlink" title="Link to this item">#</a>
-    - We cannot always trust people, but we can always trust people to be the people that they are. <a id="we-cannot-always-trust-people" href="#we-cannot-always-trust-people" class="favlink" title="Link to this item">#</a>
-  - George Washington <a id="george-washington" href="#george-washington" class="favlink" title="Link to this item">#</a>
-    - Whenever one man is found sufficient to the discharge of a duty it is worse done by two persons and scarcely done at all if three or more are employed therein. <a id="whenever-one-man-is-found" href="#whenever-one-man-is-found" class="favlink" title="Link to this item">#</a>
-  - Oscar Wilde <a id="oscar-wilde" href="#oscar-wilde" class="favlink" title="Link to this item">#</a>
-    - I don't want to go to heaven. None of my friends are there. <a id="i-don-t-want-to-go" href="#i-don-t-want-to-go" class="favlink" title="Link to this item">#</a>
-  - Leonard Peikoff <a id="leonard-peikoff" href="#leonard-peikoff" class="favlink" title="Link to this item">#</a>
-    - Assume that, having chosen to be in focus, you elect to solve some problem by engaging in a process of thought. <a id="assume-that-having-chosen-to" href="#assume-that-having-chosen-to" class="favlink" title="Link to this item">#</a>
-  - Mr. Krueger <a id="mr-krueger" href="#mr-krueger" class="favlink" title="Link to this item">#</a>
-    - I'm not too worried about it. <a id="i-m-not-too-worried-about" href="#i-m-not-too-worried-about" class="favlink" title="Link to this item">#</a>
-  - Douglas Adams <a id="douglas-adams" href="#douglas-adams" class="favlink" title="Link to this item">#</a>
-    - I have to find something else for my whole life to be about. <a id="i-have-to-find-something" href="#i-have-to-find-something" class="favlink" title="Link to this item">#</a>
-  - Frozone's wife <a id="frozone-s-wife" href="#frozone-s-wife" class="favlink" title="Link to this item">#</a>
-    - The greater good? I am your wife. I am the greatest good you are ever gonna get. (The Incredibles) <a id="the-greater-good-i-am" href="#the-greater-good-i-am" class="favlink" title="Link to this item">#</a>
-  - Neil Bright <a id="neil-bright" href="#neil-bright" class="favlink" title="Link to this item">#</a>
-    - Minimize Surprise <a id="minimize-surprise" href="#minimize-surprise" class="favlink" title="Link to this item">#</a>
-  - Merce Cunningham <a id="merce-cunningham" href="#merce-cunningham" class="favlink" title="Link to this item">#</a>
-    - The only way to do it is to do it. (The Dancer and the Dance (1985), with Jacqueline Lesschaeve) <a id="the-only-way-to-do" href="#the-only-way-to-do" class="favlink" title="Link to this item">#</a>
-  - Earl Parson <a id="earl-parson" href="#earl-parson" class="favlink" title="Link to this item">#</a>
-    - Littler is cuter <a id="littler-is-cuter" href="#littler-is-cuter" class="favlink" title="Link to this item">#</a>
-  - Edna Mode <a id="edna-mode" href="#edna-mode" class="favlink" title="Link to this item">#</a>
-    - Fight. Win! <a id="fight-win" href="#fight-win" class="favlink" title="Link to this item">#</a>
-  - Hogarth Hughes <a id="hogarth-hughes" href="#hogarth-hughes" class="favlink" title="Link to this item">#</a>
-    - You are who you choose to be. <a id="you-are-who-you-choose" href="#you-are-who-you-choose" class="favlink" title="Link to this item">#</a>
-  - Anjali <a id="anjali" href="#anjali" class="favlink" title="Link to this item">#</a>
-    - At this point in my life, I've decided... if something makes me anxious... I'm just not gonna do it. <a id="at-this-point-in-my" href="#at-this-point-in-my" class="favlink" title="Link to this item">#</a>
-  - Eli Walls <a id="eli-walls" href="#eli-walls" class="favlink" title="Link to this item">#</a>
-    - We have a daily reprieve from alcohol contingent on our spiritual maintenance. <a id="we-have-a-daily-reprieve" href="#we-have-a-daily-reprieve" class="favlink" title="Link to this item">#</a>
-  - Emma Gonna <a id="emma-gonna" href="#emma-gonna" class="favlink" title="Link to this item">#</a>
-    - You know what that means... seppuku. <a id="you-know-what-that-means" href="#you-know-what-that-means" class="favlink" title="Link to this item">#</a>
-
+1. I would just risk it. – Daniel Naroditsky <a id="i-would-just-risk-it" href="#i-would-just-risk-it" class="favlink" title="Link to this item">#</a>
+2. There’s nothing of any importance in life except how well you do your work. Only that. Whatever else you are will come from that. It’s the only measure of human value. – Ayn Rand <a id="there-s-nothing-of-any-important" href="#there-s-nothing-of-any-important" class="favlink" title="Link to this item">#</a>
+3. James, you ought to discover some day that words have an exact meaning. – Ayn Rand <a id="james-you-ought-to-discover" href="#james-you-ought-to-discover" class="favlink" title="Link to this item">#</a>
+4. Whenever one man is found sufficient to the discharge of a duty it is worse done by two persons and scarcely done at all if three or more are employed therein. – George Washington <a id="whenever-one-man-is-found" href="#whenever-one-man-is-found" class="favlink" title="Link to this item">#</a>
+5. This is the part of the job I hate. – Phil Hartman <a id="this-is-the-part-of" href="#this-is-the-part-of" class="favlink" title="Link to this item">#</a>
+6. Happy? I'm going to be a storm. A flame! I want to fight whole armies all alone! I have ten hearts. I have a hundred arms! I feel too strong to war with mortals—bring me giants! (Cyrano de Bergerac, 1950 film (Jose Ferrer)) – Cyrano <a id="happy-i-m-going-to-be" href="#happy-i-m-going-to-be" class="favlink" title="Link to this item">#</a>
+7. And then I saw something shiny, and I put it in my shiny things box. – Reese <a id="and-then-i-saw-something" href="#and-then-i-saw-something" class="favlink" title="Link to this item">#</a>
+8. Speed Kills – Peter Zirbel <a id="speed-kills" href="#speed-kills" class="favlink" title="Link to this item">#</a>
+9. You have a formidable intellect. Use it for good, not for evil. – Peter Zirbel <a id="you-have-a-formidable-intellect" href="#you-have-a-formidable-intellect" class="favlink" title="Link to this item">#</a>
+10. Let the Dragonborn do it. It will make for a better song. (Skyrim) – Ulfric Stormcloak <a id="let-the-dragonborn-do-it" href="#let-the-dragonborn-do-it" class="favlink" title="Link to this item">#</a>
+11. Do your crying but do it at night. – Seamus Riley <a id="do-your-crying-but-do" href="#do-your-crying-but-do" class="favlink" title="Link to this item">#</a>
+12. All one needs to judge the quality of an architect is to look at the quality of his stairway. – Seamus Riley <a id="all-one-needs-to-judge" href="#all-one-needs-to-judge" class="favlink" title="Link to this item">#</a>
+13. We cannot always trust people, but we can always trust people to be the people that they are. – Seamus Riley <a id="we-cannot-always-trust-people" href="#we-cannot-always-trust-people" class="favlink" title="Link to this item">#</a>
+14. I don't want to go to heaven. None of my friends are there. – Oscar Wilde <a id="i-don-t-want-to-go" href="#i-don-t-want-to-go" class="favlink" title="Link to this item">#</a>
+15. Assume that, having chosen to be in focus, you elect to solve some problem by engaging in a process of thought. – Leonard Peikoff <a id="assume-that-having-chosen-to" href="#assume-that-having-chosen-to" class="favlink" title="Link to this item">#</a>
+16. I'm not too worried about it. – Mr. Krueger <a id="i-m-not-too-worried-about" href="#i-m-not-too-worried-about" class="favlink" title="Link to this item">#</a>
+17. I have to find something else for my whole life to be about. – Douglas Adams <a id="i-have-to-find-something" href="#i-have-to-find-something" class="favlink" title="Link to this item">#</a>
+18. The greater good? I am your wife. I am the greatest good you are ever gonna get. (The Incredibles) – Frozone's wife <a id="the-greater-good-i-am" href="#the-greater-good-i-am" class="favlink" title="Link to this item">#</a>
+19. Minimize Surprise – Neil Bright <a id="minimize-surprise" href="#minimize-surprise" class="favlink" title="Link to this item">#</a>
+20. The only way to do it is to do it. (The Dancer and the Dance (1985), with Jacqueline Lesschaeve) – Merce Cunningham <a id="the-only-way-to-do" href="#the-only-way-to-do" class="favlink" title="Link to this item">#</a>
+21. Littler is cuter – Earl Parson <a id="littler-is-cuter" href="#littler-is-cuter" class="favlink" title="Link to this item">#</a>
+22. Fight. Win! – Edna Mode <a id="fight-win" href="#fight-win" class="favlink" title="Link to this item">#</a>
+23. You are who you choose to be. – Hogarth Hughes <a id="you-are-who-you-choose" href="#you-are-who-you-choose" class="favlink" title="Link to this item">#</a>
+24. At this point in my life, I've decided... if something makes me anxious... I'm just not gonna do it. – Anjali <a id="at-this-point-in-my" href="#at-this-point-in-my" class="favlink" title="Link to this item">#</a>
+25. We have a daily reprieve from alcohol contingent on our spiritual maintenance. – Eli Walls <a id="we-have-a-daily-reprieve" href="#we-have-a-daily-reprieve" class="favlink" title="Link to this item">#</a>
+26. You know what that means... seppuku. – Emma Gonna <a id="you-know-what-that-means" href="#you-know-what-that-means" class="favlink" title="Link to this item">#</a>
+27. I mean that's a free patty… – Fifth Guy <a id="i-mean-that-s-a-free" href="#i-mean-that-s-a-free" class="favlink" title="Link to this item">#</a>
 </details>
 
 <style>
