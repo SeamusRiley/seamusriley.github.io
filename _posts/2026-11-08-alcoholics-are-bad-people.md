@@ -3,6 +3,7 @@ title: "Alcoholics are Bad People"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+published: false
 ---
 Too often I hear statements to the effect of "He's not a bad guy, he's just [insert horrible failing]"
 
