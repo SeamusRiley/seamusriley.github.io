@@ -1056,6 +1056,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
   - Recommended by Me
 - Miracleman
   - Recommended by Me
+- Moby Dick
+  - Written by Herman Melville
 - Mr. A
   - Recommended by Me
 - Myths to Live By
