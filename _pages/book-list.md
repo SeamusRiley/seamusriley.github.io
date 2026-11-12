@@ -1081,6 +1081,8 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 - The Shame Core
   - Written by John Bradshaw
   - Recommended by Andrew Dowdy
+- The Time it Never Rained
+  - Written by Elmer Kelton
 - Touching the Art
   - Written by Luc Travers
   - Recommended by Me
