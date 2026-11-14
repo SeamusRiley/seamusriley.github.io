@@ -1,6 +1,8 @@
 ---
 title: "Madison Objectivist Group"
-permalink: /madison-objectivist-group/
+permalink: /mog/
+redirect_from:
+  - /madison-objectivist-group/
 layout: single
 sidebar:
   nav: false
