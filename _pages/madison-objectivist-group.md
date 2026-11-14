@@ -26,6 +26,7 @@ There is an RCS chat for posting meeting times and locations. Any outreach activ
 ## Policies
 
 - Friends and significant others are welcome to attend events so long as they're thoughtful and trusted people, but only Objectivists are full members with group chat access. 
+- Membership is reserved for those who have a significant grasp of Objectivist philosophy, consider themselves Objectivists or students of Objectivism, and are reasonably successful in living according to the principles of rational self-interest.
 - There are no dues.
 - There is no quorum for gatherings. I just do my best to make them worth attending for the largest number possible, and I invite people I'd be comfortable chatting with even if it was just us two.
 - Membership is anonymous, and group photos are to be posted only inside the Facebook group and in the RCS chat unless specific approval to share publicly is granted by those in the photo.
