@@ -19,6 +19,10 @@ Not debate, not education, and not "outreach", just the occasional meeting with 
 
 There is an RCS chat for posting meeting times and locations. Any outreach activities conducted by MOG or its members are secondary to the group's core purpose.
 
+## Calendar
+
+<img src="/assets/images/mog-year-timeline.png" alt="Madison Objectivists Group year timeline: quarterly dinners in March, June, September, and December, with a picnic in April, a campfire in July, and a hike in October" style="width: 100%; height: auto;">
+
 ## Policies
 
 - Friends and significant others are welcome to attend events so long as they're thoughtful and trusted people, but only Objectivists are full members with group chat access. 
