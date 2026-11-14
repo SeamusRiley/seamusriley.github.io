@@ -63,6 +63,8 @@ Our favorite things say a lot about us. At a certain point I started recording m
         - Conan O'Brien <a id="conan-o-brien" href="#conan-o-brien" class="favlink" title="Link to this item">#</a>
         - Michael Stevens <a id="michael-stevens" href="#michael-stevens" class="favlink" title="Link to this item">#</a>
         - Dolly Parton <a id="dolly-parton" href="#dolly-parton" class="favlink" title="Link to this item">#</a>
+        - Gabe Newell <a id="gabe-newell" href="#gabe-newell" class="favlink" title="Link to this item">#</a>
+        - Charlie Munger <a id="charlie-munger" href="#charlie-munger" class="favlink" title="Link to this item">#</a>
     - Guy/Gal (Life Generalist) <a id="guy-gal-life-generalist" href="#guy-gal-life-generalist" class="favlink" title="Link to this item">#</a>
       - Arthur Zey <a id="arthur-zey" href="#arthur-zey" class="favlink" title="Link to this item">#</a>
     - Person <a id="person" href="#person" class="favlink" title="Link to this item">#</a>
