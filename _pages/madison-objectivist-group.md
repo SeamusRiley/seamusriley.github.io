@@ -30,6 +30,7 @@ There is an RCS chat for posting meeting times and locations. Any outreach activ
 - There are no dues.
 - There is no quorum for gatherings. I just do my best to make them worth attending for the largest number possible, and I invite people I'd be comfortable chatting with even if it was just us two.
 - Friends and significant others are welcome to attend events so long as they're thoughtful and trusted people, but only Objectivists are full members with group chat access.
+- Events listed on the calendar are merely a consistent baseline. Members are welcome to invite each other out to chat at their own discretion, and are welcome to promote any Objectivism-related local activities to the RCS chat.
 
 ## Socials (If you're into that sort of thing)
 
