@@ -1,5 +1,5 @@
 ---
-title: "Madison Objectivist Group"
+title: "Madison Objectivists Group"
 permalink: /mog/
 redirect_from:
   - /madison-objectivist-group/
@@ -13,7 +13,7 @@ author_profile: false
 
 ## Purpose
 
-The purpose of Madison Objectivist group is to host enriching conversational meetings every 2-3 months with local Objectivists.
+The purpose of Madison Objectivists Group is to host enriching conversational meetings every 2-3 months with local Objectivists.
 
 Not debate, not education, and not "outreach", just the occasional meeting with sane people. There is no online forum, but I do manage a digital storefront on various social media so as to make the group findable to objectivists living in or visiting Madison.
 
