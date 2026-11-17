@@ -15,4 +15,4 @@ That is what this quote from Cyrano De Bergerac means to me. It is "mea culpa" w
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">The king fell ill after eight helpings of grape marmalade. Grape marmalade will no longer be served at court.</p>&mdash; Seamus Riley (@SaemusRiley) <a href="https://x.com/SaemusRiley/status/2042250562268230138">April 9, 2026</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<img src="/assets/images/grape-marmalade-tweet.png" alt="Pinned tweet by Seamus Riley" style="max-width: 600px; width: 100%; height: auto;">
+<p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 0.25rem;">My pinned tweet as of 2026-11-17</p>
