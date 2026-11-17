@@ -6,6 +6,8 @@ author_profile: true
 sitemap: false
 ---
 
+<img src="/assets/images/cyrano-still.png" alt="Roxane and Cyrano, from the 1950 film Cyrano de Bergerac" style="width: 100%; height: auto;">
+
 I make a lot of mistakes in my life. I get a lot of things right. I very jealously guard my right to make mistakes for myself, and field bold opinions, and ultimately change my mind. To me: it is consciousness itself.
 
 The alternative: "epistemic humility" and skepticism strikes me as a terrible anesthetic on value pursuit. In my opinion we should all—by all means—blaze ahead with what limited information we have and meet the moment. Naturally this leads to errors that we have to laugh off.
