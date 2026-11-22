@@ -207,6 +207,8 @@ Our favorite things say a lot about us. At a certain point I started recording m
 25. We have a daily reprieve from alcohol contingent on our spiritual maintenance. – Eli Walls <a id="we-have-a-daily-reprieve" href="#we-have-a-daily-reprieve" class="favlink" title="Link to this item">#</a>
 26. You know what that means... seppuku. – Emma Gonna <a id="you-know-what-that-means" href="#you-know-what-that-means" class="favlink" title="Link to this item">#</a>
 27. I mean that's a free patty… – Fifth Guy <a id="i-mean-that-s-a-free" href="#i-mean-that-s-a-free" class="favlink" title="Link to this item">#</a>
+28. Never Miss Twice – James Clear <a id="never-miss-twice" href="#never-miss-twice" class="favlink" title="Link to this item">#</a>
+29. That guy... that is not my kind of guy. – Jerry Stiller <a id="that-guy-that-is-not" href="#that-guy-that-is-not" class="favlink" title="Link to this item">#</a>
 </details>
 
 <style>
