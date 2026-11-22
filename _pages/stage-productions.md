@@ -14,13 +14,14 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/movies-shows/">Movie
 
 <table class="sortable">
 <thead>
-<tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th></tr>
+<tr><th>Rating</th><th>Name</th><th>Author</th><th>Recommender</th><th>Review</th></tr>
 </thead>
 <tbody>
-<tr><td>1/2 Nice</td><td>Come From Away</td><td>Irene Sankoff and David Hein</td><td>Patrick Healey</td></tr>
-<tr><td>1/2 Nice</td><td>The Guy Who Didn&#x27;t Like Musicals</td><td>Nick and Matt Lang</td><td>Lee O&#x27;Dell</td></tr>
-<tr><td>2/2 Wonderful</td><td>Hamilton</td><td>Lin-Manuel Miranda</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td>Les Miserables</td><td>Alain Boublil and Claude-Michel Schönberg</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Come From Away</td><td>Irene Sankoff and David Hein</td><td>Patrick Healey</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>The Guy Who Didn&#x27;t Like Musicals</td><td>Nick and Matt Lang</td><td>Lee O&#x27;Dell</td><td>&mdash;</td></tr>
+<tr><td>2/2 Wonderful</td><td>Hamilton</td><td>Lin-Manuel Miranda</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td>Les Miserables</td><td>Alain Boublil and Claude-Michel Schönberg</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>0/2 Not For Me</td><td>You&#x27;re a Good Man, Charlie Brown</td><td>Clark Gesner</td><td>&mdash;</td><td><a href="/stage-productions/youre-a-good-man-charlie-brown/">Review</a></td></tr>
 </tbody>
 </table>
 
