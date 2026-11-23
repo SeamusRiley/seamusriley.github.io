@@ -246,7 +246,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <div class="bk-spine" data-genre="philosophy" data-w="27" style="width:27px;height:233.8px;background:#1e4d3d"><a href="/books/the-ominous-parallels/" title="The Ominous Parallels" style="max-height:221.8px"><strong>The Ominous Parallels</strong> &#9733;</a></div>
 <div class="bk-spine" data-genre="philosophy" data-w="36" style="width:36px;height:267.2px;background:#1e4d3d"><a href="/books/opar/" title="OPAR (Objectivism: The Philosophy of Ayn Rand)" style="max-height:255.2px">OPAR</a></div>
 <div class="bk-spine" data-genre="philosophy" data-w="27" style="width:27px;height:217.0px;background:#1e4d3d"><a href="/books/introduction-to-objectivist-epistemology/" title="Introduction to Objectivist Epistemology" style="max-height:205.0px"><strong>ITOE</strong></a></div>
-<div class="bk-spine" data-genre="philosophy" data-w="27" style="width:27px;height:217.0px;background:#1e4d3d"><a href="/books/the-romantic-manifesto/" title="The Romantic Manifesto" style="max-height:205.0px">The Romantic Manifesto</a></div>
+<div class="bk-spine" data-genre="philosophy" data-w="27" style="width:27px;height:217.0px;background:#1e4d3d"><a href="/books/the-romantic-manifesto/" title="The Romantic Manifesto" style="max-height:205.0px">The Romantic Manifesto &#9733;</a></div>
 <div class="bk-spine" data-genre="philfic" data-w="20" style="width:20px;height:187.0px;background:#2f6b4f"><a href="/books/anthem/" title="Anthem" style="max-height:175.0px">Anthem &#9733;</a></div>
 <div class="bk-spine" data-genre="philfic" data-w="36" style="width:36px;height:249.0px;background:#2f6b4f"><a href="/books/atlas-shrugged/" title="Atlas Shrugged" style="max-height:237.0px"><strong>Atlas Shrugged</strong> &#9733;</a></div>
 <div class="bk-spine" data-genre="philfic" data-w="36" style="width:36px;height:249.0px;background:#2f6b4f"><a href="/books/the-fountainhead/" title="The Fountainhead" style="max-height:237.0px"><strong>The Fountainhead</strong> &#9733;</a></div>
@@ -784,7 +784,7 @@ Also includes comic strips and anthologies. See Also <a href="/movies-shows/">Mo
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-restaurant-at-the-end-of-the-universe/">The Restaurant at the End of the Universe (The Hitchhiker&#x27;s Guide to the Galaxy, #2)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/the-river/">The River</a></td><td>Gary Paulsen</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>1/2 Nice</td><td><a href="/books/robinson-crusoe/">Robinson Crusoe</a></td><td>Daniel Defoe</td><td>&mdash;</td><td>&mdash;</td></tr>
-<tr><td>1/2 Nice</td><td><a href="/books/the-romantic-manifesto/">The Romantic Manifesto</a></td><td>Ayn Rand</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td>1/2 Nice</td><td><a href="/books/the-romantic-manifesto/">The Romantic Manifesto</a></td><td>Ayn Rand</td><td>&mdash;</td><td><a href="/books/the-romantic-manifesto/">Review</a></td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/rootless/">Rootless (Rootless, #1)</a></td><td>Chris Howard</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/a-single-shard/">A Single Shard</a></td><td>Linda Sue Park</td><td>&mdash;</td><td>&mdash;</td></tr>
 <tr><td>2/2 Wonderful</td><td><a href="/books/so-long-and-thanks-for-all-the-fish/">So Long, and Thanks for All the Fish (The Hitchhiker&#x27;s Guide to the Galaxy, #4)</a></td><td>Douglas Adams</td><td>&mdash;</td><td>&mdash;</td></tr>
