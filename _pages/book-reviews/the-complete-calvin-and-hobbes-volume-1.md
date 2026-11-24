@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-complete-calvin-and-hobbes-volume-1/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

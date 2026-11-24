@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-green-glass-sea/
 category: "Fiction - Classics & Literary Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

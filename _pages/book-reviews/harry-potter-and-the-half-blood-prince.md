@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/harry-potter-and-the-half-blood-prince/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

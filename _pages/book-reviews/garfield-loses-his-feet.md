@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-loses-his-feet/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

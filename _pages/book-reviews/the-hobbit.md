@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-hobbit/
 category: "Fiction - Fantasy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

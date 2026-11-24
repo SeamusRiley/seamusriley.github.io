@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-swiss-family-robinson/
 category: "Fiction - Classics & Literary Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

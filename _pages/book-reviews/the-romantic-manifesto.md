@@ -6,7 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-romantic-manifesto/
 category: "Non-Fiction - Philosophy"
-excerpt: "The Romantic Manifesto by Ayn Rand. Rated 1/2 Nice. This is Rand at her most Rand, for better and for worse. Much of the book is spent reiterating that most works are plotless and valueless or…"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
@@ -131,6 +131,11 @@ excerpt: "The Romantic Manifesto by Ayn Rand. Rated 1/2 Nice. This is Rand at he
 **Recommender:** &mdash;
 
 ### Review
+
+<figure>
+<img src="/assets/images/torumekia-warrior.jpg" alt="Torumekia's warrior">
+<figcaption>Torumekia's warrior adequately represents Rand's view of 1960s America's artistic status quo.</figcaption>
+</figure>
 
 This is Rand at her most Rand, for better and for worse. Much of the book is spent reiterating that most works are plotless and valueless or value-destroying. She says:
 

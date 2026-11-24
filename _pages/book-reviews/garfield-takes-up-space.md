@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-takes-up-space/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

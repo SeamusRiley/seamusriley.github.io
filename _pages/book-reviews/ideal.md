@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/ideal/
 category: "Fiction - Philosophy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

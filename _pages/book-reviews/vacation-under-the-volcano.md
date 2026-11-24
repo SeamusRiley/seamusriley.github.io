@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/vacation-under-the-volcano/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

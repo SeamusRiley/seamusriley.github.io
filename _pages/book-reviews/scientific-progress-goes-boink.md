@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/scientific-progress-goes-boink/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

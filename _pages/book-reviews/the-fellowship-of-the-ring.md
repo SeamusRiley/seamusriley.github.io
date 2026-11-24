@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-fellowship-of-the-ring/
 category: "Fiction - Fantasy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

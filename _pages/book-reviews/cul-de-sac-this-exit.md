@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/cul-de-sac-this-exit/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

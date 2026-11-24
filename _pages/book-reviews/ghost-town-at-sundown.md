@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/ghost-town-at-sundown/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

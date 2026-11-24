@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/mistborn-the-final-empire/
 category: "Fiction - Fantasy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

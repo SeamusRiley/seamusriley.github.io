@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/rootless/
 category: "Fiction - Dystopia"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

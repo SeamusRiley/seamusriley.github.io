@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/legend/
 category: "Fiction - Dystopia"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

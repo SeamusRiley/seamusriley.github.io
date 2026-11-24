@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/enders-game/
 category: "Fiction - Science Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-son-of-neptune/
 category: "Fiction - Fantasy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

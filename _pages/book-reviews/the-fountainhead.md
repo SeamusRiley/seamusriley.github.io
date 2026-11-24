@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-fountainhead/
 category: "Fiction - Philosophy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

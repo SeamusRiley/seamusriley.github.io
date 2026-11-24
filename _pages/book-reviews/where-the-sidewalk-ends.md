@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/where-the-sidewalk-ends/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/something-under-the-bed-is-drooling/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

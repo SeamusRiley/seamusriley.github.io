@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/afternoon-on-the-amazon/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

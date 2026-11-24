@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-by-the-pound/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

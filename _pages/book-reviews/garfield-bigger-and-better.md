@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-bigger-and-better/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

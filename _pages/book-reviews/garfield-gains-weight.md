@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-gains-weight/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

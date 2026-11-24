@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/attack-of-the-deranged-mutant-killer-monster-snow-goons/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

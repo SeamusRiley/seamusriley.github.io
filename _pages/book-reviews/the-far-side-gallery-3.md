@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-far-side-gallery-3/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

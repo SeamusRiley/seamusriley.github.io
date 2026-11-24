@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/brians-winter/
 category: "Fiction - Classics & Literary Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

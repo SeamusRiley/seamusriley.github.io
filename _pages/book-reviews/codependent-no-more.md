@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/codependent-no-more/
 category: "Non-Fiction - Mind & Self"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

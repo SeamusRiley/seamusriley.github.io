@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/the-restaurant-at-the-end-of-the-universe/
 category: "Fiction - Science Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

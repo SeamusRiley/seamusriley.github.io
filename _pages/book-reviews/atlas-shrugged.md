@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/atlas-shrugged/
 category: "Fiction - Philosophy"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

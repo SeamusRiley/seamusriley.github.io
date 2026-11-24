@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-feeds-the-kitty/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

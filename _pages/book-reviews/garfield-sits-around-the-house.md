@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/garfield-sits-around-the-house/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

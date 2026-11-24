@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/i-am-justice/
 category: "Fiction - Thriller"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

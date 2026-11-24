@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/sunset-of-the-sabertooth/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

@@ -5,6 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /movies-shows/adaptation/
+excerpt: "Review"
 ---
 
 [&larr; Back to Movies &amp; Shows](/movies-shows/)

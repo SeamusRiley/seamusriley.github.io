@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/so-long-and-thanks-for-all-the-fish/
 category: "Fiction - Science Fiction"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

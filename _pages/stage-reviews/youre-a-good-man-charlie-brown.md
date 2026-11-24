@@ -5,6 +5,7 @@ sidebar:
   nav: false
 author_profile: false
 permalink: /stage-productions/youre-a-good-man-charlie-brown/
+excerpt: "Review"
 ---
 
 [&larr; Back to Stage Productions](/stage-productions/)

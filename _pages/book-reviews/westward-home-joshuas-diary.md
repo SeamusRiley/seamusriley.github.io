@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/westward-home-joshuas-diary/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

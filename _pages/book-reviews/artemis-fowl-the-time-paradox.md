@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/artemis-fowl-the-time-paradox/
 category: "Fiction - Children's & Middle Grade"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

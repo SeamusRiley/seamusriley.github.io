@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /books/yukon-ho/
 category: "Comics & Collections"
+excerpt: "Review"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
