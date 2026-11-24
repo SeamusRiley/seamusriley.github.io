@@ -134,3 +134,6 @@ excerpt: "Review"
 ### Review
 
 Enjoyable writing from Piekoff, and greatly deepened my understanding of the Nazis and the extent of their mysticism and pragmatism.
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">💯. My takeaway from The Ominous Parallels was that fascism was a greater danger to Germany and the US than communism *because* it had so many contradictory and good-sounding ideas and empty allusions to liberty. Now objectivists are falling for exactly that trap.</p>&mdash; Seamus Riley 🧹 (@SaemusRiley) <a href="https://x.com/SaemusRiley/status/1853588899236376586?ref_src=twsrc%5Etfw">November 5, 2024</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
