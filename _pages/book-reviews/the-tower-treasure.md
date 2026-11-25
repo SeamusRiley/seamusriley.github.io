@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-tower-treasure/
 category: "Fiction - Children's & Middle Grade"
 excerpt: "Review"
+review_date: "2026-10-25"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

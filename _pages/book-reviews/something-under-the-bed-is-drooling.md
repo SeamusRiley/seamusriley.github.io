@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/something-under-the-bed-is-drooling/
 category: "Comics & Collections"
 excerpt: "Review"
+review_date: "2026-10-25"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

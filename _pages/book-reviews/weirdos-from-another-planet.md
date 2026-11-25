@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/weirdos-from-another-planet/
 category: "Comics & Collections"
 excerpt: "Review"
+review_date: "2026-10-25"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

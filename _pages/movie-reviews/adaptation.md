@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /movies-shows/adaptation/
 excerpt: "Review"
+review_date: "2026-10-25"
 ---
 
 [&larr; Back to Movies &amp; Shows](/movies-shows/)

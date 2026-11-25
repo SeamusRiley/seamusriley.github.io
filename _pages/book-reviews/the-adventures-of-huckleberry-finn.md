@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-adventures-of-huckleberry-finn/
 category: "Fiction - Classics & Literary Fiction"
 excerpt: "Review"
+review_date: "2026-10-25"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
