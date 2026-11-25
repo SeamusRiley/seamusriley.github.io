@@ -209,6 +209,7 @@ Our favorite things say a lot about us. At a certain point I started recording m
 27. I mean that's a free patty… – Fifth Guy <a id="i-mean-that-s-a-free" href="#i-mean-that-s-a-free" class="favlink" title="Link to this item">#</a>
 28. Never Miss Twice – James Clear <a id="never-miss-twice" href="#never-miss-twice" class="favlink" title="Link to this item">#</a>
 29. That guy... that is not my kind of guy. – Jerry Stiller <a id="that-guy-that-is-not" href="#that-guy-that-is-not" class="favlink" title="Link to this item">#</a>
+30. Forbearance is the hallmark of your creed – Mary Poppins <a id="forbearance-is-the-hallmark" href="#forbearance-is-the-hallmark" class="favlink" title="Link to this item">#</a>
 </details>
 
 <style>
