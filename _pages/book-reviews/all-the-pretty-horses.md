@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/all-the-pretty-horses/
 category: "Fiction - Classics & Literary Fiction"
 excerpt: "Review"
+review_date: "2026-02-23"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

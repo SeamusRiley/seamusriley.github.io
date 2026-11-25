@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/we-the-living/
 category: "Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2022-05-01"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

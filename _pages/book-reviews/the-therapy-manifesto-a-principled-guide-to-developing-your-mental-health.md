@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-therapy-manifesto-a-principled-guide-to-developing-your-mental-health/
 category: "Non-Fiction - Mind & Self"
 excerpt: "Review"
+review_date: "2025-09-01"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/i-am-justice/
 category: "Fiction - Thriller"
 excerpt: "Review"
+review_date: "2023-10-22"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

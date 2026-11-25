@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/atlas-shrugged/
 category: "Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2019-07-01"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

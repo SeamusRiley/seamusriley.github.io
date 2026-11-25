@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/ideal/
 category: "Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2023-10-10"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

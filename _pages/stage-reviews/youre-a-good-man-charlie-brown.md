@@ -6,6 +6,7 @@ sidebar:
 author_profile: false
 permalink: /stage-productions/youre-a-good-man-charlie-brown/
 excerpt: "Review"
+review_date: "2026-11-21"
 ---
 
 [&larr; Back to Stage Productions](/stage-productions/)

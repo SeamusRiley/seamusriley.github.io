@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen/
 category: "Non-Fiction"
 excerpt: "Review"
+review_date: "2018-01-01"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

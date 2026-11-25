@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-fall-line/
 category: "Fiction - Classics & Literary Fiction"
 excerpt: "Review"
+review_date: "2024-08-04"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

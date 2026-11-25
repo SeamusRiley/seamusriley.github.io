@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-fountainhead/
 category: "Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2018-12-01"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

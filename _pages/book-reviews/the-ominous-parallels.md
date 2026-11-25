@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/the-ominous-parallels/
 category: "Non-Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2026-11-23"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)

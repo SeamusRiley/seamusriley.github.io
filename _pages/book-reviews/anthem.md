@@ -7,6 +7,7 @@ author_profile: false
 permalink: /books/anthem/
 category: "Fiction - Philosophy"
 excerpt: "Review"
+review_date: "2020-02-17"
 ---
 
 [&larr; Back to Bookshelf](/books/#bookshelf)
