@@ -116,6 +116,9 @@ See Also <a href="/books/">Books I Have Read</a>, <a href="/stage-productions/">
   - Recommended by Me
 - No Country for Old Men
   - Recommended by Me
+- Planes, Trains and Automobiles
+  - Directed by John Hughes
+  - Recommended by Joe
 - Popstar: Never Stop Never Stopping
   - Recommended by Me
 - Punch-Drunk Love
